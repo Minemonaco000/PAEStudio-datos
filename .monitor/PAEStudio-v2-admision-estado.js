@@ -1,0 +1,1 @@
+window.PAES_ADMISSIONS_UPDATE_STATUS={"schemaVersion": 1, "checkedAt": "2026-09-26T04:56:43.424436+00:00", "message": "La revisión no detectó cambios en las fuentes vigiladas. Se conserva el catálogo verificado de admisión 2027.", "automatic": true, "catalogVersion": "2026.09.26.3", "pending": [], "errors": [], "checkedSources": 284, "totalSources": 284};

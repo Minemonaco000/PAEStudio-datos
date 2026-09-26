@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "sequence": 1,
+  "minAppVersion": "2.46.0",
+  "publishedAt": "2026-09-26T05:05:26.217848+00:00",
+  "catalogVersion": "2026.09.26.3",
+  "tablesVersion": "2026-09-22",
+  "catalog": {
+    "file": "catalog.bb5da76efbd239044cf339721096337a1c7865ae6c64e14e4dea4b9747b7b4a8.json",
+    "sha256": "bb5da76efbd239044cf339721096337a1c7865ae6c64e14e4dea4b9747b7b4a8",
+    "bytes": 3276875
+  },
+  "tables": {
+    "file": "score-tables.b84d675094fa2503c0705b04c9b9c554e3b1d46476eea4e6faf4a2d9d586a344.json",
+    "sha256": "b84d675094fa2503c0705b04c9b9c554e3b1d46476eea4e6faf4a2d9d586a344",
+    "bytes": 17550
+  },
+  "status": {
+    "checkedAt": "2026-09-26T04:56:43.424436+00:00",
+    "checkedSources": 284,
+    "totalSources": 284,
+    "pending": 0,
+    "errors": 0
+  }
+}
