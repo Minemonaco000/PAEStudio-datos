@@ -54,6 +54,25 @@ class MonitorTests(unittest.TestCase):
         self.assertNotEqual(m.fingerprint(spec,page.encode()),m.fingerprint(spec,page.replace('937,8','939,0').encode()))
         with self.assertRaises(ValueError):m.fingerprint(spec,b'<table>Redes sociales</table>')
 
+    def test_ubb_chain_keeps_hostname_root_and_certificate_validation(self):
+        context=m.source_tls_context('https://www.ubiobio.cl/admision/')
+        self.assertTrue(context.check_hostname)
+        self.assertEqual(context.verify_mode,m.ssl.CERT_REQUIRED)
+        self.assertFalse(context.verify_flags & getattr(m.ssl,'VERIFY_X509_PARTIAL_CHAIN',0))
+        self.assertIsNone(m.source_tls_context('https://demre.cl/'))
+        self.assertIsNone(m.source_tls_context('https://www.ubiobio.cl.example.com/'))
+
+    def test_modified_intermediate_is_rejected(self):
+        import tempfile
+        original=m.TLS_INTERMEDIATE
+        with tempfile.TemporaryDirectory() as tmp:
+            m.TLS_INTERMEDIATE=Path(tmp)/'modified.pem'
+            m.TLS_INTERMEDIATE.write_text(original.read_text().replace('MIIF','NIIF',1))
+            try:
+                with self.assertRaisesRegex(ValueError,'hash mismatch'):
+                    m.source_tls_context('https://www.ubiobio.cl/')
+            finally:m.TLS_INTERMEDIATE=original
+
     def test_monitor_covers_all_fifteen_tables_and_the_discovery_index(self):
         catalog=__import__('json').loads((m.DATA/'catalog.json').read_text())
         targets=m.sources(catalog)

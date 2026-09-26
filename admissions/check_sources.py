@@ -20,6 +20,7 @@ import json
 import os
 import re
 import stat
+import ssl
 import subprocess
 import tempfile
 import urllib.error
@@ -137,6 +138,22 @@ def fingerprint(spec, data):
     return digest(text.encode())
 
 
+TLS_INTERMEDIATE = DATA / 'tls/gogetssl-rsa-dv-ca.pem'
+TLS_DER_SHA256 = '43cac31ef8e8ba1b4b16b8206e4c0a26c5badb2fc3aa09e90170e41b66c2fd64'
+
+
+def source_tls_context(url):
+    if urllib.parse.urlparse(url).hostname not in ('ubiobio.cl', 'www.ubiobio.cl'):
+        return None
+    pem = TLS_INTERMEDIATE.read_text()
+    if digest(ssl.PEM_cert_to_DER_cert(pem)) != TLS_DER_SHA256:
+        raise ValueError('Intermediate certificate hash mismatch')
+    context = ssl.create_default_context()
+    context.verify_flags &= ~getattr(ssl, 'VERIFY_X509_PARTIAL_CHAIN', 0)
+    context.load_verify_locations(cadata=pem)
+    return context
+
+
 def fetch(spec, previous):
     headers = {'User-Agent':'PAEStudio-admissions-check/1.0', 'Accept':'*/*'}
     for key, header in [('etag','If-None-Match'), ('modified','If-Modified-Since')]:
@@ -144,7 +161,7 @@ def fetch(spec, previous):
     body = urllib.parse.urlencode(spec['form']).encode() if 'form' in spec else None
     request = urllib.request.Request(spec['url'], data=body, headers=headers)
     try:
-        with urllib.request.urlopen(request, timeout=25) as response:
+        with urllib.request.urlopen(request, timeout=25, context=source_tls_context(spec['url'])) as response:
             data = response.read(24*1024*1024+1)
             if len(data)>24*1024*1024: raise ValueError('Fuente demasiado grande.')
             return dict(hash=fingerprint(spec,data), etag=response.headers.get('ETag'), modified=response.headers.get('Last-Modified'))
