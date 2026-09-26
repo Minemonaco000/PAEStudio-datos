@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "decision": "approved",
   "reviewer": "Revisión técnica interna de PAEStudio",
-  "reviewedAt": "2026-09-26T04:54:11.836435+00:00",
-  "reason": "Se añaden 1561 programas con corte ponderado y se actualizan 43 referencias de 2025 a 2026: total 2109 programas. Mínimo de PTJE_PREF en REGULAR/ESTADO_PREF=24 de bases oficiales Mineduc 2026; recuentos completos contrastados con NUM_SELEC_REG del DEMRE. Dos cálculos independientes, Python Decimal y SQL, y 167 coincidencias exactas con fuentes universitarias. Se excluyen cuatro códigos con recuentos incompletos. Evidencia reproducible: admissions/research-cutoffs-20260926-r2/. Sin cambios en la oferta 2027 ni progreso.",
+  "reviewedAt": "2026-09-26T05:25:43.668141+00:00",
+  "reason": "Revisión trazable de 68 opciones: 11 nuevos cortes, 57 pendientes documentadas. Rangos y última posición contrastados con cantidades DEMRE, años preservados. Sin cambios en requisitos y ponderaciones 2027.",
   "sourceURLs": [
     "https://admision.ucn.cl/carreras/arquitectura-construccion-obras/arquitectura/",
     "https://admision.ucn.cl/carreras/arquitectura-construccion-obras/ingenieria-civil-en-construccion/",
@@ -164,6 +164,8 @@
     "https://admision.ufro.cl/tecnologia-medica/",
     "https://admision.ufro.cl/terapia-ocupacional/",
     "https://admision.ufro.cl/trabajo-social/",
+    "https://admision.usach.cl/index.php/carreras/ingenieria-civil-en-informatica",
+    "https://admision.uta.cl/wp-content/uploads/2023/12/PUNTAJES-PONDERADOS-ULTIMO-MATRICULADO-2023.pdf",
     "https://admision.utalca.cl/ponderaciones-vacantes-puntajes/",
     "https://admision.uv.cl/carreras/administracion-hotelera-y-gastronomica",
     "https://admision.uv.cl/carreras/administracion-publica",
@@ -214,6 +216,8 @@
     "https://admision.uv.cl/carreras/tecnologia-medica",
     "https://admision.uv.cl/carreras/trabajo-social",
     "https://datosabiertos.mineduc.cl/pruebas-de-admision-a-la-educacion-superior/",
+    "https://datosabiertos.mineduc.cl/wp-content/uploads/2025/05/PAES-2025-Oferta-Definitiva-Programas.rar",
+    "https://datosabiertos.mineduc.cl/wp-content/uploads/2025/05/PAES_2025_Postulantes_Totales.rar",
     "https://datosabiertos.mineduc.cl/wp-content/uploads/2026/07/PAES-2026-Oferta-Definitiva-Programas.rar",
     "https://datosabiertos.mineduc.cl/wp-content/uploads/2026/07/PAES-2026-Postulantes.rar",
     "https://demre.cl/paes/factores-seleccion/tabla-transformacion-puntajes",
@@ -227,6 +231,7 @@
     "https://www.fcm.usach.cl/es/node/1410",
     "https://www.fcm.usach.cl/es/node/1411",
     "https://www.fcm.usach.cl/es/node/1433",
+    "https://www.uantof.cl/carreras/artes-musicales/",
     "https://www.ubiobio.cl/admision/Sede_Chillan/16/Contador_Publico_y_Auditor_Chillan/",
     "https://www.ubiobio.cl/admision/Sede_Chillan/18/Ingenieria_Civil_en_Informatica_Chillan/",
     "https://www.ubiobio.cl/admision/Sede_Chillan/20/Ingenieria_Comercial_Chillan/",
@@ -271,6 +276,6 @@
     "https://www.ubiobio.cl/admision/Sede_Concepcion/7/Ingenieria_Civil/",
     "https://www.ubiobio.cl/admision/Sede_Concepcion/9/Ingenieria_Civil_en_Automatizacion/"
   ],
-  "catalogSHA256": "bb5da76efbd239044cf339721096337a1c7865ae6c64e14e4dea4b9747b7b4a8",
+  "catalogSHA256": "80959604969f017ebc7fd03fabd90daf952ba22536369b5eeb2c74f7f737fedf",
   "tablesSHA256": "b84d675094fa2503c0705b04c9b9c554e3b1d46476eea4e6faf4a2d9d586a344"
 }

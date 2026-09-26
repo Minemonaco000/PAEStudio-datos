@@ -28,7 +28,16 @@ def validate_catalog(c):
             require(all(type(p[k]) in [int,float] and 0<=p[k]<=1000 for k in ['minWeighted','minAverage']) and 0<=p['vacancies']<=100000,'threshold')
         for x in p['cutoffs']:
             require(2023<=x['year']<=c['targetYear'] and 100<=x['score']<=1000 and x['source'].startswith('https://'),'cutoff')
-            if 'method' in x: require(x['method']=='mineduc-regular-selected-v1' and x['kind']=='selected' and x['year']==2026 and type(x['observations']) is int and x['observations']>0 and x['observations']==p.get('selectionStats',{}).get('regularSelected'),'cutoff aggregation')
+            if 'method' in x:
+                require(x['kind']=='selected' and type(x['observations']) is int and x['observations']>0,'cutoff observations')
+                if x['method']=='mineduc-regular-selected-v1': require(x['year']==2026 and x['observations']==p.get('selectionStats',{}).get('regularSelected'),'cutoff aggregation')
+                else:
+                    require(x['method']=='mineduc-regular-ranked-v1' and x['year'] in [2025,2026] and type(x['selectedCount']) is int and 0<x['selectedCount']<=100000 and x['lastRank']==x['selectedCount'] and x['countSource'].startswith('https://'),'cutoff last rank')
+                    require(isinstance(x['missingRanks'],list) and len(x['missingRanks'])==x['selectedCount']-x['observations'] and len(set(x['missingRanks']))==len(x['missingRanks']) and all(type(n) is int and 1<n<x['lastRank'] for n in x['missingRanks']),'missing selection boundary')
+                    if x['year']==2026: require(p.get('selectionStats',{}).get('regularSelected')==x['selectedCount'],'DEMRE count mismatch')
+                    require(all(isinstance(x[k],str) and 0<len(x[k])<500 for k in ['historicalName','historicalCampus']),'historical identity')
+        if 'cutoffReview' in p:
+            r=p['cutoffReview']; require(not p['cutoffs'] and r['source'].startswith('https://') and isinstance(r['note'],str) and len(r['note'])<2000,'cutoff review');date(r['checkedAt'])
         if 'selectionStats' in p:
             s=p['selectionStats'];require(type(s['year']) is int and 2023<=s['year']<c['offerYear'] and s['source'].startswith('https://'),'selection provenance');date(s['checkedAt'])
             require(all(type(s[k]) is int and 0<=s[k]<=100000 for k in ['regularVacancies','regularSelected']),'selection counts')
@@ -59,7 +68,7 @@ def build(data_dir, status_path, output_dir, review_path, now=None):
     previous=load(output_dir/'manifest.json') if (output_dir/'manifest.json').exists() else None
     refs={k:dict(file=('catalog' if k=='catalog' else 'score-tables')+'.'+sha(raw[k])+'.json',sha256=sha(raw[k]),bytes=len(raw[k])) for k in raw}
     public_status=dict(checkedAt=status['checkedAt'],checkedSources=status['checkedSources'],totalSources=status['totalSources'],pending=len(status['pending']),errors=len(status['errors']))
-    minimum_app='2.46.0' if any('selectionStats' in p for p in catalog['programs']) else '2.45.0'
+    minimum_app='2.55.0' if any(x.get('method')=='mineduc-regular-ranked-v1' for p in catalog['programs'] for x in p['cutoffs']) else '2.46.0' if any('selectionStats' in p for p in catalog['programs']) else '2.45.0'
     if previous:
         old=load(output_dir/previous['catalog']['file']);require(catalog['offerYear']>=old['offerYear'] and date(catalog['publishedAt'])>=date(old['publishedAt']) and date(catalog['checkedAt'])>=date(old['checkedAt']),'catalog rollback')
         old_t=load(output_dir/previous['tables']['file']);require(date(tables['checkedAt'])>=date(old_t['checkedAt']) and set(e['id'] for e in old_t['editions'])<=set(e['id'] for e in tables['editions']),'tables rollback')

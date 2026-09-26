@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-26T05:18:38.342610+00:00",
+  "checkedAt": "2026-09-26T05:44:19.362282+00:00",
   "message": "La revisión no detectó cambios en las fuentes vigiladas. Se conserva el catálogo verificado de admisión 2027.",
   "automatic": true,
-  "catalogVersion": "2026.09.26.3",
-  "verifiedCatalogueAt": "2026-09-26T04:54:11.836435+00:00",
+  "catalogVersion": "2026.09.26.4",
+  "verifiedCatalogueAt": "2026-09-26T05:25:43.668141+00:00",
   "baseline": {
     "demre-offer": "6ab6792072b3dd78fec1f602f6652d68fab81a57e2e428326e7c370661b43545",
     "demre-next": "ef9a544df2f45ecc2adde37652b385e41cd9fdd6932c4cc1f4840513ce9feaa6",
@@ -157,7 +157,6 @@
     "cutoff-146": "e0a8c93e9a15390da7d807a33306b54f41ce12c9b90dd2998955b7bb1d1a3712",
     "cutoff-147": "60df211eccf9dad4fdae60000379706ac550112ce20d6657dc14f502d4373789",
     "cutoff-148": "6f3ea1c37f6edc2dc248bfc3b92605deae62b16ed0257412702ed074e3145c94",
-    "cutoff-149": "30a02f8ae04c8376d28b2855e103dd56c7f74615c52f43288c6908c141206470",
     "cutoff-150": "ae5db5305e4953b25dbcc249529329807ed8b4619fecc7caa76dddb2208d4b31",
     "cutoff-151": "373d8dc4cab16ab25e3d2a9f4d95f2f12e13d1bdcef529fb1d7184d9bfd9d266",
     "cutoff-152": "30a707c7a4e5fc6f28025ce86a2fce69ae8c451944286297fdfaa2b2ed5caa45",
@@ -169,111 +168,116 @@
     "cutoff-158": "7a849dca014160cc3b94fc160c3147020b5288c6b993fb9409e700548dd8235e",
     "cutoff-159": "281aba6eafd304c43221c1c028d8e0e2d92abc0e3675cdbe6c2aa256f0a54571",
     "cutoff-160": "4fbb818c16b1e15a34ef7f6faf9ccd36623bf3b770c8d9ed9b7b1c0a81fd2958",
-    "cutoff-161": "6dd43ec6b0fe4e6ca9a9a895367ec39e70513f5b474575f19f2c371d06f7d9c2",
-    "cutoff-162": "4faad1384078231c873617410ce978e0fe2d5f6dc43591dd879546ff87edd949",
-    "cutoff-163": "64a66d084222ba0b3487300fa0818de7b403a1799ef1947bf1f6b8b91c3b8b3c",
-    "cutoff-164": "e74489fb385f52cfaea2a5435afd6e863ab352336100010cef8a074805ec5595",
-    "cutoff-165": "81cf7ebab77055ad0b147727539cb6e8c36c2ab1781a39aa9eecbc40f1c6d026",
-    "cutoff-166": "54442358799dac81b4c1c00e8ac92e86a661e162732308914d5091ba7fe4e9ea",
-    "cutoff-167": "2c66e4e289f594857a7de52f8cb16e6f6b1c4f116bb2ae8aa5efb8dd0d71d2a5",
-    "cutoff-168": "40a1946f717fc2e08d6d89eee9cb5af1ba4a047c5888a151e21c9c13049560ca",
-    "cutoff-169": "dea6e4ec23453f13baa4248310b1864edc7785a5a95d79fdfa21b1e179d8aa97",
-    "cutoff-170": "bcf6123a0046acc9ccd03800d1df543df2741b60f31d40cba5e20d6f8ac4593a",
-    "cutoff-171": "7cd0db31c450e468b00782842757beca909baf965b9a497af87d0edaeb2098be",
-    "cutoff-172": "52577525b34ed285b4198bd1f83ad2c8be8b08c32ae85933da61475fe545516d",
-    "cutoff-173": "d823ddb8c1abc0a4a15481e7c886fd6bb6cdc12b07b131f7e098c39011eb0b60",
-    "cutoff-174": "8a776fd8201f8fb57f36352fb7a00349a0e96a3ebd3e3f8807fe7348c29ea499",
-    "cutoff-175": "6ec1073eed7b21e1b62cd26f5ce714303e8393dd1369a6ccc91f3917152bd24f",
-    "cutoff-176": "2d19dadccb37b459d6cf4ed3cfd587f4570d56f84f6e6b13e8830e15bce5dbc2",
-    "cutoff-177": "2a0b7ffc4db451822382b2212801a38250db505bd73be76957f4ff215abe92ee",
-    "cutoff-178": "81e6b99bb6dbbd59924bf7f04beb92e5492e0978a77a57063478bdd1512b2746",
-    "cutoff-179": "37c2ee0501d593bac3c60cb01783393fb35530c971c9679f19beaededf8d0b5b",
-    "cutoff-180": "b2c86d6026cb15f3c84444397b7fe37a51e4508108005ddbd101df39c3966f3c",
-    "cutoff-181": "288afbd17ea2727dc217dde7d989cebe7f19c4632407c34ddd4e042478429676",
-    "cutoff-182": "b259b9e23bcb78997ab45886263995aa4b3e6796945843e29ae8dc0d561b1fe2",
-    "cutoff-183": "7d74fe9c31e694cb6f036100a2fb629445b49a02f2af98571d41f9ee798ff9bf",
-    "cutoff-184": "78740de35df6bfa1284ee687994d8114e9e54e4a3234d79680a6046f6c1af059",
-    "cutoff-185": "e547a2fe7430428d057120023b0cf672df0dec7dedd0d5cdc31a120ed90f8460",
-    "cutoff-186": "b4a99a22bd9a848ad751de761b29356920f4e95379cca28a3ee94939027281a8",
-    "cutoff-187": "0151f51db07031884d188240e88ced166daac93b27b7cb093ed60be2a2590548",
-    "cutoff-188": "c1551f14dbb1a8892927198e2d7fb04e603ebe83b4ab789a1ab4e11d46dcdd42",
-    "cutoff-189": "8b355b3b8deda06c95befcabdb405d52ce92ef4a2f36ed739e962c49346f16d5",
-    "cutoff-190": "b33fde626f8cee78be1313de56216ca94c34862480cc5c97d9e16725a4448d23",
-    "cutoff-191": "a6c7f2eccf01212b2119b3d8e63a37f7f8d42c65effa82587f8af595eb8d2188",
-    "cutoff-192": "dd303004b7448711866da13c03e1f17f65cee406c7808e32e36fbfbb9cde64ee",
-    "cutoff-193": "266530e478fd3e2599d68cea0b9d4938c3339e1a54841f063be824cd72068fee",
-    "cutoff-194": "c28bae40d4ea8713ee801354ae86be7fe22a282729ff15ec7456ebe96c840872",
-    "cutoff-195": "68762302f49ced45b7abf8e939ce5bb85b3ca602ac9f75e53e2d9a5c164abb37",
-    "cutoff-196": "5aeda076b97a684f0368f98728348d351f02a2772545fa5eebd1645191d84f67",
-    "cutoff-197": "46d2b9b8649d7e187a2f971d365b696fbd5b259bf63e7a21c070f2cb035cebdc",
-    "cutoff-198": "4a0bd92ea99853eecb9e3f8207b326e18a2b0d2b97c735daf02d1ab60b614b1c",
-    "cutoff-199": "1ad8f29158870e94b97ac7598364d941a68c29e2c68d1f231469f50228dd90f7",
-    "cutoff-200": "2659d808d7e975b8fdcf87022ff59694243c008ec5ee627581414d80082c7fc8",
-    "cutoff-201": "864c70d80a57753eee05a79fc189c36e0d30f02826bf71ef2bf43f077d507c2d",
-    "cutoff-202": "f753932ad65b725c18064d29327edbe15e9ffbc0ac2f122f45f3faaf27bd7687",
-    "cutoff-203": "9d923fd37bb66b0589f74c01ba894bdf80148c42143f8fc5538cc6a94ae7f8f8",
-    "cutoff-204": "e4945c7b2f7ca830a476ba0489605d8f11d3763e7a5a84a42fcbfef27cbad922",
-    "cutoff-205": "5ab5705a88b4878fe6f1aa8019421e2306efd1458277d854fa8d4d0e0347beda",
-    "cutoff-206": "bf8d9f31521c20edf4e4ffdea009cb4e79974c6777cc0676265a99f8965debd3",
-    "cutoff-207": "f171f365de084439b995e6b619df81c32cb1afcc9a8fe658c3d762531651b21d",
-    "cutoff-208": "3d665c32ed6cbf3f6092f916bc1ec459c7506347dc840eb3d9c51b6e615ba15f",
-    "cutoff-209": "47c3724060199f29a7d2c90ef6c3d3258b8e6c36a85f084f3a194e4db57a2833",
-    "cutoff-210": "b3f2f811051c8d05786c836d9dd3f8cb8255e44cc1a523f3f194728b47593787",
-    "cutoff-211": "83e00f975c874cace6eecee70fd0ff50c1c1e06416efe6ef053d667d43da3093",
-    "cutoff-212": "c7764f768b54740639eae51ff051d33d3e682b581af6b82eec289f9de9172ee7",
-    "cutoff-213": "3663af9d457525d420fc1df70b680785c68f1f0a0b6a7498296134be49cbbf45",
-    "cutoff-214": "25193b6db5eb77ad64919d856f353ec861cc7f2ed6328dc7c4a6f0a666dc21aa",
-    "cutoff-215": "da5701e21ebc740bc00ed7943f38afc2bae12e1c31922844caa0698aca468d33",
-    "cutoff-216": "d75ccfe324966f1eb1dcb2755b822ebc5b57eb3a740dbd799053af98ec0ebc99",
-    "cutoff-217": "9b78664fe906f7f6eca344977e4eaeca290dc6c1b58d4ea8f6fd85cb0c896e1c",
-    "cutoff-218": "f3ae67d7315b57bdb556ce670c8fc27dc9906303c3654b92adfb5f5edcc67208",
-    "cutoff-219": "879355713b4c1fd29c341b9814713005b4e254a6651d629cf333fb1e9a06874f",
-    "cutoff-220": "c8ec86d4e9bab267ef6f3567bcb34021e8fa7322b64a4e9148c9a8e860caf065",
-    "cutoff-221": "ab63015868b21de906e6ea2c40a6a44658c9f9d40970df0e215ffc4cd755567c",
-    "cutoff-222": "ac18fb6a1515dad2b1b2278b5f2268bd56f99ab23c028d7fccabf55c4e65e5eb",
-    "cutoff-223": "0f866becfb6e79116a28f46980eb52f6a7503e3c7df0a3ea220a67da4e74854e",
-    "cutoff-224": "1fe61aa7eb6f52464fbdfe1d7330408874ef6cef86ec4b9f89999a72d6d93373",
-    "cutoff-225": "61c87bb12e4f1a2db9d370d7263302f6ef95e74fe3f340b10fa4a7c3c5515129",
-    "cutoff-226": "c3d5cb48a1641e4b054d66226da3ee156ee35ffcdb2f4d48a2bf4bd61d5cad8b",
-    "cutoff-227": "ca78aa5c064448df8e046d1cf525695619b2dbc3bf8e2a3c35b29a39098eeccb",
-    "cutoff-228": "fa4f0deb5e9051ad3d4be6fca26d0f7798f07b493754bc73931f81894eb7ffb9",
-    "cutoff-229": "1d9a9e08712c949da31a84a20be46e5a2ab1ac288284ac550cf927270adc658c",
-    "cutoff-230": "d372f2647a438201a050f8cf61b2eacc384150dd5426f12dd3478db8c1333097",
-    "cutoff-231": "53d2d1fef5dbff19dff600571bd77a919e671a5dc974e27178c6505856219e5d",
-    "cutoff-232": "ae7d8eef735face81291f4082fdd0259e5d1086e1ca08a64c8d0622f0f12913c",
-    "cutoff-233": "e6c84ce9b8cf3a546618006b01ed21ffc3afab59804eca41e584f7b976a8c591",
-    "cutoff-234": "e524d65eaaf9f81291c4433e1eb5d04eec81d40b7c70cf718dff297a1a7d97de",
-    "cutoff-235": "5bf2a71bdf32663cc01546f2d7cf00bd5f4a3335f67299b51e60977f8aa3fbba",
-    "cutoff-236": "2fae1e9b7133da639e59f3d88834c838f0dfd8f5d8590da89760e13e24c9808b",
-    "cutoff-237": "728009eb9f7aa9835a0d519f1ec0b74bfbc09117c522f6b6abfe8acde4c80516",
-    "cutoff-238": "a6259fdeaf86f385bf0fe02bf2a0c2642f4620e77444edb40948c52b3a5517a2",
-    "cutoff-239": "a5b675e456cf06c3d281817e638cbfdd7be68d65d9f309e3fb2ead851e863987",
-    "cutoff-240": "8e1ee467cc470a050072dbd7425eaa06db42c27a462e3aac74dc64cf9ab4712c",
-    "cutoff-241": "590ae1ac883c3e71efe5e6b5d1326156a00226d59ac49c2acfae1c614f08e3d3",
-    "cutoff-242": "cf93bd869b6d354ac965343636d203f2ca3072411f4b048d01a8c240c16f9033",
-    "cutoff-243": "36b80487fa55e330672ec7b587d387caa99833f263b865ef60b7b4b88830bf57",
-    "cutoff-244": "6f2f7c3d28e335fcd67d28ca325740706954377bdd42c9ec5955a72b88012097",
-    "cutoff-245": "83e90d5655f4aa7390f675d958e12b0bab3e7c7e1312d86433fd9a1c338b6310",
-    "cutoff-246": "4cfe6d6e3d7a0711b13b100f4c77f91ab5539bbf111f55163bc7f2b91833bc44",
-    "cutoff-247": "fb38413f0a087ace699568722e81bb088d335b7cb46c252e96b9b8ac8f53b4be",
-    "cutoff-248": "b2e5799a30ee7e577bb79230ffde24bc6c265eb84de56318edbd4a01ff23904c",
-    "cutoff-249": "9984ede8cac8936d08b4e1a373ca0f264ad58aab739a035de6fd9b57b29d388d",
-    "cutoff-250": "6df136bb857e95054c73f96649eb2c5bed4f2614c6af0c409094c5588a5a0704",
-    "cutoff-251": "cb64c62654aaeb848f26d67a2fd5bfb11bd6d26d55125bef55061ee21bf3ecd0",
-    "cutoff-252": "b2f8675b6ea5d945c7dc93c3682f920e05389f05ecbb5c2640e6113de79e94cc",
-    "cutoff-253": "f7b99ecc8ac4f6a1119358e16dc39e4b75c601af2898b0a03736abbb08b457da",
-    "cutoff-254": "e8c1aeb5009bc61dcca3c6098177d7fb9a5dac9c87a826275d53cf76a8d6d040",
-    "cutoff-255": "94766992544a4ff12327a02942abe8b457e8cf9721744d57dd98953126dd45d5",
-    "cutoff-256": "e9c225edea225df4eddc9f71fc2e26425ce39f4a4547caf885e614a84afe504a",
-    "cutoff-257": "ae6dea800678f8b6c5954e58d36a6f8f06637ecedc5aa53167fd70fc34576733",
-    "cutoff-258": "84a8c96608a8bbc668b30d1b1d491ffdb7ae22445a5c09d4a6d069c553a2868f",
-    "cutoff-259": "6737721534e3f7fcbef6188eadc05b4f6b7e7b6cd9dd3914cc5ed56b4926923a",
-    "cutoff-260": "7eb86c958967ed55ecb03845b3cb274479be4dd7c8cfd820fd8d509128ee4eb3",
-    "cutoff-261": "d0bf6552b8e581584552579798d37ff1c554929c9e96846115b75377bde2e841",
-    "cutoff-262": "d74eba90438341211b105811e068965e55e6bda5b85fae7d656eb9ea9778c01c",
-    "cutoff-263": "093f23dbcbbf76ff34f962c2b66ffb736e9e203ab0d7d8e37977dd119ca0a7f8",
+    "cutoff-161": "264aa078a34c26b8ebeca2fa958093b597bab6a966e1668c35742c17f76fc475",
+    "cutoff-162": "f79230404538a19c086662364bf985fd92100b9bd02df05ebc741c68f69ed275",
+    "cutoff-163": "6dd43ec6b0fe4e6ca9a9a895367ec39e70513f5b474575f19f2c371d06f7d9c2",
+    "cutoff-164": "4faad1384078231c873617410ce978e0fe2d5f6dc43591dd879546ff87edd949",
+    "cutoff-165": "64a66d084222ba0b3487300fa0818de7b403a1799ef1947bf1f6b8b91c3b8b3c",
+    "cutoff-166": "e74489fb385f52cfaea2a5435afd6e863ab352336100010cef8a074805ec5595",
+    "cutoff-167": "81cf7ebab77055ad0b147727539cb6e8c36c2ab1781a39aa9eecbc40f1c6d026",
+    "cutoff-168": "54442358799dac81b4c1c00e8ac92e86a661e162732308914d5091ba7fe4e9ea",
+    "cutoff-169": "2c66e4e289f594857a7de52f8cb16e6f6b1c4f116bb2ae8aa5efb8dd0d71d2a5",
+    "cutoff-170": "40a1946f717fc2e08d6d89eee9cb5af1ba4a047c5888a151e21c9c13049560ca",
+    "cutoff-171": "dea6e4ec23453f13baa4248310b1864edc7785a5a95d79fdfa21b1e179d8aa97",
+    "cutoff-172": "bcf6123a0046acc9ccd03800d1df543df2741b60f31d40cba5e20d6f8ac4593a",
+    "cutoff-173": "7cd0db31c450e468b00782842757beca909baf965b9a497af87d0edaeb2098be",
+    "cutoff-174": "52577525b34ed285b4198bd1f83ad2c8be8b08c32ae85933da61475fe545516d",
+    "cutoff-175": "d823ddb8c1abc0a4a15481e7c886fd6bb6cdc12b07b131f7e098c39011eb0b60",
+    "cutoff-176": "8a776fd8201f8fb57f36352fb7a00349a0e96a3ebd3e3f8807fe7348c29ea499",
+    "cutoff-177": "6ec1073eed7b21e1b62cd26f5ce714303e8393dd1369a6ccc91f3917152bd24f",
+    "cutoff-178": "2d19dadccb37b459d6cf4ed3cfd587f4570d56f84f6e6b13e8830e15bce5dbc2",
+    "cutoff-179": "2a0b7ffc4db451822382b2212801a38250db505bd73be76957f4ff215abe92ee",
+    "cutoff-180": "81e6b99bb6dbbd59924bf7f04beb92e5492e0978a77a57063478bdd1512b2746",
+    "cutoff-181": "37c2ee0501d593bac3c60cb01783393fb35530c971c9679f19beaededf8d0b5b",
+    "cutoff-182": "b2c86d6026cb15f3c84444397b7fe37a51e4508108005ddbd101df39c3966f3c",
+    "cutoff-183": "288afbd17ea2727dc217dde7d989cebe7f19c4632407c34ddd4e042478429676",
+    "cutoff-184": "b259b9e23bcb78997ab45886263995aa4b3e6796945843e29ae8dc0d561b1fe2",
+    "cutoff-185": "7d74fe9c31e694cb6f036100a2fb629445b49a02f2af98571d41f9ee798ff9bf",
+    "cutoff-186": "78740de35df6bfa1284ee687994d8114e9e54e4a3234d79680a6046f6c1af059",
+    "cutoff-187": "e547a2fe7430428d057120023b0cf672df0dec7dedd0d5cdc31a120ed90f8460",
+    "cutoff-188": "b4a99a22bd9a848ad751de761b29356920f4e95379cca28a3ee94939027281a8",
+    "cutoff-189": "0151f51db07031884d188240e88ced166daac93b27b7cb093ed60be2a2590548",
+    "cutoff-190": "c1551f14dbb1a8892927198e2d7fb04e603ebe83b4ab789a1ab4e11d46dcdd42",
+    "cutoff-191": "8b355b3b8deda06c95befcabdb405d52ce92ef4a2f36ed739e962c49346f16d5",
+    "cutoff-192": "b33fde626f8cee78be1313de56216ca94c34862480cc5c97d9e16725a4448d23",
+    "cutoff-193": "a6c7f2eccf01212b2119b3d8e63a37f7f8d42c65effa82587f8af595eb8d2188",
+    "cutoff-194": "dd303004b7448711866da13c03e1f17f65cee406c7808e32e36fbfbb9cde64ee",
+    "cutoff-195": "266530e478fd3e2599d68cea0b9d4938c3339e1a54841f063be824cd72068fee",
+    "cutoff-196": "c28bae40d4ea8713ee801354ae86be7fe22a282729ff15ec7456ebe96c840872",
+    "cutoff-197": "68762302f49ced45b7abf8e939ce5bb85b3ca602ac9f75e53e2d9a5c164abb37",
+    "cutoff-198": "5aeda076b97a684f0368f98728348d351f02a2772545fa5eebd1645191d84f67",
+    "cutoff-199": "46d2b9b8649d7e187a2f971d365b696fbd5b259bf63e7a21c070f2cb035cebdc",
+    "cutoff-200": "4a0bd92ea99853eecb9e3f8207b326e18a2b0d2b97c735daf02d1ab60b614b1c",
+    "cutoff-201": "1ad8f29158870e94b97ac7598364d941a68c29e2c68d1f231469f50228dd90f7",
+    "cutoff-202": "2659d808d7e975b8fdcf87022ff59694243c008ec5ee627581414d80082c7fc8",
+    "cutoff-203": "864c70d80a57753eee05a79fc189c36e0d30f02826bf71ef2bf43f077d507c2d",
+    "cutoff-204": "f753932ad65b725c18064d29327edbe15e9ffbc0ac2f122f45f3faaf27bd7687",
+    "cutoff-205": "9d923fd37bb66b0589f74c01ba894bdf80148c42143f8fc5538cc6a94ae7f8f8",
+    "cutoff-206": "e4945c7b2f7ca830a476ba0489605d8f11d3763e7a5a84a42fcbfef27cbad922",
+    "cutoff-207": "5ab5705a88b4878fe6f1aa8019421e2306efd1458277d854fa8d4d0e0347beda",
+    "cutoff-208": "bf8d9f31521c20edf4e4ffdea009cb4e79974c6777cc0676265a99f8965debd3",
+    "cutoff-209": "f171f365de084439b995e6b619df81c32cb1afcc9a8fe658c3d762531651b21d",
+    "cutoff-210": "3d665c32ed6cbf3f6092f916bc1ec459c7506347dc840eb3d9c51b6e615ba15f",
+    "cutoff-211": "47c3724060199f29a7d2c90ef6c3d3258b8e6c36a85f084f3a194e4db57a2833",
+    "cutoff-212": "b3f2f811051c8d05786c836d9dd3f8cb8255e44cc1a523f3f194728b47593787",
+    "cutoff-213": "83e00f975c874cace6eecee70fd0ff50c1c1e06416efe6ef053d667d43da3093",
+    "cutoff-214": "c7764f768b54740639eae51ff051d33d3e682b581af6b82eec289f9de9172ee7",
+    "cutoff-215": "3663af9d457525d420fc1df70b680785c68f1f0a0b6a7498296134be49cbbf45",
+    "cutoff-216": "25193b6db5eb77ad64919d856f353ec861cc7f2ed6328dc7c4a6f0a666dc21aa",
+    "cutoff-217": "da5701e21ebc740bc00ed7943f38afc2bae12e1c31922844caa0698aca468d33",
+    "cutoff-218": "d75ccfe324966f1eb1dcb2755b822ebc5b57eb3a740dbd799053af98ec0ebc99",
+    "cutoff-219": "9b78664fe906f7f6eca344977e4eaeca290dc6c1b58d4ea8f6fd85cb0c896e1c",
+    "cutoff-220": "f3ae67d7315b57bdb556ce670c8fc27dc9906303c3654b92adfb5f5edcc67208",
+    "cutoff-221": "879355713b4c1fd29c341b9814713005b4e254a6651d629cf333fb1e9a06874f",
+    "cutoff-222": "c8ec86d4e9bab267ef6f3567bcb34021e8fa7322b64a4e9148c9a8e860caf065",
+    "cutoff-223": "b94efb78a4337bd9548fc8156126acfc99e79cea488a1b0cabefbe4f3cd90da4",
+    "cutoff-224": "ab63015868b21de906e6ea2c40a6a44658c9f9d40970df0e215ffc4cd755567c",
+    "cutoff-225": "ac18fb6a1515dad2b1b2278b5f2268bd56f99ab23c028d7fccabf55c4e65e5eb",
+    "cutoff-226": "0f866becfb6e79116a28f46980eb52f6a7503e3c7df0a3ea220a67da4e74854e",
+    "cutoff-227": "1fe61aa7eb6f52464fbdfe1d7330408874ef6cef86ec4b9f89999a72d6d93373",
+    "cutoff-228": "61c87bb12e4f1a2db9d370d7263302f6ef95e74fe3f340b10fa4a7c3c5515129",
+    "cutoff-229": "c3d5cb48a1641e4b054d66226da3ee156ee35ffcdb2f4d48a2bf4bd61d5cad8b",
+    "cutoff-230": "ca78aa5c064448df8e046d1cf525695619b2dbc3bf8e2a3c35b29a39098eeccb",
+    "cutoff-231": "fa4f0deb5e9051ad3d4be6fca26d0f7798f07b493754bc73931f81894eb7ffb9",
+    "cutoff-232": "1d9a9e08712c949da31a84a20be46e5a2ab1ac288284ac550cf927270adc658c",
+    "cutoff-233": "d372f2647a438201a050f8cf61b2eacc384150dd5426f12dd3478db8c1333097",
+    "cutoff-234": "53d2d1fef5dbff19dff600571bd77a919e671a5dc974e27178c6505856219e5d",
+    "cutoff-235": "ae7d8eef735face81291f4082fdd0259e5d1086e1ca08a64c8d0622f0f12913c",
+    "cutoff-236": "e6c84ce9b8cf3a546618006b01ed21ffc3afab59804eca41e584f7b976a8c591",
+    "cutoff-237": "e524d65eaaf9f81291c4433e1eb5d04eec81d40b7c70cf718dff297a1a7d97de",
+    "cutoff-238": "5bf2a71bdf32663cc01546f2d7cf00bd5f4a3335f67299b51e60977f8aa3fbba",
+    "cutoff-239": "2fae1e9b7133da639e59f3d88834c838f0dfd8f5d8590da89760e13e24c9808b",
+    "cutoff-240": "728009eb9f7aa9835a0d519f1ec0b74bfbc09117c522f6b6abfe8acde4c80516",
+    "cutoff-241": "a6259fdeaf86f385bf0fe02bf2a0c2642f4620e77444edb40948c52b3a5517a2",
+    "cutoff-242": "a5b675e456cf06c3d281817e638cbfdd7be68d65d9f309e3fb2ead851e863987",
+    "cutoff-243": "8e1ee467cc470a050072dbd7425eaa06db42c27a462e3aac74dc64cf9ab4712c",
+    "cutoff-244": "590ae1ac883c3e71efe5e6b5d1326156a00226d59ac49c2acfae1c614f08e3d3",
+    "cutoff-245": "cf93bd869b6d354ac965343636d203f2ca3072411f4b048d01a8c240c16f9033",
+    "cutoff-246": "36b80487fa55e330672ec7b587d387caa99833f263b865ef60b7b4b88830bf57",
+    "cutoff-247": "6f2f7c3d28e335fcd67d28ca325740706954377bdd42c9ec5955a72b88012097",
+    "cutoff-248": "83e90d5655f4aa7390f675d958e12b0bab3e7c7e1312d86433fd9a1c338b6310",
+    "cutoff-249": "4cfe6d6e3d7a0711b13b100f4c77f91ab5539bbf111f55163bc7f2b91833bc44",
+    "cutoff-250": "fb38413f0a087ace699568722e81bb088d335b7cb46c252e96b9b8ac8f53b4be",
+    "cutoff-251": "b2e5799a30ee7e577bb79230ffde24bc6c265eb84de56318edbd4a01ff23904c",
+    "cutoff-252": "9984ede8cac8936d08b4e1a373ca0f264ad58aab739a035de6fd9b57b29d388d",
+    "cutoff-253": "6df136bb857e95054c73f96649eb2c5bed4f2614c6af0c409094c5588a5a0704",
+    "cutoff-254": "cb64c62654aaeb848f26d67a2fd5bfb11bd6d26d55125bef55061ee21bf3ecd0",
+    "cutoff-255": "b2f8675b6ea5d945c7dc93c3682f920e05389f05ecbb5c2640e6113de79e94cc",
+    "cutoff-256": "f7b99ecc8ac4f6a1119358e16dc39e4b75c601af2898b0a03736abbb08b457da",
+    "cutoff-257": "e8c1aeb5009bc61dcca3c6098177d7fb9a5dac9c87a826275d53cf76a8d6d040",
+    "cutoff-258": "94766992544a4ff12327a02942abe8b457e8cf9721744d57dd98953126dd45d5",
+    "cutoff-259": "e9c225edea225df4eddc9f71fc2e26425ce39f4a4547caf885e614a84afe504a",
+    "cutoff-260": "ae6dea800678f8b6c5954e58d36a6f8f06637ecedc5aa53167fd70fc34576733",
+    "cutoff-261": "84a8c96608a8bbc668b30d1b1d491ffdb7ae22445a5c09d4a6d069c553a2868f",
+    "cutoff-262": "6737721534e3f7fcbef6188eadc05b4f6b7e7b6cd9dd3914cc5ed56b4926923a",
+    "cutoff-263": "7eb86c958967ed55ecb03845b3cb274479be4dd7c8cfd820fd8d509128ee4eb3",
+    "cutoff-264": "d0bf6552b8e581584552579798d37ff1c554929c9e96846115b75377bde2e841",
+    "cutoff-265": "d74eba90438341211b105811e068965e55e6bda5b85fae7d656eb9ea9778c01c",
+    "cutoff-266": "093f23dbcbbf76ff34f962c2b66ffb736e9e203ab0d7d8e37977dd119ca0a7f8",
     "cutoff-dataset-0": "b56b4f412843b24c439616f60cbca6a4269e5a5964d4c2013eb3af62f8eaaa2c",
     "cutoff-dataset-1": "defacc205ef454830573e04b83d17a18341391f12090decec02b9f2dc5c4e32f",
+    "cutoff-dataset-2": "d03d6b5ca8d8d9c8bae9514f23e05507500e9c49e94e6fd6436a68ad5672b30d",
+    "cutoff-dataset-3": "5c585a3c0142e3bec20cd8537629ccae144f64375bb8641318c1fe0804bcd9ab",
     "score-index": "66b4fd2c87873935383f6a96ba306de1cd13c40f510c0cfe1a7c22b0cfc0cf18",
     "score-invierno-2027-M1": "f8e340c64af8249a7f04a10e6579c77fd37b82b82604e59a07c3d24f7c1d4890",
     "score-invierno-2027-M2": "4532f7b0210c15cac80b7029bf92d83e1e628bdd686a3b4da820e589201f82e6",
@@ -289,7 +293,8 @@
     "score-regular-2025-M2": "5ac78d419b0494af3f588e7132606cec84078b18b03694f537796f95a1a744a6",
     "score-regular-2025-CL": "031a26dcb5927cde54d3d514ee405c08a186097e48a72b20d199761f601841e2",
     "score-regular-2025-HI": "bc0e4403dcf84838862969747fa6db67288c302b8822825f593fa66308ce4d9f",
-    "score-regular-2025-SC": "d7dd989e681edb86ae7d55f5fe07683b9ff0df2c26ff75e8a98688300f902623"
+    "score-regular-2025-SC": "d7dd989e681edb86ae7d55f5fe07683b9ff0df2c26ff75e8a98688300f902623",
+    "cutoff-149": "30a02f8ae04c8376d28b2855e103dd56c7f74615c52f43288c6908c141206470"
   },
   "observations": {
     "demre-offer": {
@@ -1047,11 +1052,6 @@
       "etag": null,
       "modified": null
     },
-    "cutoff-149": {
-      "hash": "30a02f8ae04c8376d28b2855e103dd56c7f74615c52f43288c6908c141206470",
-      "etag": null,
-      "modified": null
-    },
     "cutoff-150": {
       "hash": "ae5db5305e4953b25dbcc249529329807ed8b4619fecc7caa76dddb2208d4b31",
       "etag": null,
@@ -1108,516 +1108,531 @@
       "modified": null
     },
     "cutoff-161": {
-      "hash": "6dd43ec6b0fe4e6ca9a9a895367ec39e70513f5b474575f19f2c371d06f7d9c2",
+      "hash": "264aa078a34c26b8ebeca2fa958093b597bab6a966e1668c35742c17f76fc475",
       "etag": null,
       "modified": null
     },
     "cutoff-162": {
-      "hash": "4faad1384078231c873617410ce978e0fe2d5f6dc43591dd879546ff87edd949",
-      "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:03 GMT"
+      "hash": "f79230404538a19c086662364bf985fd92100b9bd02df05ebc741c68f69ed275",
+      "etag": "\"6cbb6-627bc1599cd80\"",
+      "modified": "Mon, 25 Nov 2024 12:43:50 GMT"
     },
     "cutoff-163": {
-      "hash": "64a66d084222ba0b3487300fa0818de7b403a1799ef1947bf1f6b8b91c3b8b3c",
+      "hash": "6dd43ec6b0fe4e6ca9a9a895367ec39e70513f5b474575f19f2c371d06f7d9c2",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:03 GMT"
+      "modified": null
     },
     "cutoff-164": {
-      "hash": "e74489fb385f52cfaea2a5435afd6e863ab352336100010cef8a074805ec5595",
+      "hash": "4faad1384078231c873617410ce978e0fe2d5f6dc43591dd879546ff87edd949",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:04 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:11 GMT"
     },
     "cutoff-165": {
-      "hash": "81cf7ebab77055ad0b147727539cb6e8c36c2ab1781a39aa9eecbc40f1c6d026",
+      "hash": "64a66d084222ba0b3487300fa0818de7b403a1799ef1947bf1f6b8b91c3b8b3c",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:04 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:11 GMT"
     },
     "cutoff-166": {
-      "hash": "54442358799dac81b4c1c00e8ac92e86a661e162732308914d5091ba7fe4e9ea",
+      "hash": "e74489fb385f52cfaea2a5435afd6e863ab352336100010cef8a074805ec5595",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:04 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:11 GMT"
     },
     "cutoff-167": {
-      "hash": "2c66e4e289f594857a7de52f8cb16e6f6b1c4f116bb2ae8aa5efb8dd0d71d2a5",
+      "hash": "81cf7ebab77055ad0b147727539cb6e8c36c2ab1781a39aa9eecbc40f1c6d026",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:05 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:11 GMT"
     },
     "cutoff-168": {
-      "hash": "40a1946f717fc2e08d6d89eee9cb5af1ba4a047c5888a151e21c9c13049560ca",
+      "hash": "54442358799dac81b4c1c00e8ac92e86a661e162732308914d5091ba7fe4e9ea",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:05 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:11 GMT"
     },
     "cutoff-169": {
-      "hash": "dea6e4ec23453f13baa4248310b1864edc7785a5a95d79fdfa21b1e179d8aa97",
+      "hash": "2c66e4e289f594857a7de52f8cb16e6f6b1c4f116bb2ae8aa5efb8dd0d71d2a5",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:05 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:12 GMT"
     },
     "cutoff-170": {
-      "hash": "bcf6123a0046acc9ccd03800d1df543df2741b60f31d40cba5e20d6f8ac4593a",
+      "hash": "40a1946f717fc2e08d6d89eee9cb5af1ba4a047c5888a151e21c9c13049560ca",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:05 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:12 GMT"
     },
     "cutoff-171": {
-      "hash": "7cd0db31c450e468b00782842757beca909baf965b9a497af87d0edaeb2098be",
+      "hash": "dea6e4ec23453f13baa4248310b1864edc7785a5a95d79fdfa21b1e179d8aa97",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:06 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:12 GMT"
     },
     "cutoff-172": {
-      "hash": "52577525b34ed285b4198bd1f83ad2c8be8b08c32ae85933da61475fe545516d",
+      "hash": "bcf6123a0046acc9ccd03800d1df543df2741b60f31d40cba5e20d6f8ac4593a",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:06 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:12 GMT"
     },
     "cutoff-173": {
-      "hash": "d823ddb8c1abc0a4a15481e7c886fd6bb6cdc12b07b131f7e098c39011eb0b60",
+      "hash": "7cd0db31c450e468b00782842757beca909baf965b9a497af87d0edaeb2098be",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:06 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:12 GMT"
     },
     "cutoff-174": {
-      "hash": "8a776fd8201f8fb57f36352fb7a00349a0e96a3ebd3e3f8807fe7348c29ea499",
+      "hash": "52577525b34ed285b4198bd1f83ad2c8be8b08c32ae85933da61475fe545516d",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:06 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:12 GMT"
     },
     "cutoff-175": {
-      "hash": "6ec1073eed7b21e1b62cd26f5ce714303e8393dd1369a6ccc91f3917152bd24f",
+      "hash": "d823ddb8c1abc0a4a15481e7c886fd6bb6cdc12b07b131f7e098c39011eb0b60",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:07 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:12 GMT"
     },
     "cutoff-176": {
-      "hash": "2d19dadccb37b459d6cf4ed3cfd587f4570d56f84f6e6b13e8830e15bce5dbc2",
+      "hash": "8a776fd8201f8fb57f36352fb7a00349a0e96a3ebd3e3f8807fe7348c29ea499",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:07 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:12 GMT"
     },
     "cutoff-177": {
-      "hash": "2a0b7ffc4db451822382b2212801a38250db505bd73be76957f4ff215abe92ee",
+      "hash": "6ec1073eed7b21e1b62cd26f5ce714303e8393dd1369a6ccc91f3917152bd24f",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:07 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:12 GMT"
     },
     "cutoff-178": {
-      "hash": "81e6b99bb6dbbd59924bf7f04beb92e5492e0978a77a57063478bdd1512b2746",
+      "hash": "2d19dadccb37b459d6cf4ed3cfd587f4570d56f84f6e6b13e8830e15bce5dbc2",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:07 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:12 GMT"
     },
     "cutoff-179": {
-      "hash": "37c2ee0501d593bac3c60cb01783393fb35530c971c9679f19beaededf8d0b5b",
+      "hash": "2a0b7ffc4db451822382b2212801a38250db505bd73be76957f4ff215abe92ee",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:08 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:12 GMT"
     },
     "cutoff-180": {
-      "hash": "b2c86d6026cb15f3c84444397b7fe37a51e4508108005ddbd101df39c3966f3c",
+      "hash": "81e6b99bb6dbbd59924bf7f04beb92e5492e0978a77a57063478bdd1512b2746",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:09 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:12 GMT"
     },
     "cutoff-181": {
-      "hash": "288afbd17ea2727dc217dde7d989cebe7f19c4632407c34ddd4e042478429676",
+      "hash": "37c2ee0501d593bac3c60cb01783393fb35530c971c9679f19beaededf8d0b5b",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:09 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:12 GMT"
     },
     "cutoff-182": {
-      "hash": "b259b9e23bcb78997ab45886263995aa4b3e6796945843e29ae8dc0d561b1fe2",
+      "hash": "b2c86d6026cb15f3c84444397b7fe37a51e4508108005ddbd101df39c3966f3c",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:09 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:12 GMT"
     },
     "cutoff-183": {
-      "hash": "7d74fe9c31e694cb6f036100a2fb629445b49a02f2af98571d41f9ee798ff9bf",
+      "hash": "288afbd17ea2727dc217dde7d989cebe7f19c4632407c34ddd4e042478429676",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:09 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:12 GMT"
     },
     "cutoff-184": {
-      "hash": "78740de35df6bfa1284ee687994d8114e9e54e4a3234d79680a6046f6c1af059",
+      "hash": "b259b9e23bcb78997ab45886263995aa4b3e6796945843e29ae8dc0d561b1fe2",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:10 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:12 GMT"
     },
     "cutoff-185": {
-      "hash": "e547a2fe7430428d057120023b0cf672df0dec7dedd0d5cdc31a120ed90f8460",
+      "hash": "7d74fe9c31e694cb6f036100a2fb629445b49a02f2af98571d41f9ee798ff9bf",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:10 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:13 GMT"
     },
     "cutoff-186": {
-      "hash": "b4a99a22bd9a848ad751de761b29356920f4e95379cca28a3ee94939027281a8",
+      "hash": "78740de35df6bfa1284ee687994d8114e9e54e4a3234d79680a6046f6c1af059",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:10 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:13 GMT"
     },
     "cutoff-187": {
-      "hash": "0151f51db07031884d188240e88ced166daac93b27b7cb093ed60be2a2590548",
+      "hash": "e547a2fe7430428d057120023b0cf672df0dec7dedd0d5cdc31a120ed90f8460",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:10 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:13 GMT"
     },
     "cutoff-188": {
-      "hash": "c1551f14dbb1a8892927198e2d7fb04e603ebe83b4ab789a1ab4e11d46dcdd42",
+      "hash": "b4a99a22bd9a848ad751de761b29356920f4e95379cca28a3ee94939027281a8",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:11 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:13 GMT"
     },
     "cutoff-189": {
-      "hash": "8b355b3b8deda06c95befcabdb405d52ce92ef4a2f36ed739e962c49346f16d5",
+      "hash": "0151f51db07031884d188240e88ced166daac93b27b7cb093ed60be2a2590548",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:11 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:13 GMT"
     },
     "cutoff-190": {
-      "hash": "b33fde626f8cee78be1313de56216ca94c34862480cc5c97d9e16725a4448d23",
+      "hash": "c1551f14dbb1a8892927198e2d7fb04e603ebe83b4ab789a1ab4e11d46dcdd42",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:11 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:13 GMT"
     },
     "cutoff-191": {
-      "hash": "a6c7f2eccf01212b2119b3d8e63a37f7f8d42c65effa82587f8af595eb8d2188",
+      "hash": "8b355b3b8deda06c95befcabdb405d52ce92ef4a2f36ed739e962c49346f16d5",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:11 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:13 GMT"
     },
     "cutoff-192": {
-      "hash": "dd303004b7448711866da13c03e1f17f65cee406c7808e32e36fbfbb9cde64ee",
+      "hash": "b33fde626f8cee78be1313de56216ca94c34862480cc5c97d9e16725a4448d23",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:12 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:13 GMT"
     },
     "cutoff-193": {
-      "hash": "266530e478fd3e2599d68cea0b9d4938c3339e1a54841f063be824cd72068fee",
+      "hash": "a6c7f2eccf01212b2119b3d8e63a37f7f8d42c65effa82587f8af595eb8d2188",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:12 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:13 GMT"
     },
     "cutoff-194": {
-      "hash": "c28bae40d4ea8713ee801354ae86be7fe22a282729ff15ec7456ebe96c840872",
+      "hash": "dd303004b7448711866da13c03e1f17f65cee406c7808e32e36fbfbb9cde64ee",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:12 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:13 GMT"
     },
     "cutoff-195": {
-      "hash": "68762302f49ced45b7abf8e939ce5bb85b3ca602ac9f75e53e2d9a5c164abb37",
+      "hash": "266530e478fd3e2599d68cea0b9d4938c3339e1a54841f063be824cd72068fee",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:12 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:13 GMT"
     },
     "cutoff-196": {
-      "hash": "5aeda076b97a684f0368f98728348d351f02a2772545fa5eebd1645191d84f67",
+      "hash": "c28bae40d4ea8713ee801354ae86be7fe22a282729ff15ec7456ebe96c840872",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:13 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:13 GMT"
     },
     "cutoff-197": {
-      "hash": "46d2b9b8649d7e187a2f971d365b696fbd5b259bf63e7a21c070f2cb035cebdc",
+      "hash": "68762302f49ced45b7abf8e939ce5bb85b3ca602ac9f75e53e2d9a5c164abb37",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:13 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:13 GMT"
     },
     "cutoff-198": {
-      "hash": "4a0bd92ea99853eecb9e3f8207b326e18a2b0d2b97c735daf02d1ab60b614b1c",
+      "hash": "5aeda076b97a684f0368f98728348d351f02a2772545fa5eebd1645191d84f67",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:13 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:13 GMT"
     },
     "cutoff-199": {
-      "hash": "1ad8f29158870e94b97ac7598364d941a68c29e2c68d1f231469f50228dd90f7",
+      "hash": "46d2b9b8649d7e187a2f971d365b696fbd5b259bf63e7a21c070f2cb035cebdc",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:13 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:13 GMT"
     },
     "cutoff-200": {
-      "hash": "2659d808d7e975b8fdcf87022ff59694243c008ec5ee627581414d80082c7fc8",
+      "hash": "4a0bd92ea99853eecb9e3f8207b326e18a2b0d2b97c735daf02d1ab60b614b1c",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:14 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:13 GMT"
     },
     "cutoff-201": {
-      "hash": "864c70d80a57753eee05a79fc189c36e0d30f02826bf71ef2bf43f077d507c2d",
+      "hash": "1ad8f29158870e94b97ac7598364d941a68c29e2c68d1f231469f50228dd90f7",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:14 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:14 GMT"
     },
     "cutoff-202": {
-      "hash": "f753932ad65b725c18064d29327edbe15e9ffbc0ac2f122f45f3faaf27bd7687",
+      "hash": "2659d808d7e975b8fdcf87022ff59694243c008ec5ee627581414d80082c7fc8",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:14 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:14 GMT"
     },
     "cutoff-203": {
-      "hash": "9d923fd37bb66b0589f74c01ba894bdf80148c42143f8fc5538cc6a94ae7f8f8",
+      "hash": "864c70d80a57753eee05a79fc189c36e0d30f02826bf71ef2bf43f077d507c2d",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:14 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:14 GMT"
     },
     "cutoff-204": {
-      "hash": "e4945c7b2f7ca830a476ba0489605d8f11d3763e7a5a84a42fcbfef27cbad922",
+      "hash": "f753932ad65b725c18064d29327edbe15e9ffbc0ac2f122f45f3faaf27bd7687",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:15 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:14 GMT"
     },
     "cutoff-205": {
-      "hash": "5ab5705a88b4878fe6f1aa8019421e2306efd1458277d854fa8d4d0e0347beda",
+      "hash": "9d923fd37bb66b0589f74c01ba894bdf80148c42143f8fc5538cc6a94ae7f8f8",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:15 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:14 GMT"
     },
     "cutoff-206": {
-      "hash": "bf8d9f31521c20edf4e4ffdea009cb4e79974c6777cc0676265a99f8965debd3",
+      "hash": "e4945c7b2f7ca830a476ba0489605d8f11d3763e7a5a84a42fcbfef27cbad922",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:15 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:14 GMT"
     },
     "cutoff-207": {
-      "hash": "f171f365de084439b995e6b619df81c32cb1afcc9a8fe658c3d762531651b21d",
+      "hash": "5ab5705a88b4878fe6f1aa8019421e2306efd1458277d854fa8d4d0e0347beda",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:16 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:14 GMT"
     },
     "cutoff-208": {
-      "hash": "3d665c32ed6cbf3f6092f916bc1ec459c7506347dc840eb3d9c51b6e615ba15f",
+      "hash": "bf8d9f31521c20edf4e4ffdea009cb4e79974c6777cc0676265a99f8965debd3",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:16 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:14 GMT"
     },
     "cutoff-209": {
-      "hash": "47c3724060199f29a7d2c90ef6c3d3258b8e6c36a85f084f3a194e4db57a2833",
+      "hash": "f171f365de084439b995e6b619df81c32cb1afcc9a8fe658c3d762531651b21d",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 05:18:16 GMT"
+      "modified": "Sat, 26 Sep 2026 05:44:14 GMT"
     },
     "cutoff-210": {
+      "hash": "3d665c32ed6cbf3f6092f916bc1ec459c7506347dc840eb3d9c51b6e615ba15f",
+      "etag": null,
+      "modified": "Sat, 26 Sep 2026 05:44:14 GMT"
+    },
+    "cutoff-211": {
+      "hash": "47c3724060199f29a7d2c90ef6c3d3258b8e6c36a85f084f3a194e4db57a2833",
+      "etag": null,
+      "modified": "Sat, 26 Sep 2026 05:44:14 GMT"
+    },
+    "cutoff-212": {
       "hash": "b3f2f811051c8d05786c836d9dd3f8cb8255e44cc1a523f3f194728b47593787",
       "etag": null,
       "modified": null
     },
-    "cutoff-211": {
+    "cutoff-213": {
       "hash": "83e00f975c874cace6eecee70fd0ff50c1c1e06416efe6ef053d667d43da3093",
       "etag": null,
       "modified": null
     },
-    "cutoff-212": {
+    "cutoff-214": {
       "hash": "c7764f768b54740639eae51ff051d33d3e682b581af6b82eec289f9de9172ee7",
       "etag": "\"1790399107-0\"",
       "modified": "Sat, 26 Sep 2026 05:05:07 GMT"
     },
-    "cutoff-213": {
+    "cutoff-215": {
       "hash": "3663af9d457525d420fc1df70b680785c68f1f0a0b6a7498296134be49cbbf45",
       "etag": "\"1790399107-0\"",
       "modified": "Sat, 26 Sep 2026 05:05:07 GMT"
     },
-    "cutoff-214": {
+    "cutoff-216": {
       "hash": "25193b6db5eb77ad64919d856f353ec861cc7f2ed6328dc7c4a6f0a666dc21aa",
       "etag": null,
       "modified": null
     },
-    "cutoff-215": {
+    "cutoff-217": {
       "hash": "da5701e21ebc740bc00ed7943f38afc2bae12e1c31922844caa0698aca468d33",
       "etag": "\"1790399107-0\"",
       "modified": "Sat, 26 Sep 2026 05:05:07 GMT"
     },
-    "cutoff-216": {
+    "cutoff-218": {
       "hash": "d75ccfe324966f1eb1dcb2755b822ebc5b57eb3a740dbd799053af98ec0ebc99",
       "etag": "\"1790399107-0\"",
       "modified": "Sat, 26 Sep 2026 05:05:07 GMT"
     },
-    "cutoff-217": {
+    "cutoff-219": {
       "hash": "9b78664fe906f7f6eca344977e4eaeca290dc6c1b58d4ea8f6fd85cb0c896e1c",
       "etag": "\"1790399108-0\"",
       "modified": "Sat, 26 Sep 2026 05:05:08 GMT"
     },
-    "cutoff-218": {
+    "cutoff-220": {
       "hash": "f3ae67d7315b57bdb556ce670c8fc27dc9906303c3654b92adfb5f5edcc67208",
       "etag": "\"1790399108-0\"",
       "modified": "Sat, 26 Sep 2026 05:05:08 GMT"
     },
-    "cutoff-219": {
+    "cutoff-221": {
       "hash": "879355713b4c1fd29c341b9814713005b4e254a6651d629cf333fb1e9a06874f",
       "etag": "\"1790399108-0\"",
       "modified": "Sat, 26 Sep 2026 05:05:08 GMT"
     },
-    "cutoff-220": {
+    "cutoff-222": {
       "hash": "c8ec86d4e9bab267ef6f3567bcb34021e8fa7322b64a4e9148c9a8e860caf065",
       "etag": "\"1790399108-0\"",
       "modified": "Sat, 26 Sep 2026 05:05:08 GMT"
     },
-    "cutoff-221": {
-      "hash": "ab63015868b21de906e6ea2c40a6a44658c9f9d40970df0e215ffc4cd755567c",
-      "etag": null,
-      "modified": null
-    },
-    "cutoff-222": {
-      "hash": "ac18fb6a1515dad2b1b2278b5f2268bd56f99ab23c028d7fccabf55c4e65e5eb",
-      "etag": null,
-      "modified": null
-    },
     "cutoff-223": {
-      "hash": "0f866becfb6e79116a28f46980eb52f6a7503e3c7df0a3ea220a67da4e74854e",
+      "hash": "b94efb78a4337bd9548fc8156126acfc99e79cea488a1b0cabefbe4f3cd90da4",
       "etag": null,
       "modified": null
     },
     "cutoff-224": {
-      "hash": "1fe61aa7eb6f52464fbdfe1d7330408874ef6cef86ec4b9f89999a72d6d93373",
+      "hash": "ab63015868b21de906e6ea2c40a6a44658c9f9d40970df0e215ffc4cd755567c",
       "etag": null,
       "modified": null
     },
     "cutoff-225": {
-      "hash": "61c87bb12e4f1a2db9d370d7263302f6ef95e74fe3f340b10fa4a7c3c5515129",
+      "hash": "ac18fb6a1515dad2b1b2278b5f2268bd56f99ab23c028d7fccabf55c4e65e5eb",
       "etag": null,
       "modified": null
     },
     "cutoff-226": {
-      "hash": "c3d5cb48a1641e4b054d66226da3ee156ee35ffcdb2f4d48a2bf4bd61d5cad8b",
+      "hash": "0f866becfb6e79116a28f46980eb52f6a7503e3c7df0a3ea220a67da4e74854e",
       "etag": null,
       "modified": null
     },
     "cutoff-227": {
-      "hash": "ca78aa5c064448df8e046d1cf525695619b2dbc3bf8e2a3c35b29a39098eeccb",
+      "hash": "1fe61aa7eb6f52464fbdfe1d7330408874ef6cef86ec4b9f89999a72d6d93373",
       "etag": null,
       "modified": null
     },
     "cutoff-228": {
-      "hash": "fa4f0deb5e9051ad3d4be6fca26d0f7798f07b493754bc73931f81894eb7ffb9",
+      "hash": "61c87bb12e4f1a2db9d370d7263302f6ef95e74fe3f340b10fa4a7c3c5515129",
       "etag": null,
       "modified": null
     },
     "cutoff-229": {
-      "hash": "1d9a9e08712c949da31a84a20be46e5a2ab1ac288284ac550cf927270adc658c",
+      "hash": "c3d5cb48a1641e4b054d66226da3ee156ee35ffcdb2f4d48a2bf4bd61d5cad8b",
       "etag": null,
       "modified": null
     },
     "cutoff-230": {
-      "hash": "d372f2647a438201a050f8cf61b2eacc384150dd5426f12dd3478db8c1333097",
+      "hash": "ca78aa5c064448df8e046d1cf525695619b2dbc3bf8e2a3c35b29a39098eeccb",
       "etag": null,
       "modified": null
     },
     "cutoff-231": {
-      "hash": "53d2d1fef5dbff19dff600571bd77a919e671a5dc974e27178c6505856219e5d",
+      "hash": "fa4f0deb5e9051ad3d4be6fca26d0f7798f07b493754bc73931f81894eb7ffb9",
       "etag": null,
       "modified": null
     },
     "cutoff-232": {
-      "hash": "ae7d8eef735face81291f4082fdd0259e5d1086e1ca08a64c8d0622f0f12913c",
+      "hash": "1d9a9e08712c949da31a84a20be46e5a2ab1ac288284ac550cf927270adc658c",
       "etag": null,
       "modified": null
     },
     "cutoff-233": {
-      "hash": "e6c84ce9b8cf3a546618006b01ed21ffc3afab59804eca41e584f7b976a8c591",
+      "hash": "d372f2647a438201a050f8cf61b2eacc384150dd5426f12dd3478db8c1333097",
       "etag": null,
       "modified": null
     },
     "cutoff-234": {
-      "hash": "e524d65eaaf9f81291c4433e1eb5d04eec81d40b7c70cf718dff297a1a7d97de",
+      "hash": "53d2d1fef5dbff19dff600571bd77a919e671a5dc974e27178c6505856219e5d",
       "etag": null,
       "modified": null
     },
     "cutoff-235": {
-      "hash": "5bf2a71bdf32663cc01546f2d7cf00bd5f4a3335f67299b51e60977f8aa3fbba",
+      "hash": "ae7d8eef735face81291f4082fdd0259e5d1086e1ca08a64c8d0622f0f12913c",
       "etag": null,
       "modified": null
     },
     "cutoff-236": {
-      "hash": "2fae1e9b7133da639e59f3d88834c838f0dfd8f5d8590da89760e13e24c9808b",
+      "hash": "e6c84ce9b8cf3a546618006b01ed21ffc3afab59804eca41e584f7b976a8c591",
       "etag": null,
       "modified": null
     },
     "cutoff-237": {
-      "hash": "728009eb9f7aa9835a0d519f1ec0b74bfbc09117c522f6b6abfe8acde4c80516",
+      "hash": "e524d65eaaf9f81291c4433e1eb5d04eec81d40b7c70cf718dff297a1a7d97de",
       "etag": null,
       "modified": null
     },
     "cutoff-238": {
-      "hash": "a6259fdeaf86f385bf0fe02bf2a0c2642f4620e77444edb40948c52b3a5517a2",
+      "hash": "5bf2a71bdf32663cc01546f2d7cf00bd5f4a3335f67299b51e60977f8aa3fbba",
       "etag": null,
       "modified": null
     },
     "cutoff-239": {
-      "hash": "a5b675e456cf06c3d281817e638cbfdd7be68d65d9f309e3fb2ead851e863987",
+      "hash": "2fae1e9b7133da639e59f3d88834c838f0dfd8f5d8590da89760e13e24c9808b",
       "etag": null,
       "modified": null
     },
     "cutoff-240": {
-      "hash": "8e1ee467cc470a050072dbd7425eaa06db42c27a462e3aac74dc64cf9ab4712c",
+      "hash": "728009eb9f7aa9835a0d519f1ec0b74bfbc09117c522f6b6abfe8acde4c80516",
       "etag": null,
       "modified": null
     },
     "cutoff-241": {
-      "hash": "590ae1ac883c3e71efe5e6b5d1326156a00226d59ac49c2acfae1c614f08e3d3",
+      "hash": "a6259fdeaf86f385bf0fe02bf2a0c2642f4620e77444edb40948c52b3a5517a2",
       "etag": null,
       "modified": null
     },
     "cutoff-242": {
-      "hash": "cf93bd869b6d354ac965343636d203f2ca3072411f4b048d01a8c240c16f9033",
+      "hash": "a5b675e456cf06c3d281817e638cbfdd7be68d65d9f309e3fb2ead851e863987",
       "etag": null,
       "modified": null
     },
     "cutoff-243": {
-      "hash": "36b80487fa55e330672ec7b587d387caa99833f263b865ef60b7b4b88830bf57",
+      "hash": "8e1ee467cc470a050072dbd7425eaa06db42c27a462e3aac74dc64cf9ab4712c",
       "etag": null,
       "modified": null
     },
     "cutoff-244": {
-      "hash": "6f2f7c3d28e335fcd67d28ca325740706954377bdd42c9ec5955a72b88012097",
+      "hash": "590ae1ac883c3e71efe5e6b5d1326156a00226d59ac49c2acfae1c614f08e3d3",
       "etag": null,
       "modified": null
     },
     "cutoff-245": {
-      "hash": "83e90d5655f4aa7390f675d958e12b0bab3e7c7e1312d86433fd9a1c338b6310",
+      "hash": "cf93bd869b6d354ac965343636d203f2ca3072411f4b048d01a8c240c16f9033",
       "etag": null,
       "modified": null
     },
     "cutoff-246": {
-      "hash": "4cfe6d6e3d7a0711b13b100f4c77f91ab5539bbf111f55163bc7f2b91833bc44",
+      "hash": "36b80487fa55e330672ec7b587d387caa99833f263b865ef60b7b4b88830bf57",
       "etag": null,
       "modified": null
     },
     "cutoff-247": {
-      "hash": "fb38413f0a087ace699568722e81bb088d335b7cb46c252e96b9b8ac8f53b4be",
+      "hash": "6f2f7c3d28e335fcd67d28ca325740706954377bdd42c9ec5955a72b88012097",
       "etag": null,
       "modified": null
     },
     "cutoff-248": {
-      "hash": "b2e5799a30ee7e577bb79230ffde24bc6c265eb84de56318edbd4a01ff23904c",
+      "hash": "83e90d5655f4aa7390f675d958e12b0bab3e7c7e1312d86433fd9a1c338b6310",
       "etag": null,
       "modified": null
     },
     "cutoff-249": {
-      "hash": "9984ede8cac8936d08b4e1a373ca0f264ad58aab739a035de6fd9b57b29d388d",
+      "hash": "4cfe6d6e3d7a0711b13b100f4c77f91ab5539bbf111f55163bc7f2b91833bc44",
       "etag": null,
       "modified": null
     },
     "cutoff-250": {
-      "hash": "6df136bb857e95054c73f96649eb2c5bed4f2614c6af0c409094c5588a5a0704",
+      "hash": "fb38413f0a087ace699568722e81bb088d335b7cb46c252e96b9b8ac8f53b4be",
       "etag": null,
       "modified": null
     },
     "cutoff-251": {
-      "hash": "cb64c62654aaeb848f26d67a2fd5bfb11bd6d26d55125bef55061ee21bf3ecd0",
+      "hash": "b2e5799a30ee7e577bb79230ffde24bc6c265eb84de56318edbd4a01ff23904c",
       "etag": null,
       "modified": null
     },
     "cutoff-252": {
-      "hash": "b2f8675b6ea5d945c7dc93c3682f920e05389f05ecbb5c2640e6113de79e94cc",
+      "hash": "9984ede8cac8936d08b4e1a373ca0f264ad58aab739a035de6fd9b57b29d388d",
       "etag": null,
       "modified": null
     },
     "cutoff-253": {
-      "hash": "f7b99ecc8ac4f6a1119358e16dc39e4b75c601af2898b0a03736abbb08b457da",
+      "hash": "6df136bb857e95054c73f96649eb2c5bed4f2614c6af0c409094c5588a5a0704",
       "etag": null,
       "modified": null
     },
     "cutoff-254": {
-      "hash": "e8c1aeb5009bc61dcca3c6098177d7fb9a5dac9c87a826275d53cf76a8d6d040",
+      "hash": "cb64c62654aaeb848f26d67a2fd5bfb11bd6d26d55125bef55061ee21bf3ecd0",
       "etag": null,
       "modified": null
     },
     "cutoff-255": {
-      "hash": "94766992544a4ff12327a02942abe8b457e8cf9721744d57dd98953126dd45d5",
+      "hash": "b2f8675b6ea5d945c7dc93c3682f920e05389f05ecbb5c2640e6113de79e94cc",
       "etag": null,
       "modified": null
     },
     "cutoff-256": {
-      "hash": "e9c225edea225df4eddc9f71fc2e26425ce39f4a4547caf885e614a84afe504a",
+      "hash": "f7b99ecc8ac4f6a1119358e16dc39e4b75c601af2898b0a03736abbb08b457da",
       "etag": null,
       "modified": null
     },
     "cutoff-257": {
-      "hash": "ae6dea800678f8b6c5954e58d36a6f8f06637ecedc5aa53167fd70fc34576733",
+      "hash": "e8c1aeb5009bc61dcca3c6098177d7fb9a5dac9c87a826275d53cf76a8d6d040",
       "etag": null,
       "modified": null
     },
     "cutoff-258": {
-      "hash": "84a8c96608a8bbc668b30d1b1d491ffdb7ae22445a5c09d4a6d069c553a2868f",
+      "hash": "94766992544a4ff12327a02942abe8b457e8cf9721744d57dd98953126dd45d5",
       "etag": null,
       "modified": null
     },
     "cutoff-259": {
-      "hash": "6737721534e3f7fcbef6188eadc05b4f6b7e7b6cd9dd3914cc5ed56b4926923a",
+      "hash": "e9c225edea225df4eddc9f71fc2e26425ce39f4a4547caf885e614a84afe504a",
       "etag": null,
       "modified": null
     },
     "cutoff-260": {
-      "hash": "7eb86c958967ed55ecb03845b3cb274479be4dd7c8cfd820fd8d509128ee4eb3",
+      "hash": "ae6dea800678f8b6c5954e58d36a6f8f06637ecedc5aa53167fd70fc34576733",
       "etag": null,
       "modified": null
     },
     "cutoff-261": {
-      "hash": "d0bf6552b8e581584552579798d37ff1c554929c9e96846115b75377bde2e841",
+      "hash": "84a8c96608a8bbc668b30d1b1d491ffdb7ae22445a5c09d4a6d069c553a2868f",
       "etag": null,
       "modified": null
     },
     "cutoff-262": {
-      "hash": "d74eba90438341211b105811e068965e55e6bda5b85fae7d656eb9ea9778c01c",
+      "hash": "6737721534e3f7fcbef6188eadc05b4f6b7e7b6cd9dd3914cc5ed56b4926923a",
       "etag": null,
       "modified": null
     },
     "cutoff-263": {
+      "hash": "7eb86c958967ed55ecb03845b3cb274479be4dd7c8cfd820fd8d509128ee4eb3",
+      "etag": null,
+      "modified": null
+    },
+    "cutoff-264": {
+      "hash": "d0bf6552b8e581584552579798d37ff1c554929c9e96846115b75377bde2e841",
+      "etag": null,
+      "modified": null
+    },
+    "cutoff-265": {
+      "hash": "d74eba90438341211b105811e068965e55e6bda5b85fae7d656eb9ea9778c01c",
+      "etag": null,
+      "modified": null
+    },
+    "cutoff-266": {
       "hash": "093f23dbcbbf76ff34f962c2b66ffb736e9e203ab0d7d8e37977dd119ca0a7f8",
       "etag": null,
       "modified": null
@@ -1631,6 +1646,16 @@
       "hash": "defacc205ef454830573e04b83d17a18341391f12090decec02b9f2dc5c4e32f",
       "etag": "\"3b1c3-6562f5c56fb28\"",
       "modified": "Thu, 09 Jul 2026 15:34:32 GMT"
+    },
+    "cutoff-dataset-2": {
+      "hash": "d03d6b5ca8d8d9c8bae9514f23e05507500e9c49e94e6fd6436a68ad5672b30d",
+      "etag": "\"26593-6342941b5aa5e\"",
+      "modified": "Fri, 02 May 2025 16:01:00 GMT"
+    },
+    "cutoff-dataset-3": {
+      "hash": "5c585a3c0142e3bec20cd8537629ccae144f64375bb8641318c1fe0804bcd9ab",
+      "etag": "\"d829c3-63429ea91ef80\"",
+      "modified": "Fri, 02 May 2025 16:48:14 GMT"
     },
     "score-index": {
       "hash": "66b4fd2c87873935383f6a96ba306de1cd13c40f510c0cfe1a7c22b0cfc0cf18",
@@ -1711,10 +1736,15 @@
       "hash": "d7dd989e681edb86ae7d55f5fe07683b9ff0df2c26ff75e8a98688300f902623",
       "etag": null,
       "modified": null
+    },
+    "cutoff-149": {
+      "hash": "30a02f8ae04c8376d28b2855e103dd56c7f74615c52f43288c6908c141206470",
+      "etag": null,
+      "modified": null
     }
   },
   "pending": [],
   "errors": [],
-  "checkedSources": 284,
-  "totalSources": 284
+  "checkedSources": 289,
+  "totalSources": 289
 }

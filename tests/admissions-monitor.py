@@ -54,6 +54,16 @@ class MonitorTests(unittest.TestCase):
         self.assertNotEqual(m.fingerprint(spec,page.encode()),m.fingerprint(spec,page.replace('937,8','939,0').encode()))
         with self.assertRaises(ValueError):m.fingerprint(spec,b'<table>Redes sociales</table>')
 
+    def test_latest_cutoff_source_formats(self):
+        catalog=__import__('json').loads((m.DATA/'catalog.json').read_text())
+        targets=m.sources(catalog)
+        pdfs=[t for t in targets if t['url'].lower().endswith('.pdf')]
+        self.assertTrue(pdfs)
+        self.assertTrue(all(t['kind']=='pdf' for t in pdfs))
+        for label in ['Primer matriculado', 'Primera matrícula']:
+            page=f'<p>{label} 2026: 900,5</p><p>Última matrícula 2026: 800,2</p>'
+            self.assertNotEqual(m.fingerprint({'kind':'usach-cutoffs'},page.encode()),m.fingerprint({'kind':'usach-cutoffs'},page.replace('800,2','801,2').encode()))
+
     def test_ubb_chain_keeps_hostname_root_and_certificate_validation(self):
         context=m.source_tls_context('https://www.ubiobio.cl/admision/')
         self.assertTrue(context.check_hostname)

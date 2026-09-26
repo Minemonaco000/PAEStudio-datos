@@ -81,11 +81,11 @@ def sources(catalog):
     targets = [dict(id='demre-offer', name='Oferta DEMRE '+str(catalog['offerYear']), url=catalog['officialOffer'], kind='pdf'),
                dict(id='demre-next', name='Publicaciones DEMRE '+str(catalog['targetYear']), url='https://demre.cl/publicaciones/listado-'+str(catalog['targetYear']), kind='listing')]
     for i, url in enumerate(sorted({c['source'] for p in catalog['programs'] for c in p['cutoffs']})):
-        target = dict(id='cutoff-'+str(i), name=urllib.parse.urlparse(url).hostname, url=url, kind='html')
+        target = dict(id='cutoff-'+str(i), name=urllib.parse.urlparse(url).hostname, url=url, kind='pdf' if urllib.parse.urlparse(url).path.lower().endswith('.pdf') else 'html')
         if 'admision.uc.cl/' in url:
             target.update(url='https://admision.uc.cl/htdocs/cms/wp-admin/admin-ajax.php', kind='uc',
                           form=dict(action='calculateScore', simulador='23483', nem='850', ranking='900', lectora='800', m1='900', historia='700', ciencias='850', m2='750'))
-        if urllib.parse.urlparse(url).hostname in ('fcm.usach.cl','www.fcm.usach.cl'):
+        if urllib.parse.urlparse(url).hostname in ('fcm.usach.cl','www.fcm.usach.cl','admision.usach.cl','www.admision.usach.cl'):
             target['kind']='usach-cutoffs'
         targets.append(target)
     for i, source in enumerate(catalog.get('cutoffSource', {}).get('files', [])):
@@ -116,7 +116,7 @@ def fingerprint(spec, data):
         if '12058' not in text: raise ValueError('Cambió el formato del simulador UC.')
     if spec['kind'] == 'usach-cutoffs':
         plain=re.sub(r'\s+', ' ', unescape(re.sub(r'<[^>]*>', ' ', text)))
-        rows=re.findall(r'(Primer|Último)\s+matriculado\s+(20\d{2})\s*:\s*(\d{3,4}(?:[.,]\d+)?)', plain, re.I)
+        rows=re.findall(r'(Primer(?:a)?|[ÚU]ltim[oa])\s+matr[ií]cul(?:ad[oa]|a)\s+(20\d{2})\s*:\s*(\d{3,4}(?:[.,]\d+)?)', plain, re.I)
         if len(rows)<2: raise ValueError('No se identificaron los cortes de matrícula USACH; revisar el formato de la fuente.')
         return digest(json.dumps(rows,ensure_ascii=False).encode())
     if spec['kind'] == 'listing':

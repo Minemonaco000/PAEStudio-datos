@@ -12,7 +12,7 @@ class FeedTests(unittest.TestCase):
  def build(self):return feed.build(self.data,self.status,self.out,self.review,'2026-09-26T04:00:00Z')
  def test_roundtrip_and_idempotence(self):
   m=self.build();self.assertEqual(m,self.build());self.assertEqual(m['sequence'],1)
-  self.assertEqual(m['minAppVersion'],'2.46.0')
+  self.assertEqual(m['minAppVersion'],'2.55.0')
   for k in ['catalog','tables']:
    raw=(self.out/m[k]['file']).read_bytes();self.assertEqual(feed.sha(raw),m[k]['sha256']);self.assertEqual(len(raw),m[k]['bytes'])
  def test_source_changes_only_publish_review_status(self):
@@ -33,7 +33,11 @@ class FeedTests(unittest.TestCase):
    c=feed.load(self.data/'catalog.json');p=next(p for p in c['programs'] if 'selectionStats' in p);p['selectionStats'][key]=value
    with self.assertRaises(ValueError):feed.validate_catalog(c)
   first=self.build();older=dict(first,minAppVersion='2.45.0');(self.out/'manifest.json').write_text(json.dumps(older));second=self.build()
-  self.assertEqual(second['sequence'],2);self.assertEqual(second['minAppVersion'],'2.46.0');self.assertEqual(second['catalog'],first['catalog'])
+  self.assertEqual(second['sequence'],2);self.assertEqual(second['minAppVersion'],'2.55.0');self.assertEqual(second['catalog'],first['catalog'])
+ def test_ranked_cutoffs_require_a_verified_last_position(self):
+  for key,value in [('lastRank',0),('selectedCount',0),('observations',0),('missingRanks',[1]),('countSource','http://invalid.example')]:
+   c=feed.load(self.data/'catalog.json');x=next(x for p in c['programs'] for x in p['cutoffs'] if x.get('method')=='mineduc-regular-ranked-v1');x[key]=value
+   with self.assertRaises(ValueError,msg=key):feed.validate_catalog(c)
  def test_monitor_for_different_catalog_rejected(self):
   s=feed.load(self.status);s['catalogVersion']='older-catalog';self.status.write_text(json.dumps(s))
   with self.assertRaisesRegex(ValueError,'Monitor/catalog version mismatch'):self.build()
