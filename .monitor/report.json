@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-09-26T04:56:43.424436+00:00",
-  "message": "La revisión no detectó cambios en las fuentes vigiladas. Se conserva el catálogo verificado de admisión 2027.",
+  "checkedAt": "2026-09-26T05:07:39.898668+00:00",
+  "message": "Revisión parcial: no se pudieron consultar todas las fuentes. Se conserva el catálogo verificado; no se puede confirmar que siga siendo el más reciente.",
   "automatic": true,
   "catalogVersion": "2026.09.26.3",
   "verifiedCatalogueAt": "2026-09-26T04:54:11.836435+00:00",
@@ -1115,242 +1115,242 @@
     "cutoff-162": {
       "hash": "4faad1384078231c873617410ce978e0fe2d5f6dc43591dd879546ff87edd949",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:32 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:15 GMT"
     },
     "cutoff-163": {
       "hash": "64a66d084222ba0b3487300fa0818de7b403a1799ef1947bf1f6b8b91c3b8b3c",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:32 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:15 GMT"
     },
     "cutoff-164": {
       "hash": "e74489fb385f52cfaea2a5435afd6e863ab352336100010cef8a074805ec5595",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:32 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:16 GMT"
     },
     "cutoff-165": {
       "hash": "81cf7ebab77055ad0b147727539cb6e8c36c2ab1781a39aa9eecbc40f1c6d026",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:32 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:16 GMT"
     },
     "cutoff-166": {
       "hash": "54442358799dac81b4c1c00e8ac92e86a661e162732308914d5091ba7fe4e9ea",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:33 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:16 GMT"
     },
     "cutoff-167": {
       "hash": "2c66e4e289f594857a7de52f8cb16e6f6b1c4f116bb2ae8aa5efb8dd0d71d2a5",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:33 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:16 GMT"
     },
     "cutoff-168": {
       "hash": "40a1946f717fc2e08d6d89eee9cb5af1ba4a047c5888a151e21c9c13049560ca",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:33 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:17 GMT"
     },
     "cutoff-169": {
       "hash": "dea6e4ec23453f13baa4248310b1864edc7785a5a95d79fdfa21b1e179d8aa97",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:33 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:17 GMT"
     },
     "cutoff-170": {
       "hash": "bcf6123a0046acc9ccd03800d1df543df2741b60f31d40cba5e20d6f8ac4593a",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:33 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:17 GMT"
     },
     "cutoff-171": {
       "hash": "7cd0db31c450e468b00782842757beca909baf965b9a497af87d0edaeb2098be",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:33 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:17 GMT"
     },
     "cutoff-172": {
       "hash": "52577525b34ed285b4198bd1f83ad2c8be8b08c32ae85933da61475fe545516d",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:33 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:17 GMT"
     },
     "cutoff-173": {
       "hash": "d823ddb8c1abc0a4a15481e7c886fd6bb6cdc12b07b131f7e098c39011eb0b60",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:33 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:17 GMT"
     },
     "cutoff-174": {
       "hash": "8a776fd8201f8fb57f36352fb7a00349a0e96a3ebd3e3f8807fe7348c29ea499",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:33 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:18 GMT"
     },
     "cutoff-175": {
       "hash": "6ec1073eed7b21e1b62cd26f5ce714303e8393dd1369a6ccc91f3917152bd24f",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:33 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:18 GMT"
     },
     "cutoff-176": {
       "hash": "2d19dadccb37b459d6cf4ed3cfd587f4570d56f84f6e6b13e8830e15bce5dbc2",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:33 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:18 GMT"
     },
     "cutoff-177": {
       "hash": "2a0b7ffc4db451822382b2212801a38250db505bd73be76957f4ff215abe92ee",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:33 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:18 GMT"
     },
     "cutoff-178": {
       "hash": "81e6b99bb6dbbd59924bf7f04beb92e5492e0978a77a57063478bdd1512b2746",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:34 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:18 GMT"
     },
     "cutoff-179": {
       "hash": "37c2ee0501d593bac3c60cb01783393fb35530c971c9679f19beaededf8d0b5b",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:34 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:19 GMT"
     },
     "cutoff-180": {
       "hash": "b2c86d6026cb15f3c84444397b7fe37a51e4508108005ddbd101df39c3966f3c",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:34 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:19 GMT"
     },
     "cutoff-181": {
       "hash": "288afbd17ea2727dc217dde7d989cebe7f19c4632407c34ddd4e042478429676",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:34 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:19 GMT"
     },
     "cutoff-182": {
       "hash": "b259b9e23bcb78997ab45886263995aa4b3e6796945843e29ae8dc0d561b1fe2",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:34 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:19 GMT"
     },
     "cutoff-183": {
       "hash": "7d74fe9c31e694cb6f036100a2fb629445b49a02f2af98571d41f9ee798ff9bf",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:34 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:20 GMT"
     },
     "cutoff-184": {
       "hash": "78740de35df6bfa1284ee687994d8114e9e54e4a3234d79680a6046f6c1af059",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:34 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:20 GMT"
     },
     "cutoff-185": {
       "hash": "e547a2fe7430428d057120023b0cf672df0dec7dedd0d5cdc31a120ed90f8460",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:34 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:20 GMT"
     },
     "cutoff-186": {
       "hash": "b4a99a22bd9a848ad751de761b29356920f4e95379cca28a3ee94939027281a8",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:34 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:20 GMT"
     },
     "cutoff-187": {
       "hash": "0151f51db07031884d188240e88ced166daac93b27b7cb093ed60be2a2590548",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:34 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:20 GMT"
     },
     "cutoff-188": {
       "hash": "c1551f14dbb1a8892927198e2d7fb04e603ebe83b4ab789a1ab4e11d46dcdd42",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:34 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:21 GMT"
     },
     "cutoff-189": {
       "hash": "8b355b3b8deda06c95befcabdb405d52ce92ef4a2f36ed739e962c49346f16d5",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:34 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:21 GMT"
     },
     "cutoff-190": {
       "hash": "b33fde626f8cee78be1313de56216ca94c34862480cc5c97d9e16725a4448d23",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:34 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:21 GMT"
     },
     "cutoff-191": {
       "hash": "a6c7f2eccf01212b2119b3d8e63a37f7f8d42c65effa82587f8af595eb8d2188",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:34 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:21 GMT"
     },
     "cutoff-192": {
       "hash": "dd303004b7448711866da13c03e1f17f65cee406c7808e32e36fbfbb9cde64ee",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:34 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:22 GMT"
     },
     "cutoff-193": {
       "hash": "266530e478fd3e2599d68cea0b9d4938c3339e1a54841f063be824cd72068fee",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:34 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:22 GMT"
     },
     "cutoff-194": {
       "hash": "c28bae40d4ea8713ee801354ae86be7fe22a282729ff15ec7456ebe96c840872",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:35 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:22 GMT"
     },
     "cutoff-195": {
       "hash": "68762302f49ced45b7abf8e939ce5bb85b3ca602ac9f75e53e2d9a5c164abb37",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:35 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:22 GMT"
     },
     "cutoff-196": {
       "hash": "5aeda076b97a684f0368f98728348d351f02a2772545fa5eebd1645191d84f67",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:35 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:23 GMT"
     },
     "cutoff-197": {
       "hash": "46d2b9b8649d7e187a2f971d365b696fbd5b259bf63e7a21c070f2cb035cebdc",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:35 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:23 GMT"
     },
     "cutoff-198": {
       "hash": "4a0bd92ea99853eecb9e3f8207b326e18a2b0d2b97c735daf02d1ab60b614b1c",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:35 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:23 GMT"
     },
     "cutoff-199": {
       "hash": "1ad8f29158870e94b97ac7598364d941a68c29e2c68d1f231469f50228dd90f7",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:35 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:23 GMT"
     },
     "cutoff-200": {
       "hash": "2659d808d7e975b8fdcf87022ff59694243c008ec5ee627581414d80082c7fc8",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:35 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:23 GMT"
     },
     "cutoff-201": {
       "hash": "864c70d80a57753eee05a79fc189c36e0d30f02826bf71ef2bf43f077d507c2d",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:35 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:24 GMT"
     },
     "cutoff-202": {
       "hash": "f753932ad65b725c18064d29327edbe15e9ffbc0ac2f122f45f3faaf27bd7687",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:35 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:24 GMT"
     },
     "cutoff-203": {
       "hash": "9d923fd37bb66b0589f74c01ba894bdf80148c42143f8fc5538cc6a94ae7f8f8",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:35 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:24 GMT"
     },
     "cutoff-204": {
       "hash": "e4945c7b2f7ca830a476ba0489605d8f11d3763e7a5a84a42fcbfef27cbad922",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:35 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:24 GMT"
     },
     "cutoff-205": {
       "hash": "5ab5705a88b4878fe6f1aa8019421e2306efd1458277d854fa8d4d0e0347beda",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:35 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:24 GMT"
     },
     "cutoff-206": {
       "hash": "bf8d9f31521c20edf4e4ffdea009cb4e79974c6777cc0676265a99f8965debd3",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:35 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:25 GMT"
     },
     "cutoff-207": {
       "hash": "f171f365de084439b995e6b619df81c32cb1afcc9a8fe658c3d762531651b21d",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:35 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:25 GMT"
     },
     "cutoff-208": {
       "hash": "3d665c32ed6cbf3f6092f916bc1ec459c7506347dc840eb3d9c51b6e615ba15f",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:35 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:25 GMT"
     },
     "cutoff-209": {
       "hash": "47c3724060199f29a7d2c90ef6c3d3258b8e6c36a85f084f3a194e4db57a2833",
       "etag": null,
-      "modified": "Sat, 26 Sep 2026 04:56:35 GMT"
+      "modified": "Sat, 26 Sep 2026 05:07:25 GMT"
     },
     "cutoff-210": {
       "hash": "b3f2f811051c8d05786c836d9dd3f8cb8255e44cc1a523f3f194728b47593787",
@@ -1364,13 +1364,13 @@
     },
     "cutoff-212": {
       "hash": "c7764f768b54740639eae51ff051d33d3e682b581af6b82eec289f9de9172ee7",
-      "etag": "\"1790396387-0\"",
-      "modified": "Sat, 26 Sep 2026 04:19:47 GMT"
+      "etag": "\"1790399107-0\"",
+      "modified": "Sat, 26 Sep 2026 05:05:07 GMT"
     },
     "cutoff-213": {
       "hash": "3663af9d457525d420fc1df70b680785c68f1f0a0b6a7498296134be49cbbf45",
-      "etag": "\"1790396387-0\"",
-      "modified": "Sat, 26 Sep 2026 04:19:47 GMT"
+      "etag": "\"1790399107-0\"",
+      "modified": "Sat, 26 Sep 2026 05:05:07 GMT"
     },
     "cutoff-214": {
       "hash": "25193b6db5eb77ad64919d856f353ec861cc7f2ed6328dc7c4a6f0a666dc21aa",
@@ -1379,33 +1379,33 @@
     },
     "cutoff-215": {
       "hash": "da5701e21ebc740bc00ed7943f38afc2bae12e1c31922844caa0698aca468d33",
-      "etag": "\"1790388177-0\"",
-      "modified": "Sat, 26 Sep 2026 02:02:57 GMT"
+      "etag": "\"1790399107-0\"",
+      "modified": "Sat, 26 Sep 2026 05:05:07 GMT"
     },
     "cutoff-216": {
       "hash": "d75ccfe324966f1eb1dcb2755b822ebc5b57eb3a740dbd799053af98ec0ebc99",
-      "etag": "\"1790396387-0\"",
-      "modified": "Sat, 26 Sep 2026 04:19:47 GMT"
+      "etag": "\"1790399107-0\"",
+      "modified": "Sat, 26 Sep 2026 05:05:07 GMT"
     },
     "cutoff-217": {
       "hash": "9b78664fe906f7f6eca344977e4eaeca290dc6c1b58d4ea8f6fd85cb0c896e1c",
-      "etag": "\"1790396387-0\"",
-      "modified": "Sat, 26 Sep 2026 04:19:47 GMT"
+      "etag": "\"1790399108-0\"",
+      "modified": "Sat, 26 Sep 2026 05:05:08 GMT"
     },
     "cutoff-218": {
       "hash": "f3ae67d7315b57bdb556ce670c8fc27dc9906303c3654b92adfb5f5edcc67208",
-      "etag": "\"1790396386-0\"",
-      "modified": "Sat, 26 Sep 2026 04:19:46 GMT"
+      "etag": "\"1790399108-0\"",
+      "modified": "Sat, 26 Sep 2026 05:05:08 GMT"
     },
     "cutoff-219": {
       "hash": "879355713b4c1fd29c341b9814713005b4e254a6651d629cf333fb1e9a06874f",
-      "etag": "\"1790391707-0\"",
-      "modified": "Sat, 26 Sep 2026 03:01:47 GMT"
+      "etag": "\"1790399108-0\"",
+      "modified": "Sat, 26 Sep 2026 05:05:08 GMT"
     },
     "cutoff-220": {
       "hash": "c8ec86d4e9bab267ef6f3567bcb34021e8fa7322b64a4e9148c9a8e860caf065",
-      "etag": "\"1790396386-0\"",
-      "modified": "Sat, 26 Sep 2026 04:19:46 GMT"
+      "etag": "\"1790399108-0\"",
+      "modified": "Sat, 26 Sep 2026 05:05:08 GMT"
     },
     "cutoff-221": {
       "hash": "ab63015868b21de906e6ea2c40a6a44658c9f9d40970df0e215ffc4cd755567c",
@@ -1714,7 +1714,223 @@
     }
   },
   "pending": [],
-  "errors": [],
-  "checkedSources": 284,
+  "errors": [
+    {
+      "source": "www.ubiobio.cl",
+      "url": "https://www.ubiobio.cl/admision/Sede_Chillan/16/Contador_Publico_y_Auditor_Chillan/",
+      "error": "Command '['/usr/bin/curl', '--fail', '--silent', '--show-error', '--location', '--max-time', '25', '--max-filesize', '25165824', '--user-agent', 'PAEStudio-admissions-check/1.0', 'https://www.ubiobio.cl/admision/Sede_Chillan/16/Contador_Publico_y_Aud"
+    },
+    {
+      "source": "www.ubiobio.cl",
+      "url": "https://www.ubiobio.cl/admision/Sede_Chillan/18/Ingenieria_Civil_en_Informatica_Chillan/",
+      "error": "Command '['/usr/bin/curl', '--fail', '--silent', '--show-error', '--location', '--max-time', '25', '--max-filesize', '25165824', '--user-agent', 'PAEStudio-admissions-check/1.0', 'https://www.ubiobio.cl/admision/Sede_Chillan/18/Ingenieria_Civil_en_In"
+    },
+    {
+      "source": "www.ubiobio.cl",
+      "url": "https://www.ubiobio.cl/admision/Sede_Chillan/20/Ingenieria_Comercial_Chillan/",
+      "error": "Command '['/usr/bin/curl', '--fail', '--silent', '--show-error', '--location', '--max-time', '25', '--max-filesize', '25165824', '--user-agent', 'PAEStudio-admissions-check/1.0', 'https://www.ubiobio.cl/admision/Sede_Chillan/20/Ingenieria_Comercial_C"
+    },
+    {
+      "source": "www.ubiobio.cl",
+      "url": "https://www.ubiobio.cl/admision/Sede_Chillan/22/Enfermeria/",
+      "error": "Command '['/usr/bin/curl', '--fail', '--silent', '--show-error', '--location', '--max-time', '25', '--max-filesize', '25165824', '--user-agent', 'PAEStudio-admissions-check/1.0', 'https://www.ubiobio.cl/admision/Sede_Chillan/22/Enfermeria/']' returne"
+    },
+    {
+      "source": "www.ubiobio.cl",
+      "url": "https://www.ubiobio.cl/admision/Sede_Chillan/23/Fonoaudiologia/",
+      "error": "Command '['/usr/bin/curl', '--fail', '--silent', '--show-error', '--location', '--max-time', '25', '--max-filesize', '25165824', '--user-agent', 'PAEStudio-admissions-check/1.0', 'https://www.ubiobio.cl/admision/Sede_Chillan/23/Fonoaudiologia/']' ret"
+    },
+    {
+      "source": "www.ubiobio.cl",
+      "url": "https://www.ubiobio.cl/admision/Sede_Chillan/24/Ingenieria_en_Alimentos/",
+      "error": "Command '['/usr/bin/curl', '--fail', '--silent', '--show-error', '--location', '--max-time', '25', '--max-filesize', '25165824', '--user-agent', 'PAEStudio-admissions-check/1.0', 'https://www.ubiobio.cl/admision/Sede_Chillan/24/Ingenieria_en_Alimento"
+    },
+    {
+      "source": "www.ubiobio.cl",
+      "url": "https://www.ubiobio.cl/admision/Sede_Chillan/25/Nutricion_y_Dietetica/",
+      "error": "Command '['/usr/bin/curl', '--fail', '--silent', '--show-error', '--location', '--max-time', '25', '--max-filesize', '25165824', '--user-agent', 'PAEStudio-admissions-check/1.0', 'https://www.ubiobio.cl/admision/Sede_Chillan/25/Nutricion_y_Dietetica/"
+    },
+    {
+      "source": "www.ubiobio.cl",
+      "url": "https://www.ubiobio.cl/admision/Sede_Chillan/26/Pedagogia_en_Educacion_Matematica/",
+      "error": "Command '['/usr/bin/curl', '--fail', '--silent', '--show-error', '--location', '--max-time', '25', '--max-filesize', '25165824', '--user-agent', 'PAEStudio-admissions-check/1.0', 'https://www.ubiobio.cl/admision/Sede_Chillan/26/Pedagogia_en_Educacion"
+    },
+    {
+      "source": "www.ubiobio.cl",
+      "url": "https://www.ubiobio.cl/admision/Sede_Chillan/27/Pedagogia_en_Castellano_y_Comunicacion/",
+      "error": "Command '['/usr/bin/curl', '--fail', '--silent', '--show-error', '--location', '--max-time', '25', '--max-filesize', '25165824', '--user-agent', 'PAEStudio-admissions-check/1.0', 'https://www.ubiobio.cl/admision/Sede_Chillan/27/Pedagogia_en_Castellan"
+    },
+    {
+      "source": "www.ubiobio.cl",
+      "url": "https://www.ubiobio.cl/admision/Sede_Chillan/28/Pedagogia_en_Ciencias_Naturales_mencion_Biologia_o_Fisica_o_Quimica/",
+      "error": "Command '['/usr/bin/curl', '--fail', '--silent', '--show-error', '--location', '--max-time', '25', '--max-filesize', '25165824', '--user-agent', 'PAEStudio-admissions-check/1.0', 'https://www.ubiobio.cl/admision/Sede_Chillan/28/Pedagogia_en_Ciencias_"
+    },
+    {
+      "source": "www.ubiobio.cl",
+      "url": "https://www.ubiobio.cl/admision/Sede_Chillan/29/Pedagogia_en_Educacion_Fisica/",
+      "error": "Command '['/usr/bin/curl', '--fail', '--silent', '--show-error', '--location', '--max-time', '25', '--max-filesize', '25165824', '--user-agent', 'PAEStudio-admissions-check/1.0', 'https://www.ubiobio.cl/admision/Sede_Chillan/29/Pedagogia_en_Educacion"
+    },
+    {
+      "source": "www.ubiobio.cl",
+      "url": "https://www.ubiobio.cl/admision/Sede_Chillan/3/Diseno_Grafico/",
+      "error": "Command '['/usr/bin/curl', '--fail', '--silent', '--show-error', '--location', '--max-time', '25', '--max-filesize', '25165824', '--user-agent', 'PAEStudio-admissions-check/1.0', 'https://www.ubiobio.cl/admision/Sede_Chillan/3/Diseno_Grafico/']' retu"
+    },
+    {
+      "source": "www.ubiobio.cl",
+      "url": "https://www.ubiobio.cl/admision/Sede_Chillan/30/Pedagogia_en_Educacion_General_Basica_con_mencion_en_Lenguaje_y_Comunicacion_o_Educacion_Matematica/",
+      "error": "Command '['/usr/bin/curl', '--fail', '--silent', '--show-error', '--location', '--max-time', '25', '--max-filesize', '25165824', '--user-agent', 'PAEStudio-admissions-check/1.0', 'https://www.ubiobio.cl/admision/Sede_Chillan/30/Pedagogia_en_Educacion"
+    },
+    {
+      "source": "www.ubiobio.cl",
+      "url": "https://www.ubiobio.cl/admision/Sede_Chillan/31/Pedagogia_en_Educacion_Parvularia_Mencion_Didactica_en_Primera_Infancia/",
+      "error": "Command '['/usr/bin/curl', '--fail', '--silent', '--show-error', '--location', '--max-time', '25', '--max-filesize', '25165824', '--user-agent', 'PAEStudio-admissions-check/1.0', 'https://www.ubiobio.cl/admision/Sede_Chillan/31/Pedagogia_en_Educacion"
+    },
+    {
+      "source": "www.ubiobio.cl",
+      "url": "https://www.ubiobio.cl/admision/Sede_Chillan/32/Pedagogia_en_Historia_y_Geografia/",
+      "error": "Command '['/usr/bin/curl', '--fail', '--silent', '--show-error', '--location', '--max-time', '25', '--max-filesize', '25165824', '--user-agent', 'PAEStudio-admissions-check/1.0', 'https://www.ubiobio.cl/admision/Sede_Chillan/32/Pedagogia_en_Historia_"
+    },
+    {
+      "source": "www.ubiobio.cl",
+      "url": "https://www.ubiobio.cl/admision/Sede_Chillan/33/Pedagogia_en_Ingles/",
+      "error": "Command '['/usr/bin/curl', '--fail', '--silent', '--show-error', '--location', '--max-time', '25', '--max-filesize', '25165824', '--user-agent', 'PAEStudio-admissions-check/1.0', 'https://www.ubiobio.cl/admision/Sede_Chillan/33/Pedagogia_en_Ingles/']"
+    },
+    {
+      "source": "www.ubiobio.cl",
+      "url": "https://www.ubiobio.cl/admision/Sede_Chillan/34/Psicologia/",
+      "error": "Command '['/usr/bin/curl', '--fail', '--silent', '--show-error', '--location', '--max-time', '25', '--max-filesize', '25165824', '--user-agent', 'PAEStudio-admissions-check/1.0', 'https://www.ubiobio.cl/admision/Sede_Chillan/34/Psicologia/']' returne"
+    },
+    {
+      "source": "www.ubiobio.cl",
+      "url": "https://www.ubiobio.cl/admision/Sede_Chillan/36/Trabajo_Social_Chillan/",
+      "error": "Command '['/usr/bin/curl', '--fail', '--silent', '--show-error', '--location', '--max-time', '25', '--max-filesize', '25165824', '--user-agent', 'PAEStudio-admissions-check/1.0', 'https://www.ubiobio.cl/admision/Sede_Chillan/36/Trabajo_Social_Chillan"
+    },
+    {
+      "source": "www.ubiobio.cl",
+      "url": "https://www.ubiobio.cl/admision/Sede_Chillan/37/Ingenieria_en_Recursos_Naturales/",
+      "error": "Command '['/usr/bin/curl', '--fail', '--silent', '--show-error', '--location', '--max-time', '25', '--max-filesize', '25165824', '--user-agent', 'PAEStudio-admissions-check/1.0', 'https://www.ubiobio.cl/admision/Sede_Chillan/37/Ingenieria_en_Recursos"
+    },
+    {
+      "source": "www.ubiobio.cl",
+      "url": "https://www.ubiobio.cl/admision/Sede_Chillan/40/Bachillerato_en_Ciencias_Chillan/",
+      "error": "Command '['/usr/bin/curl', '--fail', '--silent', '--show-error', '--location', '--max-time', '25', '--max-filesize', '25165824', '--user-agent', 'PAEStudio-admissions-check/1.0', 'https://www.ubiobio.cl/admision/Sede_Chillan/40/Bachillerato_en_Cienci"
+    },
+    {
+      "source": "www.ubiobio.cl",
+      "url": "https://www.ubiobio.cl/admision/Sede_Chillan/45/Quimica_y_Farmacia/",
+      "error": "Command '['/usr/bin/curl', '--fail', '--silent', '--show-error', '--location', '--max-time', '25', '--max-filesize', '25165824', '--user-agent', 'PAEStudio-admissions-check/1.0', 'https://www.ubiobio.cl/admision/Sede_Chillan/45/Quimica_y_Farmacia/']'"
+    },
+    {
+      "source": "www.ubiobio.cl",
+      "url": "https://www.ubiobio.cl/admision/Sede_Chillan/46/Pedagogia_en_Educacion_Especial_con_mencion_en_Dificultades_Especificas_del_Aprendizaje/",
+      "error": "Command '['/usr/bin/curl', '--fail', '--silent', '--show-error', '--location', '--max-time', '25', '--max-filesize', '25165824', '--user-agent', 'PAEStudio-admissions-check/1.0', 'https://www.ubiobio.cl/admision/Sede_Chillan/46/Pedagogia_en_Educacion"
+    },
+    {
+      "source": "www.ubiobio.cl",
+      "url": "https://www.ubiobio.cl/admision/Sede_Chillan/47/Medicina/",
+      "error": "Command '['/usr/bin/curl', '--fail', '--silent', '--show-error', '--location', '--max-time', '25', '--max-filesize', '25165824', '--user-agent', 'PAEStudio-admissions-check/1.0', 'https://www.ubiobio.cl/admision/Sede_Chillan/47/Medicina/']' returned "
+    },
+    {
+      "source": "www.ubiobio.cl",
+      "url": "https://www.ubiobio.cl/admision/Sede_Concepcion/1/Arquitectura/",
+      "error": "Command '['/usr/bin/curl', '--fail', '--silent', '--show-error', '--location', '--max-time', '25', '--max-filesize', '25165824', '--user-agent', 'PAEStudio-admissions-check/1.0', 'https://www.ubiobio.cl/admision/Sede_Concepcion/1/Arquitectura/']' ret"
+    },
+    {
+      "source": "www.ubiobio.cl",
+      "url": "https://www.ubiobio.cl/admision/Sede_Concepcion/10/Ingenieria_Civil_Industrial/",
+      "error": "Command '['/usr/bin/curl', '--fail', '--silent', '--show-error', '--location', '--max-time', '25', '--max-filesize', '25165824', '--user-agent', 'PAEStudio-admissions-check/1.0', 'https://www.ubiobio.cl/admision/Sede_Concepcion/10/Ingenieria_Civil_In"
+    },
+    {
+      "source": "www.ubiobio.cl",
+      "url": "https://www.ubiobio.cl/admision/Sede_Concepcion/11/Ingenieria_Civil_Mecanica/",
+      "error": "Command '['/usr/bin/curl', '--fail', '--silent', '--show-error', '--location', '--max-time', '25', '--max-filesize', '25165824', '--user-agent', 'PAEStudio-admissions-check/1.0', 'https://www.ubiobio.cl/admision/Sede_Concepcion/11/Ingenieria_Civil_Me"
+    },
+    {
+      "source": "www.ubiobio.cl",
+      "url": "https://www.ubiobio.cl/admision/Sede_Concepcion/15/Contador_Publico_y_Auditor_Concepcion/",
+      "error": "Command '['/usr/bin/curl', '--fail', '--silent', '--show-error', '--location', '--max-time', '25', '--max-filesize', '25165824', '--user-agent', 'PAEStudio-admissions-check/1.0', 'https://www.ubiobio.cl/admision/Sede_Concepcion/15/Contador_Publico_y_"
+    },
+    {
+      "source": "www.ubiobio.cl",
+      "url": "https://www.ubiobio.cl/admision/Sede_Concepcion/17/Ingenieria_Civil_en_Informatica_Concepcion/",
+      "error": "Command '['/usr/bin/curl', '--fail', '--silent', '--show-error', '--location', '--max-time', '25', '--max-filesize', '25165824', '--user-agent', 'PAEStudio-admissions-check/1.0', 'https://www.ubiobio.cl/admision/Sede_Concepcion/17/Ingenieria_Civil_en"
+    },
+    {
+      "source": "www.ubiobio.cl",
+      "url": "https://www.ubiobio.cl/admision/Sede_Concepcion/19/Ingenieria_Comercial_Concepcion/",
+      "error": "Command '['/usr/bin/curl', '--fail', '--silent', '--show-error', '--location', '--max-time', '25', '--max-filesize', '25165824', '--user-agent', 'PAEStudio-admissions-check/1.0', 'https://www.ubiobio.cl/admision/Sede_Concepcion/19/Ingenieria_Comercia"
+    },
+    {
+      "source": "www.ubiobio.cl",
+      "url": "https://www.ubiobio.cl/admision/Sede_Concepcion/2/Ingenieria_en_Construccion/",
+      "error": "Command '['/usr/bin/curl', '--fail', '--silent', '--show-error', '--location', '--max-time', '25', '--max-filesize', '25165824', '--user-agent', 'PAEStudio-admissions-check/1.0', 'https://www.ubiobio.cl/admision/Sede_Concepcion/2/Ingenieria_en_Constr"
+    },
+    {
+      "source": "www.ubiobio.cl",
+      "url": "https://www.ubiobio.cl/admision/Sede_Concepcion/21/Ingenieria_de_Ejecucion_en_Computacion_e_Informatica/",
+      "error": "Command '['/usr/bin/curl', '--fail', '--silent', '--show-error', '--location', '--max-time', '25', '--max-filesize', '25165824', '--user-agent', 'PAEStudio-admissions-check/1.0', 'https://www.ubiobio.cl/admision/Sede_Concepcion/21/Ingenieria_de_Ejecu"
+    },
+    {
+      "source": "www.ubiobio.cl",
+      "url": "https://www.ubiobio.cl/admision/Sede_Concepcion/35/Trabajo_Social_Concepcion/",
+      "error": "Command '['/usr/bin/curl', '--fail', '--silent', '--show-error', '--location', '--max-time', '25', '--max-filesize', '25165824', '--user-agent', 'PAEStudio-admissions-check/1.0', 'https://www.ubiobio.cl/admision/Sede_Concepcion/35/Trabajo_Social_Conc"
+    },
+    {
+      "source": "www.ubiobio.cl",
+      "url": "https://www.ubiobio.cl/admision/Sede_Concepcion/38/Ingenieria_Estadistica/",
+      "error": "Command '['/usr/bin/curl', '--fail', '--silent', '--show-error', '--location', '--max-time', '25', '--max-filesize', '25165824', '--user-agent', 'PAEStudio-admissions-check/1.0', 'https://www.ubiobio.cl/admision/Sede_Concepcion/38/Ingenieria_Estadist"
+    },
+    {
+      "source": "www.ubiobio.cl",
+      "url": "https://www.ubiobio.cl/admision/Sede_Concepcion/39/Bachillerato_en_Ciencias_Concepcion/",
+      "error": "Command '['/usr/bin/curl', '--fail', '--silent', '--show-error', '--location', '--max-time', '25', '--max-filesize', '25165824', '--user-agent', 'PAEStudio-admissions-check/1.0', 'https://www.ubiobio.cl/admision/Sede_Concepcion/39/Bachillerato_en_Cie"
+    },
+    {
+      "source": "www.ubiobio.cl",
+      "url": "https://www.ubiobio.cl/admision/Sede_Concepcion/4/Diseno_Industrial/",
+      "error": "Command '['/usr/bin/curl', '--fail', '--silent', '--show-error', '--location', '--max-time', '25', '--max-filesize', '25165824', '--user-agent', 'PAEStudio-admissions-check/1.0', 'https://www.ubiobio.cl/admision/Sede_Concepcion/4/Diseno_Industrial/']"
+    },
+    {
+      "source": "www.ubiobio.cl",
+      "url": "https://www.ubiobio.cl/admision/Sede_Concepcion/49/Derecho/",
+      "error": "Command '['/usr/bin/curl', '--fail', '--silent', '--show-error', '--location', '--max-time', '25', '--max-filesize', '25165824', '--user-agent', 'PAEStudio-admissions-check/1.0', 'https://www.ubiobio.cl/admision/Sede_Concepcion/49/Derecho/']' returne"
+    },
+    {
+      "source": "www.ubiobio.cl",
+      "url": "https://www.ubiobio.cl/admision/Sede_Concepcion/5/Ingenieria_Civil_Quimica/",
+      "error": "Command '['/usr/bin/curl', '--fail', '--silent', '--show-error', '--location', '--max-time', '25', '--max-filesize', '25165824', '--user-agent', 'PAEStudio-admissions-check/1.0', 'https://www.ubiobio.cl/admision/Sede_Concepcion/5/Ingenieria_Civil_Qui"
+    },
+    {
+      "source": "www.ubiobio.cl",
+      "url": "https://www.ubiobio.cl/admision/Sede_Concepcion/50/Ingenieria_Electrica/",
+      "error": "Command '['/usr/bin/curl', '--fail', '--silent', '--show-error', '--location', '--max-time', '25', '--max-filesize', '25165824', '--user-agent', 'PAEStudio-admissions-check/1.0', 'https://www.ubiobio.cl/admision/Sede_Concepcion/50/Ingenieria_Electric"
+    },
+    {
+      "source": "www.ubiobio.cl",
+      "url": "https://www.ubiobio.cl/admision/Sede_Concepcion/51/Ingenieria_Mecanica/",
+      "error": "Command '['/usr/bin/curl', '--fail', '--silent', '--show-error', '--location', '--max-time', '25', '--max-filesize', '25165824', '--user-agent', 'PAEStudio-admissions-check/1.0', 'https://www.ubiobio.cl/admision/Sede_Concepcion/51/Ingenieria_Mecanica"
+    },
+    {
+      "source": "www.ubiobio.cl",
+      "url": "https://www.ubiobio.cl/admision/Sede_Concepcion/52/Ingenieria_Electronica/",
+      "error": "Command '['/usr/bin/curl', '--fail', '--silent', '--show-error', '--location', '--max-time', '25', '--max-filesize', '25165824', '--user-agent', 'PAEStudio-admissions-check/1.0', 'https://www.ubiobio.cl/admision/Sede_Concepcion/52/Ingenieria_Electron"
+    },
+    {
+      "source": "www.ubiobio.cl",
+      "url": "https://www.ubiobio.cl/admision/Sede_Concepcion/6/Ingenieria_Civil_Electrica/",
+      "error": "Command '['/usr/bin/curl', '--fail', '--silent', '--show-error', '--location', '--max-time', '25', '--max-filesize', '25165824', '--user-agent', 'PAEStudio-admissions-check/1.0', 'https://www.ubiobio.cl/admision/Sede_Concepcion/6/Ingenieria_Civil_Ele"
+    },
+    {
+      "source": "www.ubiobio.cl",
+      "url": "https://www.ubiobio.cl/admision/Sede_Concepcion/7/Ingenieria_Civil/",
+      "error": "Command '['/usr/bin/curl', '--fail', '--silent', '--show-error', '--location', '--max-time', '25', '--max-filesize', '25165824', '--user-agent', 'PAEStudio-admissions-check/1.0', 'https://www.ubiobio.cl/admision/Sede_Concepcion/7/Ingenieria_Civil/']'"
+    },
+    {
+      "source": "www.ubiobio.cl",
+      "url": "https://www.ubiobio.cl/admision/Sede_Concepcion/9/Ingenieria_Civil_en_Automatizacion/",
+      "error": "Command '['/usr/bin/curl', '--fail', '--silent', '--show-error', '--location', '--max-time', '25', '--max-filesize', '25165824', '--user-agent', 'PAEStudio-admissions-check/1.0', 'https://www.ubiobio.cl/admision/Sede_Concepcion/9/Ingenieria_Civil_en_"
+    }
+  ],
+  "checkedSources": 241,
   "totalSources": 284
 }
