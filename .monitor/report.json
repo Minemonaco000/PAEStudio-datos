@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-01T18:36:00.871168+00:00",
+  "checkedAt": "2026-10-02T18:03:26.514542+00:00",
   "message": "Se detectaron cambios en fuentes oficiales. Se conservan el catálogo y las tablas de puntajes verificados; las novedades requieren revisión antes de incorporarse.",
   "automatic": true,
   "catalogVersion": "2026.09.26.4",
@@ -555,12 +555,12 @@
     "cutoff-49": {
       "hash": "f866f050e6d8f42fd3c95e42c635c4332716f8ed914c22da149ec940320a5481",
       "etag": null,
-      "modified": "Sun, 27 Sep 2026 21:05:06 GMT"
+      "modified": "Fri, 02 Oct 2026 16:42:49 GMT"
     },
     "cutoff-50": {
-      "hash": "2af0124b64a5878e083b42e21a875f2b9847c5e888d7d4991412e7999cb1fd5e",
+      "hash": "2bb4097fc3bed4c9980c57bfbb3aff1f4f4de004a4951a024e9a7280d0c0e270",
       "etag": null,
-      "modified": "Sun, 27 Sep 2026 21:31:51 GMT"
+      "modified": "Fri, 02 Oct 2026 11:46:34 GMT"
     },
     "cutoff-51": {
       "hash": "8bcbcf8655e9b9bb4c5ef390e7bc2651aebc195cf2f651a39ae9735629833248",
@@ -570,7 +570,7 @@
     "cutoff-52": {
       "hash": "72dd3890e75fd937967ee03efb624f5b89a0f63e85b345b1103023b226e5cad3",
       "etag": null,
-      "modified": "Sun, 27 Sep 2026 21:16:05 GMT"
+      "modified": "Fri, 02 Oct 2026 12:20:41 GMT"
     },
     "cutoff-53": {
       "hash": "e7a4a6b3ac3a3aaf74cb788afbd86fec55657a2ede9ffaa2bd3964e3fe4a07ab",
@@ -1123,244 +1123,244 @@
       "modified": null
     },
     "cutoff-164": {
-      "hash": "4faad1384078231c873617410ce978e0fe2d5f6dc43591dd879546ff87edd949",
+      "hash": "6f66784fbf2d8e8e043e94d93a0051c6b08a30515b441f2169cf3c81b02c3b03",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:32 GMT"
+      "modified": "Fri, 02 Oct 2026 18:02:50 GMT"
     },
     "cutoff-165": {
-      "hash": "64a66d084222ba0b3487300fa0818de7b403a1799ef1947bf1f6b8b91c3b8b3c",
+      "hash": "60c860afb152736fad0d1f6ba4173aa6671e07e88659bcb09a60c33baceba388",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:32 GMT"
+      "modified": "Fri, 02 Oct 2026 18:02:51 GMT"
     },
     "cutoff-166": {
-      "hash": "e74489fb385f52cfaea2a5435afd6e863ab352336100010cef8a074805ec5595",
+      "hash": "3d1758d03dc2e15425247502945549dcab4344933eac522be873f8ec577c983a",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:32 GMT"
+      "modified": "Fri, 02 Oct 2026 18:02:51 GMT"
     },
     "cutoff-167": {
-      "hash": "81cf7ebab77055ad0b147727539cb6e8c36c2ab1781a39aa9eecbc40f1c6d026",
+      "hash": "82a34171edf19bf17315166148f386319e2ec437b4fb09c6e5fb7bdd596ebed9",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:33 GMT"
+      "modified": "Fri, 02 Oct 2026 18:02:51 GMT"
     },
     "cutoff-168": {
-      "hash": "54442358799dac81b4c1c00e8ac92e86a661e162732308914d5091ba7fe4e9ea",
+      "hash": "7f2f5e20a6fc44593c4b6fe66c52441cf1051f2f27e7a6e384b67db1c059fcf1",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:33 GMT"
+      "modified": "Fri, 02 Oct 2026 18:02:52 GMT"
     },
     "cutoff-169": {
-      "hash": "2c66e4e289f594857a7de52f8cb16e6f6b1c4f116bb2ae8aa5efb8dd0d71d2a5",
+      "hash": "38d33da055a78f7a18e57a1b5c499704373f4ec6771e646dbd498d29ba88d552",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:33 GMT"
+      "modified": "Fri, 02 Oct 2026 18:02:52 GMT"
     },
     "cutoff-170": {
-      "hash": "40a1946f717fc2e08d6d89eee9cb5af1ba4a047c5888a151e21c9c13049560ca",
+      "hash": "8e31eb8f57962a849de794308907fbc9faa684460c4b6f600f926fd4e65234bd",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:33 GMT"
+      "modified": "Fri, 02 Oct 2026 18:02:52 GMT"
     },
     "cutoff-171": {
-      "hash": "dea6e4ec23453f13baa4248310b1864edc7785a5a95d79fdfa21b1e179d8aa97",
+      "hash": "6f3fccc969338cd560d9910c8335cd4739a2a8021123c13fce8840a70fa3b65f",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:34 GMT"
+      "modified": "Fri, 02 Oct 2026 18:02:52 GMT"
     },
     "cutoff-172": {
-      "hash": "bcf6123a0046acc9ccd03800d1df543df2741b60f31d40cba5e20d6f8ac4593a",
+      "hash": "51e959fdbc0f3fc606603e9f39f6d917fde7f42d075575c95bb3835061a18262",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:34 GMT"
+      "modified": "Fri, 02 Oct 2026 18:02:53 GMT"
     },
     "cutoff-173": {
-      "hash": "7cd0db31c450e468b00782842757beca909baf965b9a497af87d0edaeb2098be",
+      "hash": "83458a29f8c01bdf2e375ce5683628e0f93b6423a2a63afe8d2ab9c8eb2c640f",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:34 GMT"
+      "modified": "Fri, 02 Oct 2026 18:02:53 GMT"
     },
     "cutoff-174": {
-      "hash": "52577525b34ed285b4198bd1f83ad2c8be8b08c32ae85933da61475fe545516d",
+      "hash": "d4a2a66adcdfa4718eac3e5bc08c3f9a742614472c9c86c9ad2f7c3772f5a103",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:34 GMT"
+      "modified": "Fri, 02 Oct 2026 18:02:53 GMT"
     },
     "cutoff-175": {
-      "hash": "d823ddb8c1abc0a4a15481e7c886fd6bb6cdc12b07b131f7e098c39011eb0b60",
+      "hash": "c87c92d95512aba2e156558e06cab506d82fef59a67425fe78e00141d06e26bd",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:35 GMT"
+      "modified": "Fri, 02 Oct 2026 18:02:53 GMT"
     },
     "cutoff-176": {
-      "hash": "8a776fd8201f8fb57f36352fb7a00349a0e96a3ebd3e3f8807fe7348c29ea499",
+      "hash": "fc2f3b37e3cbd211a43a35eb4165163ada6ce785d9bcef1bcd88cb94ffe7a020",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:35 GMT"
+      "modified": "Fri, 02 Oct 2026 18:02:54 GMT"
     },
     "cutoff-177": {
-      "hash": "6ec1073eed7b21e1b62cd26f5ce714303e8393dd1369a6ccc91f3917152bd24f",
+      "hash": "cddf7bc33f78cc4c3e13328cf954f17f91f7fa33ef894fe3a7bfdf76dda6dc25",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:35 GMT"
+      "modified": "Fri, 02 Oct 2026 18:02:54 GMT"
     },
     "cutoff-178": {
-      "hash": "2d19dadccb37b459d6cf4ed3cfd587f4570d56f84f6e6b13e8830e15bce5dbc2",
+      "hash": "7f80ca88d0579a942f71118317ac5b70ec5b0c4d0ea79dea9e67caa295488937",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:35 GMT"
+      "modified": "Fri, 02 Oct 2026 18:02:54 GMT"
     },
     "cutoff-179": {
-      "hash": "2a0b7ffc4db451822382b2212801a38250db505bd73be76957f4ff215abe92ee",
+      "hash": "1c5aebd8d58452bfe745c651acfff801bd81db2e809cdd613f4a88aba86a4c64",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:35 GMT"
+      "modified": "Fri, 02 Oct 2026 18:02:54 GMT"
     },
     "cutoff-180": {
-      "hash": "81e6b99bb6dbbd59924bf7f04beb92e5492e0978a77a57063478bdd1512b2746",
+      "hash": "9c116a917c75b67d6156152c185c73542bcfb4916b3baeb1ff45d472253f2189",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:35 GMT"
+      "modified": "Fri, 02 Oct 2026 18:02:54 GMT"
     },
     "cutoff-181": {
-      "hash": "37c2ee0501d593bac3c60cb01783393fb35530c971c9679f19beaededf8d0b5b",
+      "hash": "d237f88a42508eb7f245432f035bd32afc2a39e4299ffa18482838336851736e",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:35 GMT"
+      "modified": "Fri, 02 Oct 2026 18:02:54 GMT"
     },
     "cutoff-182": {
-      "hash": "b2c86d6026cb15f3c84444397b7fe37a51e4508108005ddbd101df39c3966f3c",
+      "hash": "6542ac5bd0e6e7ab6405c1069a8fce75e66f8cfad00013fc0588a5c78481e7e8",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:36 GMT"
+      "modified": "Fri, 02 Oct 2026 18:02:54 GMT"
     },
     "cutoff-183": {
-      "hash": "288afbd17ea2727dc217dde7d989cebe7f19c4632407c34ddd4e042478429676",
+      "hash": "6ec6d2993b7897fbd47b56e4c470aca1d23606249fd90c7acd6a4f2723436050",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:36 GMT"
+      "modified": "Fri, 02 Oct 2026 18:02:55 GMT"
     },
     "cutoff-184": {
-      "hash": "b259b9e23bcb78997ab45886263995aa4b3e6796945843e29ae8dc0d561b1fe2",
+      "hash": "e594b79ba9e23a8e1a5830cf7263c5e31c2ad34c625adf5d15120144405c8ab7",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:36 GMT"
+      "modified": "Fri, 02 Oct 2026 18:02:55 GMT"
     },
     "cutoff-185": {
-      "hash": "7d74fe9c31e694cb6f036100a2fb629445b49a02f2af98571d41f9ee798ff9bf",
+      "hash": "f6945b6c3a18b68fb4cb7d0ddb1b6471a5009695673cb5249b4ff0fc37a8dc31",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:36 GMT"
+      "modified": "Fri, 02 Oct 2026 18:02:55 GMT"
     },
     "cutoff-186": {
-      "hash": "78740de35df6bfa1284ee687994d8114e9e54e4a3234d79680a6046f6c1af059",
+      "hash": "85c7d22d7f482b971366b9063576dfa24bf1a52c3cae7585a13abd0029a0221a",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:36 GMT"
+      "modified": "Fri, 02 Oct 2026 18:02:55 GMT"
     },
     "cutoff-187": {
-      "hash": "e547a2fe7430428d057120023b0cf672df0dec7dedd0d5cdc31a120ed90f8460",
+      "hash": "15ea1f9c6a9d2a4e63c9f2947e4bb71a4e40b64f6c843bbd4e5bed5aa0438769",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:37 GMT"
+      "modified": "Fri, 02 Oct 2026 18:02:56 GMT"
     },
     "cutoff-188": {
-      "hash": "b4a99a22bd9a848ad751de761b29356920f4e95379cca28a3ee94939027281a8",
+      "hash": "9c8a7bb19fca1811aef38a204281d9f178858d7c521a32fc2c399e47d9542b8e",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:37 GMT"
+      "modified": "Fri, 02 Oct 2026 18:02:56 GMT"
     },
     "cutoff-189": {
-      "hash": "0151f51db07031884d188240e88ced166daac93b27b7cb093ed60be2a2590548",
+      "hash": "f113e14a9cc1d18fbed2f09d3cf4f2de049e041781b41e06c6b5cff480eb1418",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:37 GMT"
+      "modified": "Fri, 02 Oct 2026 18:02:56 GMT"
     },
     "cutoff-190": {
-      "hash": "c1551f14dbb1a8892927198e2d7fb04e603ebe83b4ab789a1ab4e11d46dcdd42",
+      "hash": "ec9eca01845e6afad6e0eda11388c2871eaa76905a3bdce461c37557892810b1",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:37 GMT"
+      "modified": "Fri, 02 Oct 2026 18:02:56 GMT"
     },
     "cutoff-191": {
-      "hash": "8b355b3b8deda06c95befcabdb405d52ce92ef4a2f36ed739e962c49346f16d5",
+      "hash": "fbbacfa249175ff3e8c43379b259382ed687e4c3a2d23f7b94619cd669f3c290",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:38 GMT"
+      "modified": "Fri, 02 Oct 2026 18:02:57 GMT"
     },
     "cutoff-192": {
-      "hash": "b33fde626f8cee78be1313de56216ca94c34862480cc5c97d9e16725a4448d23",
+      "hash": "fb6f1b0c77983e95a6f8fa2566f81cbaa2bf3eeee57790e7b048592d50a87e51",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:38 GMT"
+      "modified": "Fri, 02 Oct 2026 18:02:57 GMT"
     },
     "cutoff-193": {
-      "hash": "a6c7f2eccf01212b2119b3d8e63a37f7f8d42c65effa82587f8af595eb8d2188",
+      "hash": "59ffa377add325ac0dd8e1463cee7138f06cc4ba7904ab93a30020622548ad80",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:38 GMT"
+      "modified": "Fri, 02 Oct 2026 18:02:57 GMT"
     },
     "cutoff-194": {
-      "hash": "dd303004b7448711866da13c03e1f17f65cee406c7808e32e36fbfbb9cde64ee",
+      "hash": "a3de5d1a4e66419be5cbf102f1c478638786f76cb5002dcfc97f5a905124713e",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:38 GMT"
+      "modified": "Fri, 02 Oct 2026 18:02:57 GMT"
     },
     "cutoff-195": {
-      "hash": "266530e478fd3e2599d68cea0b9d4938c3339e1a54841f063be824cd72068fee",
+      "hash": "30accd8e7210521401a237cc21ff19e7d175848915ebf7ac89e19a38cbfc3797",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:38 GMT"
+      "modified": "Fri, 02 Oct 2026 18:02:58 GMT"
     },
     "cutoff-196": {
-      "hash": "c28bae40d4ea8713ee801354ae86be7fe22a282729ff15ec7456ebe96c840872",
+      "hash": "71337782faff264f233e628f7f1916ca26097a6f7deecc91fe9c2c0f5d831d0b",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:39 GMT"
+      "modified": "Fri, 02 Oct 2026 18:02:58 GMT"
     },
     "cutoff-197": {
-      "hash": "68762302f49ced45b7abf8e939ce5bb85b3ca602ac9f75e53e2d9a5c164abb37",
+      "hash": "d8b659ca30d88ee7a626085ac6d3834071a14120b952281a30cdfde7481dfc1e",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:39 GMT"
+      "modified": "Fri, 02 Oct 2026 18:02:58 GMT"
     },
     "cutoff-198": {
-      "hash": "5aeda076b97a684f0368f98728348d351f02a2772545fa5eebd1645191d84f67",
+      "hash": "ac8a2b6cb6d461dffbfc77ee4575527d2ff6bd32d8c1d09ffa362226289c23de",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:39 GMT"
+      "modified": "Fri, 02 Oct 2026 18:02:58 GMT"
     },
     "cutoff-199": {
-      "hash": "46d2b9b8649d7e187a2f971d365b696fbd5b259bf63e7a21c070f2cb035cebdc",
+      "hash": "b49ec612e4075588c512885fe619d8b4142df559faf6f00e1424756cffd67b13",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:39 GMT"
+      "modified": "Fri, 02 Oct 2026 18:02:59 GMT"
     },
     "cutoff-200": {
-      "hash": "4a0bd92ea99853eecb9e3f8207b326e18a2b0d2b97c735daf02d1ab60b614b1c",
+      "hash": "9de6c0b881d5ab9fc6db340f4674e5468400277f3848a067aa85b84ee91db0ac",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:39 GMT"
+      "modified": "Fri, 02 Oct 2026 18:02:59 GMT"
     },
     "cutoff-201": {
-      "hash": "1ad8f29158870e94b97ac7598364d941a68c29e2c68d1f231469f50228dd90f7",
+      "hash": "640ab4e2c12e8e8871b9a55b8c1322d8804b9f7f3b264318f5464d38e87e5067",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:39 GMT"
+      "modified": "Fri, 02 Oct 2026 18:02:59 GMT"
     },
     "cutoff-202": {
-      "hash": "2659d808d7e975b8fdcf87022ff59694243c008ec5ee627581414d80082c7fc8",
+      "hash": "7f5efd326fe20527c5726ea37e7a3518d89d01a57ffb7f5b784942b80b31e8d4",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:40 GMT"
+      "modified": "Fri, 02 Oct 2026 18:02:59 GMT"
     },
     "cutoff-203": {
-      "hash": "864c70d80a57753eee05a79fc189c36e0d30f02826bf71ef2bf43f077d507c2d",
+      "hash": "5d53f14c9ab0bea31ba9e8f91fe2bb6240fba0e5e4fd6fac67cc1ac2f20edffd",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:40 GMT"
+      "modified": "Fri, 02 Oct 2026 18:03:00 GMT"
     },
     "cutoff-204": {
-      "hash": "f753932ad65b725c18064d29327edbe15e9ffbc0ac2f122f45f3faaf27bd7687",
+      "hash": "06c26e21a59688b9063010b4ce5a9ec80d4cde0633a4b2afa61d130d2bde9c80",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:40 GMT"
+      "modified": "Fri, 02 Oct 2026 18:03:00 GMT"
     },
     "cutoff-205": {
-      "hash": "9d923fd37bb66b0589f74c01ba894bdf80148c42143f8fc5538cc6a94ae7f8f8",
+      "hash": "1253620750983068bf86dd958a33993a55da69ffcb2b895c34a751dfb0e314e5",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:40 GMT"
+      "modified": "Fri, 02 Oct 2026 18:03:00 GMT"
     },
     "cutoff-206": {
-      "hash": "e4945c7b2f7ca830a476ba0489605d8f11d3763e7a5a84a42fcbfef27cbad922",
+      "hash": "15a80e5f15ca54a766eb1d59ad28469eebe4e7ec256575af736d298ad693feb3",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:40 GMT"
+      "modified": "Fri, 02 Oct 2026 18:03:00 GMT"
     },
     "cutoff-207": {
-      "hash": "5ab5705a88b4878fe6f1aa8019421e2306efd1458277d854fa8d4d0e0347beda",
+      "hash": "5071b6d063027f84752ac50bb076f8f17ac8a5ddba45c87cee734df1209341e3",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:41 GMT"
+      "modified": "Fri, 02 Oct 2026 18:03:00 GMT"
     },
     "cutoff-208": {
-      "hash": "bf8d9f31521c20edf4e4ffdea009cb4e79974c6777cc0676265a99f8965debd3",
+      "hash": "f199383e163d41e69b97a039d869220abfa34956699d6948cc2a1aadbf44e948",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:41 GMT"
+      "modified": "Fri, 02 Oct 2026 18:03:00 GMT"
     },
     "cutoff-209": {
-      "hash": "f171f365de084439b995e6b619df81c32cb1afcc9a8fe658c3d762531651b21d",
+      "hash": "64a8e242a8c8e5e701c2786b611c3b5f67fd520f0fea67366fc450c728b1c6a6",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:41 GMT"
+      "modified": "Fri, 02 Oct 2026 18:03:01 GMT"
     },
     "cutoff-210": {
-      "hash": "3d665c32ed6cbf3f6092f916bc1ec459c7506347dc840eb3d9c51b6e615ba15f",
+      "hash": "885cc863104200eaaba76b117f8b1e7e4907fb7d977f43fcc6f5266fc3cf11eb",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:41 GMT"
+      "modified": "Fri, 02 Oct 2026 18:03:01 GMT"
     },
     "cutoff-211": {
-      "hash": "47c3724060199f29a7d2c90ef6c3d3258b8e6c36a85f084f3a194e4db57a2833",
+      "hash": "a71716094085435d11195435437f46c09471f272b6d1f52d2477a8ba6513a98b",
       "etag": null,
-      "modified": "Thu, 01 Oct 2026 18:35:42 GMT"
+      "modified": "Fri, 02 Oct 2026 18:03:01 GMT"
     },
     "cutoff-212": {
       "hash": "b3f2f811051c8d05786c836d9dd3f8cb8255e44cc1a523f3f194728b47593787",
@@ -1374,13 +1374,13 @@
     },
     "cutoff-214": {
       "hash": "c7764f768b54740639eae51ff051d33d3e682b581af6b82eec289f9de9172ee7",
-      "etag": "\"1790879202-0\"",
-      "modified": "Thu, 01 Oct 2026 18:26:42 GMT"
+      "etag": "\"1790963629-0\"",
+      "modified": "Fri, 02 Oct 2026 17:53:49 GMT"
     },
     "cutoff-215": {
       "hash": "3663af9d457525d420fc1df70b680785c68f1f0a0b6a7498296134be49cbbf45",
-      "etag": "\"1790879202-0\"",
-      "modified": "Thu, 01 Oct 2026 18:26:42 GMT"
+      "etag": "\"1790963629-0\"",
+      "modified": "Fri, 02 Oct 2026 17:53:49 GMT"
     },
     "cutoff-216": {
       "hash": "25193b6db5eb77ad64919d856f353ec861cc7f2ed6328dc7c4a6f0a666dc21aa",
@@ -1389,33 +1389,33 @@
     },
     "cutoff-217": {
       "hash": "da5701e21ebc740bc00ed7943f38afc2bae12e1c31922844caa0698aca468d33",
-      "etag": "\"1790879204-0\"",
-      "modified": "Thu, 01 Oct 2026 18:26:44 GMT"
+      "etag": "\"1790963630-0\"",
+      "modified": "Fri, 02 Oct 2026 17:53:50 GMT"
     },
     "cutoff-218": {
       "hash": "d75ccfe324966f1eb1dcb2755b822ebc5b57eb3a740dbd799053af98ec0ebc99",
-      "etag": "\"1790879204-0\"",
-      "modified": "Thu, 01 Oct 2026 18:26:44 GMT"
+      "etag": "\"1790963630-0\"",
+      "modified": "Fri, 02 Oct 2026 17:53:50 GMT"
     },
     "cutoff-219": {
       "hash": "9b78664fe906f7f6eca344977e4eaeca290dc6c1b58d4ea8f6fd85cb0c896e1c",
-      "etag": "\"1790879204-0\"",
-      "modified": "Thu, 01 Oct 2026 18:26:44 GMT"
+      "etag": "\"1790963630-0\"",
+      "modified": "Fri, 02 Oct 2026 17:53:50 GMT"
     },
     "cutoff-220": {
       "hash": "f3ae67d7315b57bdb556ce670c8fc27dc9906303c3654b92adfb5f5edcc67208",
-      "etag": "\"1790879205-0\"",
-      "modified": "Thu, 01 Oct 2026 18:26:45 GMT"
+      "etag": "\"1790963630-0\"",
+      "modified": "Fri, 02 Oct 2026 17:53:50 GMT"
     },
     "cutoff-221": {
       "hash": "879355713b4c1fd29c341b9814713005b4e254a6651d629cf333fb1e9a06874f",
-      "etag": "\"1790879205-0\"",
-      "modified": "Thu, 01 Oct 2026 18:26:45 GMT"
+      "etag": "\"1790963630-0\"",
+      "modified": "Fri, 02 Oct 2026 17:53:50 GMT"
     },
     "cutoff-222": {
       "hash": "c8ec86d4e9bab267ef6f3567bcb34021e8fa7322b64a4e9148c9a8e860caf065",
-      "etag": "\"1790879205-0\"",
-      "modified": "Thu, 01 Oct 2026 18:26:45 GMT"
+      "etag": "\"1790963631-0\"",
+      "modified": "Fri, 02 Oct 2026 17:53:51 GMT"
     },
     "cutoff-223": {
       "hash": "d73c6a2dce4f629ceaaba967a8d6765b05b19714cadd6d124a09ad4c11bc3874",
@@ -1628,7 +1628,7 @@
       "modified": null
     },
     "cutoff-265": {
-      "hash": "d74eba90438341211b105811e068965e55e6bda5b85fae7d656eb9ea9778c01c",
+      "hash": "490e3884af559f8be2271726ea41c5a201c2a576f95f7f846dcbde45e9fa07be",
       "etag": null,
       "modified": null
     },
@@ -1749,56 +1749,215 @@
       "url": "https://demre.cl/publicaciones/pdf/2027-26-09-24-oferta-definitiva-carreras-p2027.pdf"
     },
     {
+      "source": "admision.udec.cl",
+      "url": "https://admision.udec.cl/bioingenieria/"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/administracion-hotelera-y-gastronomica"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/administracion-publica"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/arquitectura"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/auditoria"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/biologia-marina"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/cine"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/derecho"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/diseno"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/ecologia"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/educacion-parvularia"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/enfermeria"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/fonoaudiologia"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/gestion-en-turismo-y-cultura"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/ingenieria-ambiental"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/ingenieria-civil"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/ingenieria-civil-ambiental"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/ingenieria-civil-biomedica"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/ingenieria-civil-industrial"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/ingenieria-civil-informatica"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/ingenieria-civil-matematica"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/ingenieria-civil-oceanica"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/ingenieria-comercial"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/ingenieria-en-construccion"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/ingenieria-en-estadistica-y-ciencia-de-datos"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/ingenieria-en-finanzas"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/ingenieria-en-gestion-logistica"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/ingenieria-en-informacion-y-control-de-gestion"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/ingenieria-en-informatica"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/ingenieria-en-negocios-internacionales"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/ingenieria-plan-comun"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/kinesiologia"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/licenciatura-en-ciencias"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/licenciatura-en-fisica"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/medicina"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/nutricion-y-dietetica"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/obstetricia-y-puericultura"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/odontologia"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/pedagogia-en-filosofia"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/pedagogia-en-historia-y-ciencias-sociales"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/pedagogia-en-lengua-y-literatura"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/pedagogia-en-matematicas-o-licenciatura-en-matematicas"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/pedagogia-en-musica"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/psicologia"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/quimica-y-farmacia"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/sociologia"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/teatro"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/tecnologia-medica"
+    },
+    {
+      "source": "admision.uv.cl",
+      "url": "https://admision.uv.cl/carreras/trabajo-social"
+    },
+    {
       "source": "estudiantespucv.cl",
       "url": "https://estudiantespucv.cl/dpd/puntajes-de-matriculas/"
     },
     {
       "source": "www.uantof.cl",
       "url": "https://www.uantof.cl/carreras/artes-musicales/"
+    },
+    {
+      "source": "www.ubiobio.cl",
+      "url": "https://www.ubiobio.cl/admision/Sede_Concepcion/7/Ingenieria_Civil/"
     }
   ],
-  "errors": [
-    {
-      "source": "admision.ufro.cl",
-      "url": "https://admision.ufro.cl/agronomia/",
-      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
-    },
-    {
-      "source": "admision.ufro.cl",
-      "url": "https://admision.ufro.cl/bioquimica/",
-      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
-    },
-    {
-      "source": "admision.ufro.cl",
-      "url": "https://admision.ufro.cl/biotecnologia/",
-      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
-    },
-    {
-      "source": "admision.ufro.cl",
-      "url": "https://admision.ufro.cl/derecho/",
-      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
-    },
-    {
-      "source": "admision.ufro.cl",
-      "url": "https://admision.ufro.cl/enfermeria/",
-      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
-    },
-    {
-      "source": "admision.ufro.cl",
-      "url": "https://admision.ufro.cl/fonoaudiologia/",
-      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
-    },
-    {
-      "source": "admision.ufro.cl",
-      "url": "https://admision.ufro.cl/ingenieria-civil-ambiental/",
-      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
-    },
-    {
-      "source": "admision.ufro.cl",
-      "url": "https://admision.ufro.cl/ingenieria-civil-electrica/",
-      "error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
-    }
-  ],
-  "checkedSources": 281,
+  "errors": [],
+  "checkedSources": 289,
   "totalSources": 289
 }
