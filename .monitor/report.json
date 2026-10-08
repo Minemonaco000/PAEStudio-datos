@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-07T19:10:44.676109+00:00",
+  "checkedAt": "2026-10-08T19:02:12.708911+00:00",
   "message": "Se detectaron cambios en fuentes oficiales. Se conservan el catálogo y las tablas de puntajes verificados; las novedades requieren revisión antes de incorporarse.",
   "automatic": true,
   "catalogVersion": "2026.09.26.4",
@@ -535,17 +535,17 @@
     "cutoff-45": {
       "hash": "284dd16b39b9c241f8146cbd94b26de92b27c551fab047a0df1e14a032507bb5",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 18:40:18 GMT"
+      "modified": "Thu, 08 Oct 2026 18:50:53 GMT"
     },
     "cutoff-46": {
       "hash": "9bcaaf820fe00b3ab0fbf6aa77ccedc4572e5e3061b3af6ab3a4cfefa868652b",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 18:42:05 GMT"
+      "modified": "Thu, 08 Oct 2026 18:34:27 GMT"
     },
     "cutoff-47": {
       "hash": "63272b8e1d655514ac7670e6bf6ce43e9c2d8cd784ec0d49a07c33bae71367fb",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 18:57:11 GMT"
+      "modified": "Thu, 08 Oct 2026 18:50:53 GMT"
     },
     "cutoff-48": {
       "hash": "6cde1d17fe47d0ea7b8cfc28f1751be01a1a3a4d73a8a0f17b8f60743148b3d1",
@@ -875,7 +875,7 @@
     "cutoff-113": {
       "hash": "9d6bd104a942d4bc47f722b90440b6cf8fab71226e1595aaffaa2630f6306bba",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 18:57:44 GMT"
+      "modified": "Thu, 08 Oct 2026 14:07:18 GMT"
     },
     "cutoff-114": {
       "hash": "f3cbe6afbf9ffcae2439f2bc3e40d4da50e38bb7de654b39316d0079e5127c57",
@@ -885,7 +885,7 @@
     "cutoff-115": {
       "hash": "4d1565a4ebffd6cf5b23569fe00075e775132ddcda35b11faffef2bd3c0dd9cf",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 18:39:32 GMT"
+      "modified": "Thu, 08 Oct 2026 12:33:07 GMT"
     },
     "cutoff-116": {
       "hash": "53f0f33a22f26f10348a8ad2ffb8092478737403b2a5103b880532302a7acc70",
@@ -895,7 +895,7 @@
     "cutoff-117": {
       "hash": "671f6c8ccc82e1f5a976c326f77367f64ae72dc80caf8838ad52f51135a462bf",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 18:57:46 GMT"
+      "modified": "Thu, 08 Oct 2026 12:54:06 GMT"
     },
     "cutoff-118": {
       "hash": "12208e7c11c633bbdaed2100f7a0d4cd519ac69c0248c8e9f74cd83c229702f0",
@@ -1125,242 +1125,242 @@
     "cutoff-164": {
       "hash": "6f66784fbf2d8e8e043e94d93a0051c6b08a30515b441f2169cf3c81b02c3b03",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:16 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:46 GMT"
     },
     "cutoff-165": {
       "hash": "60c860afb152736fad0d1f6ba4173aa6671e07e88659bcb09a60c33baceba388",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:16 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:47 GMT"
     },
     "cutoff-166": {
       "hash": "3d1758d03dc2e15425247502945549dcab4344933eac522be873f8ec577c983a",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:16 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:47 GMT"
     },
     "cutoff-167": {
       "hash": "82a34171edf19bf17315166148f386319e2ec437b4fb09c6e5fb7bdd596ebed9",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:17 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:48 GMT"
     },
     "cutoff-168": {
       "hash": "7f2f5e20a6fc44593c4b6fe66c52441cf1051f2f27e7a6e384b67db1c059fcf1",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:17 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:48 GMT"
     },
     "cutoff-169": {
       "hash": "38d33da055a78f7a18e57a1b5c499704373f4ec6771e646dbd498d29ba88d552",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:17 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:48 GMT"
     },
     "cutoff-170": {
       "hash": "8e31eb8f57962a849de794308907fbc9faa684460c4b6f600f926fd4e65234bd",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:17 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:48 GMT"
     },
     "cutoff-171": {
       "hash": "6f3fccc969338cd560d9910c8335cd4739a2a8021123c13fce8840a70fa3b65f",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:17 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:48 GMT"
     },
     "cutoff-172": {
       "hash": "51e959fdbc0f3fc606603e9f39f6d917fde7f42d075575c95bb3835061a18262",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:17 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:49 GMT"
     },
     "cutoff-173": {
       "hash": "83458a29f8c01bdf2e375ce5683628e0f93b6423a2a63afe8d2ab9c8eb2c640f",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:18 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:49 GMT"
     },
     "cutoff-174": {
       "hash": "d4a2a66adcdfa4718eac3e5bc08c3f9a742614472c9c86c9ad2f7c3772f5a103",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:18 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:49 GMT"
     },
     "cutoff-175": {
       "hash": "c87c92d95512aba2e156558e06cab506d82fef59a67425fe78e00141d06e26bd",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:18 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:49 GMT"
     },
     "cutoff-176": {
       "hash": "fc2f3b37e3cbd211a43a35eb4165163ada6ce785d9bcef1bcd88cb94ffe7a020",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:18 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:49 GMT"
     },
     "cutoff-177": {
       "hash": "cddf7bc33f78cc4c3e13328cf954f17f91f7fa33ef894fe3a7bfdf76dda6dc25",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:19 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:49 GMT"
     },
     "cutoff-178": {
       "hash": "7f80ca88d0579a942f71118317ac5b70ec5b0c4d0ea79dea9e67caa295488937",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:19 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:49 GMT"
     },
     "cutoff-179": {
       "hash": "1c5aebd8d58452bfe745c651acfff801bd81db2e809cdd613f4a88aba86a4c64",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:19 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:50 GMT"
     },
     "cutoff-180": {
       "hash": "9c116a917c75b67d6156152c185c73542bcfb4916b3baeb1ff45d472253f2189",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:19 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:50 GMT"
     },
     "cutoff-181": {
       "hash": "d237f88a42508eb7f245432f035bd32afc2a39e4299ffa18482838336851736e",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:19 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:50 GMT"
     },
     "cutoff-182": {
       "hash": "6542ac5bd0e6e7ab6405c1069a8fce75e66f8cfad00013fc0588a5c78481e7e8",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:20 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:50 GMT"
     },
     "cutoff-183": {
       "hash": "6ec6d2993b7897fbd47b56e4c470aca1d23606249fd90c7acd6a4f2723436050",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:20 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:51 GMT"
     },
     "cutoff-184": {
       "hash": "e594b79ba9e23a8e1a5830cf7263c5e31c2ad34c625adf5d15120144405c8ab7",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:20 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:51 GMT"
     },
     "cutoff-185": {
       "hash": "f6945b6c3a18b68fb4cb7d0ddb1b6471a5009695673cb5249b4ff0fc37a8dc31",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:20 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:51 GMT"
     },
     "cutoff-186": {
       "hash": "85c7d22d7f482b971366b9063576dfa24bf1a52c3cae7585a13abd0029a0221a",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:20 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:51 GMT"
     },
     "cutoff-187": {
       "hash": "15ea1f9c6a9d2a4e63c9f2947e4bb71a4e40b64f6c843bbd4e5bed5aa0438769",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:20 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:51 GMT"
     },
     "cutoff-188": {
       "hash": "9c8a7bb19fca1811aef38a204281d9f178858d7c521a32fc2c399e47d9542b8e",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:20 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:52 GMT"
     },
     "cutoff-189": {
       "hash": "f113e14a9cc1d18fbed2f09d3cf4f2de049e041781b41e06c6b5cff480eb1418",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:21 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:52 GMT"
     },
     "cutoff-190": {
       "hash": "ec9eca01845e6afad6e0eda11388c2871eaa76905a3bdce461c37557892810b1",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:21 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:52 GMT"
     },
     "cutoff-191": {
       "hash": "fbbacfa249175ff3e8c43379b259382ed687e4c3a2d23f7b94619cd669f3c290",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:21 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:52 GMT"
     },
     "cutoff-192": {
       "hash": "fb6f1b0c77983e95a6f8fa2566f81cbaa2bf3eeee57790e7b048592d50a87e51",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:21 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:53 GMT"
     },
     "cutoff-193": {
       "hash": "59ffa377add325ac0dd8e1463cee7138f06cc4ba7904ab93a30020622548ad80",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:22 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:53 GMT"
     },
     "cutoff-194": {
       "hash": "a3de5d1a4e66419be5cbf102f1c478638786f76cb5002dcfc97f5a905124713e",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:22 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:53 GMT"
     },
     "cutoff-195": {
       "hash": "30accd8e7210521401a237cc21ff19e7d175848915ebf7ac89e19a38cbfc3797",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:22 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:53 GMT"
     },
     "cutoff-196": {
       "hash": "71337782faff264f233e628f7f1916ca26097a6f7deecc91fe9c2c0f5d831d0b",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:22 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:53 GMT"
     },
     "cutoff-197": {
       "hash": "d8b659ca30d88ee7a626085ac6d3834071a14120b952281a30cdfde7481dfc1e",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:23 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:53 GMT"
     },
     "cutoff-198": {
       "hash": "ac8a2b6cb6d461dffbfc77ee4575527d2ff6bd32d8c1d09ffa362226289c23de",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:23 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:53 GMT"
     },
     "cutoff-199": {
       "hash": "b49ec612e4075588c512885fe619d8b4142df559faf6f00e1424756cffd67b13",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:23 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:54 GMT"
     },
     "cutoff-200": {
       "hash": "9de6c0b881d5ab9fc6db340f4674e5468400277f3848a067aa85b84ee91db0ac",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:23 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:54 GMT"
     },
     "cutoff-201": {
       "hash": "640ab4e2c12e8e8871b9a55b8c1322d8804b9f7f3b264318f5464d38e87e5067",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:24 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:54 GMT"
     },
     "cutoff-202": {
       "hash": "7f5efd326fe20527c5726ea37e7a3518d89d01a57ffb7f5b784942b80b31e8d4",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:24 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:54 GMT"
     },
     "cutoff-203": {
       "hash": "5d53f14c9ab0bea31ba9e8f91fe2bb6240fba0e5e4fd6fac67cc1ac2f20edffd",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:24 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:54 GMT"
     },
     "cutoff-204": {
       "hash": "06c26e21a59688b9063010b4ce5a9ec80d4cde0633a4b2afa61d130d2bde9c80",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:24 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:54 GMT"
     },
     "cutoff-205": {
       "hash": "1253620750983068bf86dd958a33993a55da69ffcb2b895c34a751dfb0e314e5",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:24 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:55 GMT"
     },
     "cutoff-206": {
       "hash": "15a80e5f15ca54a766eb1d59ad28469eebe4e7ec256575af736d298ad693feb3",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:24 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:55 GMT"
     },
     "cutoff-207": {
       "hash": "5071b6d063027f84752ac50bb076f8f17ac8a5ddba45c87cee734df1209341e3",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:24 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:55 GMT"
     },
     "cutoff-208": {
       "hash": "f199383e163d41e69b97a039d869220abfa34956699d6948cc2a1aadbf44e948",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:24 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:55 GMT"
     },
     "cutoff-209": {
       "hash": "64a8e242a8c8e5e701c2786b611c3b5f67fd520f0fea67366fc450c728b1c6a6",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:25 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:55 GMT"
     },
     "cutoff-210": {
       "hash": "885cc863104200eaaba76b117f8b1e7e4907fb7d977f43fcc6f5266fc3cf11eb",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:25 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:55 GMT"
     },
     "cutoff-211": {
       "hash": "a71716094085435d11195435437f46c09471f272b6d1f52d2477a8ba6513a98b",
       "etag": null,
-      "modified": "Wed, 07 Oct 2026 19:10:25 GMT"
+      "modified": "Thu, 08 Oct 2026 19:01:56 GMT"
     },
     "cutoff-212": {
       "hash": "b3f2f811051c8d05786c836d9dd3f8cb8255e44cc1a523f3f194728b47593787",
@@ -1374,13 +1374,13 @@
     },
     "cutoff-214": {
       "hash": "c7764f768b54740639eae51ff051d33d3e682b581af6b82eec289f9de9172ee7",
-      "etag": "\"1791399497-0\"",
-      "modified": "Wed, 07 Oct 2026 18:58:17 GMT"
+      "etag": "\"1791485558-0\"",
+      "modified": "Thu, 08 Oct 2026 18:52:38 GMT"
     },
     "cutoff-215": {
       "hash": "3663af9d457525d420fc1df70b680785c68f1f0a0b6a7498296134be49cbbf45",
-      "etag": "\"1791399497-0\"",
-      "modified": "Wed, 07 Oct 2026 18:58:17 GMT"
+      "etag": "\"1791485558-0\"",
+      "modified": "Thu, 08 Oct 2026 18:52:38 GMT"
     },
     "cutoff-216": {
       "hash": "25193b6db5eb77ad64919d856f353ec861cc7f2ed6328dc7c4a6f0a666dc21aa",
@@ -1389,33 +1389,33 @@
     },
     "cutoff-217": {
       "hash": "da5701e21ebc740bc00ed7943f38afc2bae12e1c31922844caa0698aca468d33",
-      "etag": "\"1791399498-0\"",
-      "modified": "Wed, 07 Oct 2026 18:58:18 GMT"
+      "etag": "\"1791484747-0\"",
+      "modified": "Thu, 08 Oct 2026 18:39:07 GMT"
     },
     "cutoff-218": {
       "hash": "d75ccfe324966f1eb1dcb2755b822ebc5b57eb3a740dbd799053af98ec0ebc99",
-      "etag": "\"1791399498-0\"",
-      "modified": "Wed, 07 Oct 2026 18:58:18 GMT"
+      "etag": "\"1791485559-0\"",
+      "modified": "Thu, 08 Oct 2026 18:52:39 GMT"
     },
     "cutoff-219": {
       "hash": "9b78664fe906f7f6eca344977e4eaeca290dc6c1b58d4ea8f6fd85cb0c896e1c",
-      "etag": "\"1791399498-0\"",
-      "modified": "Wed, 07 Oct 2026 18:58:18 GMT"
+      "etag": "\"1791485559-0\"",
+      "modified": "Thu, 08 Oct 2026 18:52:39 GMT"
     },
     "cutoff-220": {
       "hash": "f3ae67d7315b57bdb556ce670c8fc27dc9906303c3654b92adfb5f5edcc67208",
-      "etag": "\"1791399499-0\"",
-      "modified": "Wed, 07 Oct 2026 18:58:19 GMT"
+      "etag": "\"1791485559-0\"",
+      "modified": "Thu, 08 Oct 2026 18:52:39 GMT"
     },
     "cutoff-221": {
       "hash": "879355713b4c1fd29c341b9814713005b4e254a6651d629cf333fb1e9a06874f",
-      "etag": "\"1791399499-0\"",
-      "modified": "Wed, 07 Oct 2026 18:58:19 GMT"
+      "etag": "\"1791485560-0\"",
+      "modified": "Thu, 08 Oct 2026 18:52:40 GMT"
     },
     "cutoff-222": {
       "hash": "c8ec86d4e9bab267ef6f3567bcb34021e8fa7322b64a4e9148c9a8e860caf065",
-      "etag": "\"1791399499-0\"",
-      "modified": "Wed, 07 Oct 2026 18:58:19 GMT"
+      "etag": "\"1791485560-0\"",
+      "modified": "Thu, 08 Oct 2026 18:52:40 GMT"
     },
     "cutoff-223": {
       "hash": "d73c6a2dce4f629ceaaba967a8d6765b05b19714cadd6d124a09ad4c11bc3874",
@@ -1965,208 +1965,7 @@
       "url": "https://www.ubiobio.cl/admision/Sede_Concepcion/7/Ingenieria_Civil/"
     }
   ],
-  "errors": [
-    {
-      "source": "admision.ucn.cl",
-      "url": "https://admision.ucn.cl/carreras/arquitectura-construccion-obras/arquitectura/",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "source": "admision.ucn.cl",
-      "url": "https://admision.ucn.cl/carreras/arquitectura-construccion-obras/ingenieria-civil-en-construccion/",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "source": "admision.ucn.cl",
-      "url": "https://admision.ucn.cl/carreras/arquitectura-construccion-obras/ingenieria-civil-plan-comun/",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "source": "admision.ucn.cl",
-      "url": "https://admision.ucn.cl/carreras/arquitectura-construccion-obras/ingenieria-civil/",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "source": "admision.ucn.cl",
-      "url": "https://admision.ucn.cl/carreras/arquitectura-construccion-obras/ingenieria-en-construccion/",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "source": "admision.ucn.cl",
-      "url": "https://admision.ucn.cl/carreras/arquitectura-construccion-obras/ingenieria-en-prevencion-de-riesgos-y-medioambiente/",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "source": "admision.ucn.cl",
-      "url": "https://admision.ucn.cl/carreras/ciencias-del-mar/biologia-marina/",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "source": "admision.ucn.cl",
-      "url": "https://admision.ucn.cl/carreras/ciencias-del-mar/ingenieria-en-acuicultura/",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "source": "admision.ucn.cl",
-      "url": "https://admision.ucn.cl/carreras/ciencias/geologia/",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "source": "admision.ucn.cl",
-      "url": "https://admision.ucn.cl/carreras/ciencias/licenciatura-en-fisica-con-mencion-en-astronomia/",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "source": "admision.ucn.cl",
-      "url": "https://admision.ucn.cl/carreras/ciencias/licenciatura-en-matematica/",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "source": "admision.ucn.cl",
-      "url": "https://admision.ucn.cl/carreras/ciencias/quimica-industrial/",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "source": "admision.ucn.cl",
-      "url": "https://admision.ucn.cl/carreras/economia-administracion/contador-auditor-contador-publico/",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "source": "admision.ucn.cl",
-      "url": "https://admision.ucn.cl/carreras/economia-administracion/ingenieria-comercial/",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "source": "admision.ucn.cl",
-      "url": "https://admision.ucn.cl/carreras/economia-administracion/ingenieria-en-informacion-y-control-de-gestion/",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "source": "admision.ucn.cl",
-      "url": "https://admision.ucn.cl/carreras/humanidades/derecho/",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "source": "admision.ucn.cl",
-      "url": "https://admision.ucn.cl/carreras/humanidades/periodismo/",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "source": "admision.ucn.cl",
-      "url": "https://admision.ucn.cl/carreras/humanidades/psicologia/",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "source": "admision.ucn.cl",
-      "url": "https://admision.ucn.cl/carreras/mineria/ingenieria-civil-ambiental/",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "source": "admision.ucn.cl",
-      "url": "https://admision.ucn.cl/carreras/mineria/ingenieria-civil-de-minas/",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "source": "admision.ucn.cl",
-      "url": "https://admision.ucn.cl/carreras/mineria/ingenieria-civil-electronica/",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "source": "admision.ucn.cl",
-      "url": "https://admision.ucn.cl/carreras/mineria/ingenieria-civil-en-energia/",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "source": "admision.ucn.cl",
-      "url": "https://admision.ucn.cl/carreras/mineria/ingenieria-civil-industrial/",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "source": "admision.ucn.cl",
-      "url": "https://admision.ucn.cl/carreras/mineria/ingenieria-civil-metalurgica/",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "source": "admision.ucn.cl",
-      "url": "https://admision.ucn.cl/carreras/mineria/ingenieria-civil-quimica/",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "source": "admision.ucn.cl",
-      "url": "https://admision.ucn.cl/carreras/mineria/ingenieria-en-metalurgia/",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "source": "admision.ucn.cl",
-      "url": "https://admision.ucn.cl/carreras/pedagogias/pedagogia-en-educacion-basica-con-especializacion/",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "source": "admision.ucn.cl",
-      "url": "https://admision.ucn.cl/carreras/pedagogias/pedagogia-en-educacion-diferencial-con-mencion-en-desarrollo-emocional-y-cognitivo/",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "source": "admision.ucn.cl",
-      "url": "https://admision.ucn.cl/carreras/pedagogias/pedagogia-en-educacion-parvularia-con-mencion-en-desarrollo-emocional-y-cognitivo/",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "source": "admision.ucn.cl",
-      "url": "https://admision.ucn.cl/carreras/pedagogias/pedagogia-en-filosofia-y-religion/",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "source": "admision.ucn.cl",
-      "url": "https://admision.ucn.cl/carreras/pedagogias/pedagogia-en-ingles/",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "source": "admision.ucn.cl",
-      "url": "https://admision.ucn.cl/carreras/pedagogias/pedagogia-en-matematica-en-educacion-media/",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "source": "admision.ucn.cl",
-      "url": "https://admision.ucn.cl/carreras/salud/enfermeria/",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "source": "admision.ucn.cl",
-      "url": "https://admision.ucn.cl/carreras/salud/kinesiologia/",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "source": "admision.ucn.cl",
-      "url": "https://admision.ucn.cl/carreras/salud/medicina/",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "source": "admision.ucn.cl",
-      "url": "https://admision.ucn.cl/carreras/salud/nutricion-y-dietetica/",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "source": "admision.ucn.cl",
-      "url": "https://admision.ucn.cl/carreras/salud/quimica-y-farmacia/",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "source": "admision.ucn.cl",
-      "url": "https://admision.ucn.cl/carreras/tecnologia-computacion/ingenieria-civil-en-computacion-e-informatica/",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "source": "admision.ucn.cl",
-      "url": "https://admision.ucn.cl/carreras/tecnologia-computacion/ingenieria-en-computacion-e-informatica/",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "source": "admision.ucn.cl",
-      "url": "https://admision.ucn.cl/carreras/tecnologia-computacion/ingenieria-en-tecnologias-de-la-informacion/",
-      "error": "<urlopen error timed out>"
-    }
-  ],
-  "checkedSources": 249,
+  "errors": [],
+  "checkedSources": 289,
   "totalSources": 289
 }
