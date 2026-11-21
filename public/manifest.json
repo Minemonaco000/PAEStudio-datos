@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "sequence": 59,
+  "sequence": 60,
   "minAppVersion": "2.55.0",
-  "publishedAt": "2026-11-20T20:44:17.534680+00:00",
+  "publishedAt": "2026-11-21T19:48:13.796281+00:00",
   "catalogVersion": "2026.09.26.4",
   "tablesVersion": "2026-09-22",
   "catalog": {
@@ -16,10 +16,10 @@
     "bytes": 17550
   },
   "status": {
-    "checkedAt": "2026-11-20T20:44:17.410585+00:00",
-    "checkedSources": 287,
+    "checkedAt": "2026-11-21T19:48:13.623064+00:00",
+    "checkedSources": 210,
     "totalSources": 289,
     "pending": 78,
-    "errors": 2
+    "errors": 79
   }
 }
