@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-26T21:56:11.986682+00:00",
+  "checkedAt": "2026-11-27T21:39:14.934579+00:00",
   "message": "Se detectaron cambios en fuentes oficiales. Se conservan el catálogo y las tablas de puntajes verificados; las novedades requieren revisión antes de incorporarse.",
   "automatic": true,
   "catalogVersion": "2026.09.26.4",
@@ -515,387 +515,387 @@
     "cutoff-41": {
       "hash": "4fe2dcb34703889350b61c04f222a96134a97768972fe74d8c604d6e048d7525",
       "etag": null,
-      "modified": "Fri, 06 Nov 2026 19:23:31 GMT"
+      "modified": "Fri, 27 Nov 2026 12:44:15 GMT"
     },
     "cutoff-42": {
       "hash": "d298586132b783b7c24cc892ed3bd33b4edf96663cd4fb94fd8d44004c6f1d97",
       "etag": null,
-      "modified": "Wed, 11 Nov 2026 13:17:27 GMT"
+      "modified": "Fri, 27 Nov 2026 12:32:27 GMT"
     },
     "cutoff-43": {
       "hash": "556daa30511af1101154033c20c002ca8f5703d58143da9832beca55b2cfc99a",
       "etag": null,
-      "modified": "Fri, 06 Nov 2026 19:16:59 GMT"
+      "modified": "Fri, 27 Nov 2026 14:39:01 GMT"
     },
     "cutoff-44": {
       "hash": "55d2b7a1656a45fd3a3e7384bd7d0c49d7dcfe914a6e3094bdb11d3c459ecf5a",
       "etag": null,
-      "modified": "Wed, 11 Nov 2026 15:49:32 GMT"
+      "modified": "Fri, 27 Nov 2026 12:21:19 GMT"
     },
     "cutoff-45": {
       "hash": "7caf6df1aa149db89415465f1dd1c87952c6da5f96b974faf3eeaf65e1a2c04a",
       "etag": null,
-      "modified": "Wed, 11 Nov 2026 15:03:33 GMT"
+      "modified": "Fri, 27 Nov 2026 12:28:36 GMT"
     },
     "cutoff-46": {
       "hash": "30d0a342a5bb65cbd6c5e167b9ba27becdc5495b192099f1bba576aa795f87ac",
       "etag": null,
-      "modified": "Wed, 11 Nov 2026 14:59:04 GMT"
+      "modified": "Fri, 27 Nov 2026 13:28:03 GMT"
     },
     "cutoff-47": {
       "hash": "57b8aba8613c3c80a2f5ce97fc370b96797b57a8318402c1e9b074eeb9771462",
       "etag": null,
-      "modified": "Mon, 09 Nov 2026 17:46:49 GMT"
+      "modified": "Fri, 27 Nov 2026 13:04:56 GMT"
     },
     "cutoff-48": {
       "hash": "6cde1d17fe47d0ea7b8cfc28f1751be01a1a3a4d73a8a0f17b8f60743148b3d1",
       "etag": null,
-      "modified": "Wed, 18 Nov 2026 18:50:36 GMT"
+      "modified": "Fri, 27 Nov 2026 14:56:49 GMT"
     },
     "cutoff-49": {
       "hash": "f866f050e6d8f42fd3c95e42c635c4332716f8ed914c22da149ec940320a5481",
       "etag": null,
-      "modified": "Fri, 06 Nov 2026 19:23:32 GMT"
+      "modified": "Fri, 27 Nov 2026 14:56:50 GMT"
     },
     "cutoff-50": {
       "hash": "2bb4097fc3bed4c9980c57bfbb3aff1f4f4de004a4951a024e9a7280d0c0e270",
       "etag": null,
-      "modified": "Wed, 04 Nov 2026 13:03:24 GMT"
+      "modified": "Fri, 27 Nov 2026 14:52:15 GMT"
     },
     "cutoff-51": {
       "hash": "8bcbcf8655e9b9bb4c5ef390e7bc2651aebc195cf2f651a39ae9735629833248",
       "etag": null,
-      "modified": "Mon, 09 Nov 2026 16:05:36 GMT"
+      "modified": "Fri, 27 Nov 2026 12:34:04 GMT"
     },
     "cutoff-52": {
       "hash": "72dd3890e75fd937967ee03efb624f5b89a0f63e85b345b1103023b226e5cad3",
       "etag": null,
-      "modified": "Wed, 04 Nov 2026 13:07:48 GMT"
+      "modified": "Fri, 27 Nov 2026 12:18:20 GMT"
     },
     "cutoff-53": {
       "hash": "357dcdb432a5b51046b3c6b16e8c4a42e9212b2f2dfd9ed863e1e75ea72d99c6",
       "etag": null,
-      "modified": "Mon, 09 Nov 2026 16:27:18 GMT"
+      "modified": "Fri, 27 Nov 2026 13:34:57 GMT"
     },
     "cutoff-54": {
       "hash": "3f61e1b109ee403dbab5d5093dbb3cb73fbd89c993be028d1f256f7ad4b660bf",
       "etag": null,
-      "modified": "Mon, 09 Nov 2026 16:59:47 GMT"
+      "modified": "Fri, 27 Nov 2026 12:37:48 GMT"
     },
     "cutoff-55": {
       "hash": "55b097ae540111f38b4b459244e294a370d7738a5860078db26bacdb569c7725",
       "etag": null,
-      "modified": "Fri, 06 Nov 2026 18:51:25 GMT"
+      "modified": "Fri, 27 Nov 2026 12:26:25 GMT"
     },
     "cutoff-56": {
       "hash": "afbce4511cfb494497361c5dbb37fde17846edab4f2183c5898dfbbc5bd7a2ad",
       "etag": null,
-      "modified": "Fri, 06 Nov 2026 18:40:51 GMT"
+      "modified": "Fri, 27 Nov 2026 14:56:50 GMT"
     },
     "cutoff-57": {
       "hash": "6710a7de628b90a3f8e0f881d27e8675937ca863af174b06583fceefcfd6554f",
       "etag": null,
-      "modified": "Wed, 04 Nov 2026 15:29:11 GMT"
+      "modified": "Fri, 27 Nov 2026 14:56:54 GMT"
     },
     "cutoff-58": {
       "hash": "fb50faa8e07f65a4bc0791e93e0b157d025beeb1ae13efdbc1f4034e068d412b",
       "etag": null,
-      "modified": "Wed, 04 Nov 2026 13:10:26 GMT"
+      "modified": "Fri, 27 Nov 2026 12:36:04 GMT"
     },
     "cutoff-59": {
       "hash": "64453be45f2dd7dc5c42de4f0cbc15613a97e48e21789cf4db4f442e37ebf1c1",
       "etag": null,
-      "modified": "Wed, 04 Nov 2026 16:13:22 GMT"
+      "modified": "Fri, 27 Nov 2026 14:56:54 GMT"
     },
     "cutoff-60": {
       "hash": "bd87394ba1057dadf040fff543aec75749cb84e7d8830b78e4d69039df077e8a",
       "etag": null,
-      "modified": "Wed, 04 Nov 2026 13:04:16 GMT"
+      "modified": "Fri, 27 Nov 2026 14:56:50 GMT"
     },
     "cutoff-61": {
       "hash": "8204b0665f6296551a227841d8b67c224a823f63c1cb9adb4c9c34587839a33a",
       "etag": null,
-      "modified": "Wed, 04 Nov 2026 14:14:02 GMT"
+      "modified": "Fri, 27 Nov 2026 14:49:47 GMT"
     },
     "cutoff-62": {
       "hash": "c359243005bbe091509c571e36456496e4a51bfde750e128818f132306138777",
       "etag": null,
-      "modified": "Wed, 11 Nov 2026 13:17:15 GMT"
+      "modified": "Fri, 27 Nov 2026 13:41:34 GMT"
     },
     "cutoff-63": {
       "hash": "0ccf3cae1a9efeac1898aef98f8e2330aa9e162f3c5f4bb95ba8ddf12ae985b1",
       "etag": null,
-      "modified": "Fri, 06 Nov 2026 19:23:35 GMT"
+      "modified": "Fri, 27 Nov 2026 13:10:08 GMT"
     },
     "cutoff-64": {
       "hash": "844a3ddb888988f40f97c82002ef3c81c42e1300e494d439ca9c643ed335d8ed",
       "etag": null,
-      "modified": "Fri, 06 Nov 2026 19:23:35 GMT"
+      "modified": "Fri, 27 Nov 2026 12:25:51 GMT"
     },
     "cutoff-65": {
       "hash": "2d2e6a2cedef1931f8cffd0e960be3cc5ded0e23c115a84875a4f5a54fb9aa4f",
       "etag": null,
-      "modified": "Fri, 06 Nov 2026 19:23:35 GMT"
+      "modified": "Fri, 27 Nov 2026 12:15:16 GMT"
     },
     "cutoff-66": {
       "hash": "d1eebb4219d852a407c01c0c8a7c0a75c0047c4eb0b8e17a0d175eb91d10cabb",
       "etag": null,
-      "modified": "Wed, 11 Nov 2026 16:06:01 GMT"
+      "modified": "Fri, 27 Nov 2026 14:19:11 GMT"
     },
     "cutoff-67": {
       "hash": "c5a995d087a5ba32dab402e2b018ba679ee2891b415f9ecff3c86adccb9d77a7",
       "etag": null,
-      "modified": "Fri, 06 Nov 2026 15:34:45 GMT"
+      "modified": "Fri, 27 Nov 2026 12:20:50 GMT"
     },
     "cutoff-68": {
       "hash": "e000d6da6ecb2b612de356bf3b4615cf13d428b713fcefa4c8e9b37181566839",
       "etag": null,
-      "modified": "Wed, 04 Nov 2026 13:13:10 GMT"
+      "modified": "Fri, 27 Nov 2026 13:54:22 GMT"
     },
     "cutoff-69": {
       "hash": "4bb2506715a972a8f396272c67d0ca272862c34f2469c89010852265bed6c965",
       "etag": null,
-      "modified": "Wed, 04 Nov 2026 14:17:20 GMT"
+      "modified": "Fri, 27 Nov 2026 13:00:19 GMT"
     },
     "cutoff-70": {
       "hash": "2dc6d0a86ce01ca3421257b209c307ae0629b88078a2f52a724ad627e73e2eb8",
       "etag": null,
-      "modified": "Wed, 04 Nov 2026 13:46:28 GMT"
+      "modified": "Fri, 27 Nov 2026 12:25:47 GMT"
     },
     "cutoff-71": {
       "hash": "2f7ddbfb1cef1d94e24aae27f69890886f352fece0735a1a3713be5b71715d8e",
       "etag": null,
-      "modified": "Wed, 04 Nov 2026 12:51:02 GMT"
+      "modified": "Fri, 27 Nov 2026 13:40:54 GMT"
     },
     "cutoff-72": {
       "hash": "f616c8ea9e8077d6e479baf53c92e4f2aced7c5d707d6be8e4d77d7384be563b",
       "etag": null,
-      "modified": "Wed, 04 Nov 2026 12:45:45 GMT"
+      "modified": "Fri, 27 Nov 2026 12:46:10 GMT"
     },
     "cutoff-73": {
       "hash": "9609599ec9466b12fd25e587d362a84586e53ab30c5ab4c8d3aab0487c3e651d",
       "etag": null,
-      "modified": "Wed, 04 Nov 2026 13:04:05 GMT"
+      "modified": "Fri, 27 Nov 2026 12:27:20 GMT"
     },
     "cutoff-74": {
       "hash": "b5b39f95c149596adb57c6d9a34625f5cf86be4d74ff4042eade1107115fac11",
       "etag": null,
-      "modified": "Wed, 04 Nov 2026 13:12:29 GMT"
+      "modified": "Fri, 27 Nov 2026 12:35:25 GMT"
     },
     "cutoff-75": {
       "hash": "e8c5aad37bc58270b48a7f1377411da2d0ae7e69de89069036a40d713d2fe93b",
       "etag": null,
-      "modified": "Wed, 04 Nov 2026 13:07:56 GMT"
+      "modified": "Fri, 27 Nov 2026 12:34:51 GMT"
     },
     "cutoff-76": {
       "hash": "a29ac4420dffebb27a737bf14be57ade9dc5bf1e67c80779b1debd7eb10b8032",
       "etag": null,
-      "modified": "Wed, 04 Nov 2026 12:59:42 GMT"
+      "modified": "Fri, 27 Nov 2026 12:16:29 GMT"
     },
     "cutoff-77": {
       "hash": "b204c5be45f95fdf92f4f1066fa10bed78b61c99b2e769dcd7f72d394e877325",
       "etag": null,
-      "modified": "Fri, 06 Nov 2026 19:23:37 GMT"
+      "modified": "Fri, 27 Nov 2026 12:42:12 GMT"
     },
     "cutoff-78": {
       "hash": "481a8e6edbfa29619d941ea957c1d9207980c3285e2a3e291df63bf756a3732f",
       "etag": null,
-      "modified": "Wed, 04 Nov 2026 14:10:55 GMT"
+      "modified": "Fri, 27 Nov 2026 12:49:20 GMT"
     },
     "cutoff-79": {
       "hash": "c7f4106f795ad2347affa94841fb6fb2d1b45b3579585939de449f965dc992e3",
       "etag": null,
-      "modified": "Fri, 06 Nov 2026 19:03:49 GMT"
+      "modified": "Fri, 27 Nov 2026 12:40:17 GMT"
     },
     "cutoff-80": {
       "hash": "58e270a3ca31e2f275f0761b75fba3eb6f89613c8a92c0db5f1188ebe79b5996",
       "etag": null,
-      "modified": "Wed, 11 Nov 2026 16:06:12 GMT"
+      "modified": "Fri, 27 Nov 2026 13:43:00 GMT"
     },
     "cutoff-81": {
       "hash": "3f27688eb40467b5c43fa7d7c3a7463cb4cf5bd9b73d3b4c0c9390b465184996",
       "etag": null,
-      "modified": "Wed, 04 Nov 2026 12:48:19 GMT"
+      "modified": "Fri, 27 Nov 2026 12:44:15 GMT"
     },
     "cutoff-82": {
       "hash": "fd69ebf278760f8994705452965f0ea25149d4566c7a09fe7156b39a534a7ebe",
       "etag": null,
-      "modified": "Wed, 04 Nov 2026 12:59:43 GMT"
+      "modified": "Fri, 27 Nov 2026 13:11:02 GMT"
     },
     "cutoff-83": {
       "hash": "37e3063542816a3a5eb32b0c51fcf791119199670168760c585ca9426783bc2f",
       "etag": null,
-      "modified": "Wed, 04 Nov 2026 13:11:54 GMT"
+      "modified": "Fri, 27 Nov 2026 12:38:59 GMT"
     },
     "cutoff-84": {
       "hash": "d33076a0bd3419b3b167dd4047854a01e82476b40b41c38a27ab37fc1dd69382",
       "etag": null,
-      "modified": "Wed, 04 Nov 2026 13:13:48 GMT"
+      "modified": "Fri, 27 Nov 2026 12:15:01 GMT"
     },
     "cutoff-85": {
       "hash": "530ae230acde8f9b172dcc70cd420861e3281fefc17d9210a4cdc643042b1771",
       "etag": null,
-      "modified": "Wed, 04 Nov 2026 13:32:13 GMT"
+      "modified": "Fri, 27 Nov 2026 13:04:20 GMT"
     },
     "cutoff-86": {
       "hash": "6e466c4dfad4552f17cc30fdc06cefcaf0a6c15651aca7930aefc69790c98e2c",
       "etag": null,
-      "modified": "Wed, 04 Nov 2026 19:44:32 GMT"
+      "modified": "Fri, 27 Nov 2026 12:55:23 GMT"
     },
     "cutoff-87": {
       "hash": "915ae798823197c40e5e21906ebae834823327c42dd16ba0bbe1fc78ec4ae05a",
       "etag": null,
-      "modified": "Fri, 06 Nov 2026 16:46:59 GMT"
+      "modified": "Fri, 27 Nov 2026 14:56:54 GMT"
     },
     "cutoff-88": {
       "hash": "0956804d489bd0a972e73ee80751fae6f0018357cd6ce7afcff0540e9919a51a",
       "etag": null,
-      "modified": "Wed, 04 Nov 2026 12:45:45 GMT"
+      "modified": "Fri, 27 Nov 2026 13:37:41 GMT"
     },
     "cutoff-89": {
       "hash": "d9469ac88ba7441145801339517d529d0d16c785a6c5227057cb5c0227ff7152",
       "etag": null,
-      "modified": "Wed, 04 Nov 2026 13:09:08 GMT"
+      "modified": "Fri, 27 Nov 2026 12:19:45 GMT"
     },
     "cutoff-90": {
       "hash": "ffe0e715677299e0000a87e8d9f4a08bd05db1b9b4d919f9c9812cf09e1931fa",
       "etag": null,
-      "modified": "Wed, 04 Nov 2026 12:51:04 GMT"
+      "modified": "Fri, 27 Nov 2026 14:02:56 GMT"
     },
     "cutoff-91": {
       "hash": "9b5e315b3c0d60290c8b13e67ede171579ca7d5753c272fd9da22de68e3c7ebe",
       "etag": null,
-      "modified": "Fri, 06 Nov 2026 18:33:22 GMT"
+      "modified": "Fri, 27 Nov 2026 12:58:11 GMT"
     },
     "cutoff-92": {
       "hash": "8f17427bf776c212d314a33eee8a56826f13fe251ae461b2044480ece3531637",
       "etag": null,
-      "modified": "Fri, 06 Nov 2026 18:12:19 GMT"
+      "modified": "Fri, 27 Nov 2026 12:25:42 GMT"
     },
     "cutoff-93": {
       "hash": "05551829c56d94c1ed6760bae0ddee52caa3305f1beec47346bbf154839eab52",
       "etag": null,
-      "modified": "Fri, 06 Nov 2026 18:12:35 GMT"
+      "modified": "Fri, 27 Nov 2026 12:54:59 GMT"
     },
     "cutoff-94": {
       "hash": "4b109828d748a6db5c6cc56f481d406873913fcb45546c949c3b6e91eb35d25d",
       "etag": null,
-      "modified": "Wed, 04 Nov 2026 13:40:56 GMT"
+      "modified": "Fri, 27 Nov 2026 14:56:52 GMT"
     },
     "cutoff-95": {
       "hash": "11956020727f7bf476cb1d8330ffb8bf5142adff2d3a4d4b48ddd826f5233309",
       "etag": null,
-      "modified": "Wed, 04 Nov 2026 12:45:25 GMT"
+      "modified": "Fri, 27 Nov 2026 14:13:50 GMT"
     },
     "cutoff-96": {
       "hash": "eef2a97bc2f71e6b1928fd0a197d589751eec2f9945ad5033fedfd01779a5b0b",
       "etag": null,
-      "modified": "Wed, 04 Nov 2026 13:06:45 GMT"
+      "modified": "Fri, 27 Nov 2026 12:26:04 GMT"
     },
     "cutoff-97": {
       "hash": "3aa3483282294931c2a9c850e282762c147ae6360bc5d515d1a1d40fa7c70ce8",
       "etag": null,
-      "modified": "Wed, 04 Nov 2026 14:11:30 GMT"
+      "modified": "Fri, 27 Nov 2026 14:46:58 GMT"
     },
     "cutoff-98": {
       "hash": "eb70e554084be090732240c128bd7aa4f7c954e9a0ff05133a59403c21800163",
       "etag": null,
-      "modified": "Fri, 06 Nov 2026 14:39:32 GMT"
+      "modified": "Fri, 27 Nov 2026 14:56:55 GMT"
     },
     "cutoff-99": {
       "hash": "94883be87070fdbfc0995569b4c8a9a43f6da40d6fd3f57fd3e17a07d5cb302c",
       "etag": null,
-      "modified": "Fri, 06 Nov 2026 18:25:16 GMT"
+      "modified": "Fri, 27 Nov 2026 14:56:53 GMT"
     },
     "cutoff-100": {
       "hash": "f1e0f31e20b805916a40846de896707e68ed99228277fff8709f510468cad9dd",
       "etag": null,
-      "modified": "Fri, 06 Nov 2026 18:24:57 GMT"
+      "modified": "Fri, 27 Nov 2026 14:56:53 GMT"
     },
     "cutoff-101": {
       "hash": "49dc06b177015562739c052bf9e174d1fe60043cfacd3777332eb413d46fefa7",
       "etag": null,
-      "modified": "Fri, 06 Nov 2026 18:25:29 GMT"
+      "modified": "Fri, 27 Nov 2026 12:20:43 GMT"
     },
     "cutoff-102": {
       "hash": "6ea87b0e5f2c2e8cc0b5a54d3f1182ae8ac51b04fdce06f33de0670724e09398",
       "etag": null,
-      "modified": "Wed, 18 Nov 2026 18:24:04 GMT"
+      "modified": "Fri, 27 Nov 2026 12:21:35 GMT"
     },
     "cutoff-103": {
       "hash": "6f42bcac1dfbbf918cfe87e869d1b68659377a52fb94041a064bcffa9be16240",
       "etag": null,
-      "modified": "Wed, 18 Nov 2026 18:56:23 GMT"
+      "modified": "Fri, 27 Nov 2026 14:56:55 GMT"
     },
     "cutoff-104": {
       "hash": "c47a81155cd5dbbb2fcf2d057321153c22fcfba391895974cf5a618d909800f8",
       "etag": null,
-      "modified": "Wed, 18 Nov 2026 18:24:13 GMT"
+      "modified": "Fri, 27 Nov 2026 14:56:53 GMT"
     },
     "cutoff-105": {
       "hash": "6b3503300355d595592473f94ef1c433439011966dfa2138a64bd3d420f09940",
       "etag": null,
-      "modified": "Wed, 18 Nov 2026 18:24:25 GMT"
+      "modified": "Fri, 27 Nov 2026 13:49:04 GMT"
     },
     "cutoff-106": {
       "hash": "f3ce9e7fa4e7325bc5bb646119eddc30f06a9a4eac72244814a35b77e19800b8",
       "etag": null,
-      "modified": "Wed, 04 Nov 2026 13:04:04 GMT"
+      "modified": "Fri, 27 Nov 2026 13:42:34 GMT"
     },
     "cutoff-107": {
       "hash": "fb08a01deae79bb72cba8351f6ed9c182efbb9f89a0c09812b4a5b8a3bacb70e",
       "etag": null,
-      "modified": "Wed, 04 Nov 2026 12:56:28 GMT"
+      "modified": "Fri, 27 Nov 2026 12:38:12 GMT"
     },
     "cutoff-108": {
       "hash": "28fbc9e4fc062148275a4d9ecad7eae0da178ddba7830dc3c4205d1ec6ed4e69",
       "etag": null,
-      "modified": "Wed, 04 Nov 2026 17:24:45 GMT"
+      "modified": "Fri, 27 Nov 2026 14:14:52 GMT"
     },
     "cutoff-109": {
       "hash": "3df24807cf35098ad84ef535957b51dd23c916494364db3baedde2c06fee07a3",
       "etag": null,
-      "modified": "Mon, 09 Nov 2026 15:49:48 GMT"
+      "modified": "Fri, 27 Nov 2026 13:49:25 GMT"
     },
     "cutoff-110": {
       "hash": "c1c2ab826fdac61ecd1766458c42055a568abe440c820559b36ce2db9ff508c0",
       "etag": null,
-      "modified": "Mon, 09 Nov 2026 16:02:46 GMT"
+      "modified": "Fri, 27 Nov 2026 12:30:13 GMT"
     },
     "cutoff-111": {
       "hash": "023df9078c3061d3e879c1d94feaa76289a567b5811427f5fa48502f76052b17",
       "etag": null,
-      "modified": "Wed, 04 Nov 2026 13:15:27 GMT"
+      "modified": "Fri, 27 Nov 2026 12:26:35 GMT"
     },
     "cutoff-112": {
       "hash": "5c2fbb099c653552333e7de742aca0e7a243572dba30df3181c721999b882b57",
       "etag": null,
-      "modified": "Wed, 04 Nov 2026 12:45:53 GMT"
+      "modified": "Fri, 27 Nov 2026 12:58:00 GMT"
     },
     "cutoff-113": {
       "hash": "9d6bd104a942d4bc47f722b90440b6cf8fab71226e1595aaffaa2630f6306bba",
       "etag": null,
-      "modified": "Wed, 04 Nov 2026 13:08:20 GMT"
+      "modified": "Fri, 27 Nov 2026 12:55:23 GMT"
     },
     "cutoff-114": {
       "hash": "f3cbe6afbf9ffcae2439f2bc3e40d4da50e38bb7de654b39316d0079e5127c57",
       "etag": null,
-      "modified": "Wed, 04 Nov 2026 13:30:07 GMT"
+      "modified": "Fri, 27 Nov 2026 12:37:26 GMT"
     },
     "cutoff-115": {
       "hash": "4d1565a4ebffd6cf5b23569fe00075e775132ddcda35b11faffef2bd3c0dd9cf",
       "etag": null,
-      "modified": "Wed, 04 Nov 2026 14:27:15 GMT"
+      "modified": "Fri, 27 Nov 2026 12:43:51 GMT"
     },
     "cutoff-116": {
       "hash": "53f0f33a22f26f10348a8ad2ffb8092478737403b2a5103b880532302a7acc70",
       "etag": null,
-      "modified": "Wed, 04 Nov 2026 13:05:39 GMT"
+      "modified": "Fri, 27 Nov 2026 14:41:17 GMT"
     },
     "cutoff-117": {
       "hash": "671f6c8ccc82e1f5a976c326f77367f64ae72dc80caf8838ad52f51135a462bf",
       "etag": null,
-      "modified": "Wed, 04 Nov 2026 13:07:58 GMT"
+      "modified": "Fri, 27 Nov 2026 12:25:41 GMT"
     },
     "cutoff-118": {
       "hash": "12208e7c11c633bbdaed2100f7a0d4cd519ac69c0248c8e9f74cd83c229702f0",
@@ -1125,242 +1125,242 @@
     "cutoff-164": {
       "hash": "4cc2677a10d40eaf51e3c7198ee49c6adf7f20206c3dda3954415201bdb5555e",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:45 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:49 GMT"
     },
     "cutoff-165": {
       "hash": "2cfa190bd38bfadac3004e6e841825ff324b25269df7f1b4664d8a5070645853",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:45 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:50 GMT"
     },
     "cutoff-166": {
       "hash": "8348e271d27136774d6e9cc59dfa66085b7d2eb77132e311e397a8d6b8c666fa",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:46 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:50 GMT"
     },
     "cutoff-167": {
       "hash": "fe075a8f3862542e32963dc715b2e23044364731f652fdc7a574dc70388f5285",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:46 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:50 GMT"
     },
     "cutoff-168": {
       "hash": "1f7789fee6c2ff14bebeb204901cea871638225cc81608d58025431acc605cea",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:46 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:51 GMT"
     },
     "cutoff-169": {
       "hash": "4ded672d2a032d6a7f3c16bae65461edbd3d6d44ddd82f0c3d77e11202434c00",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:46 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:51 GMT"
     },
     "cutoff-170": {
       "hash": "c302590a11e7aba627fa6363f0829fd3fcb5c19ccfe8b98d0dc065ea34b175e4",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:47 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:51 GMT"
     },
     "cutoff-171": {
       "hash": "0d6eae82716d9698c4441ab6b722b3ecb66d9373f9c73ae1860c9dba7218e99d",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:47 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:51 GMT"
     },
     "cutoff-172": {
       "hash": "df5ab6c8cecdfba92065263ce7d4298a974cc11eda340e278e53d6fc16fa043c",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:47 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:51 GMT"
     },
     "cutoff-173": {
       "hash": "98971c2c8d59a9020d86a9848a1c43a9486afc8d9d4a7ed9feb9c8e455cc719f",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:47 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:51 GMT"
     },
     "cutoff-174": {
       "hash": "6a99fa70aed25b1895c496d86fe373eb57b37adc6ca81e70c34764a930fefe98",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:47 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:52 GMT"
     },
     "cutoff-175": {
       "hash": "8c199277b36fb1d83730f6b752cd10e03bfc869d79adf342dc41f1026a04a71a",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:47 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:52 GMT"
     },
     "cutoff-176": {
       "hash": "c499328502d7bef0646830cb368b0b1d59d047a4215975e9ddf3cdd92d03e497",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:48 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:52 GMT"
     },
     "cutoff-177": {
       "hash": "8587f20038b66eaf696a878ee77b98684a87c412b9e85e72f40d142ae154ed1f",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:48 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:52 GMT"
     },
     "cutoff-178": {
       "hash": "a9af7e4d5e31b0790ffa8649b7778144e2cfbd750ba21652a46c6fd5f481e951",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:48 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:52 GMT"
     },
     "cutoff-179": {
       "hash": "87f9fce8225721a017afa69a98913a2a98b1417a478c01cbb6089f856cf63f01",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:48 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:52 GMT"
     },
     "cutoff-180": {
       "hash": "54cf626a1522ad7bb1d3152a1af3ac7ad752a9fac1f51f8e3da73d2399d9c461",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:48 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:53 GMT"
     },
     "cutoff-181": {
       "hash": "d93922298215829e958c7db773f8306a315ec29de5081f8320c70812028f05a6",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:49 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:53 GMT"
     },
     "cutoff-182": {
       "hash": "6b886a08427002611e1ca5ab66b21080d60d600aa0c56d81157a5af1daa0ec72",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:49 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:53 GMT"
     },
     "cutoff-183": {
       "hash": "cd2dc8ea856fac81c377c9cce542e928353c2536e765a73ffdebaa0a377ea774",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:49 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:53 GMT"
     },
     "cutoff-184": {
       "hash": "43ac55ff356664b6ff786f0018dd58485c028134e4c444c518c00f14d6023c78",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:49 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:53 GMT"
     },
     "cutoff-185": {
       "hash": "463c742fe1fca6b3ffec7b914846a996c46935cfdb2206c29c7d22fe13ae2867",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:50 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:54 GMT"
     },
     "cutoff-186": {
       "hash": "c1ff3cf133f053a7005f9447ff7311145897c4adb4896acbfc752aadb2983fb7",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:50 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:54 GMT"
     },
     "cutoff-187": {
       "hash": "84e9451094e2d05cb00f8e9016656aeb40d5a8ccce0e257b4e6e13e684b0a148",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:50 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:54 GMT"
     },
     "cutoff-188": {
       "hash": "e47c033a22a5635f22f9e7d61c8bdb9fa3a82444fb30f0ea03074cdb082d1c3a",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:50 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:54 GMT"
     },
     "cutoff-189": {
       "hash": "f5c4e826558dc50c36057229f0d1b1b2ff042739a83cf67683993cae693de38d",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:50 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:55 GMT"
     },
     "cutoff-190": {
       "hash": "ebe350e619b8ee7a6613135a6d265ab48dbd37b594b50399eb82e6d4aecde737",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:50 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:55 GMT"
     },
     "cutoff-191": {
       "hash": "2eea43c8203c60b3d7ad60329d08260cf0f159d7e0f1decee3ca3ffcb0d02258",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:50 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:55 GMT"
     },
     "cutoff-192": {
       "hash": "dea5d0a509cd9c6249933a42b187043f80b71fd2710889fed8f19cc1e21c2d35",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:50 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:55 GMT"
     },
     "cutoff-193": {
       "hash": "e276777e26155d73b5035af156146c85cdd621f6e4e0ed665bf009348c2cdbd6",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:51 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:55 GMT"
     },
     "cutoff-194": {
       "hash": "2c4853e0b38f66a609b88292d638dfd46894d73ef89eba92990ef73647dd3806",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:51 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:55 GMT"
     },
     "cutoff-195": {
       "hash": "ade68cbfb38f7e1be23ea83ae78c7a53341498655df987676ab62cf4cb370add",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:51 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:55 GMT"
     },
     "cutoff-196": {
       "hash": "37867785b753fa58b05717ac42386e55a0f9eeeefb297cc71d6045bf250f0253",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:51 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:55 GMT"
     },
     "cutoff-197": {
       "hash": "8a6e97debdbfad3b5784f69c4a5456fa42a50c37df56aa82f30169680bf51d92",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:51 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:56 GMT"
     },
     "cutoff-198": {
       "hash": "42a42b45f539d2d86eaa2d2b9d4d7ba47e6220763b41cd765d7126761223fe3e",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:52 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:56 GMT"
     },
     "cutoff-199": {
       "hash": "e4ed0e75be71b4e96f4948608ac93dc17ff5d5130126f89d3ed1a56708b0f823",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:52 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:56 GMT"
     },
     "cutoff-200": {
       "hash": "530011d7f3df01396861a9cedee6ceeba975f39a0f38015a549d30128dafbbf5",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:52 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:56 GMT"
     },
     "cutoff-201": {
       "hash": "4bfbaf95c7e9c2a0964c2c55966eb71b2e11a51277feced64e31ac7864840042",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:52 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:56 GMT"
     },
     "cutoff-202": {
       "hash": "723e6be1e3e86091d72a178aba1d4c921d1bfc6bd497e8e4153478b880d3e5d4",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:52 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:57 GMT"
     },
     "cutoff-203": {
       "hash": "2fcf320c45ee7f983007f0064bd09f955d3001679fd895440cff6207a5ef2209",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:52 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:57 GMT"
     },
     "cutoff-204": {
       "hash": "ff175b116b3de686def556400f5dd948df7187a706a3713d2dd21e4e6d93e1be",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:52 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:57 GMT"
     },
     "cutoff-205": {
       "hash": "650ef8d7c7d40db8f9a25509a54d4c6f3d9b21fa997d004f01e3759d1c7427eb",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:53 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:57 GMT"
     },
     "cutoff-206": {
       "hash": "57c7572b5bc5dc5b18f67c89f058e5512ccd87e3853add0ad306bc4685e938f8",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:53 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:57 GMT"
     },
     "cutoff-207": {
       "hash": "62687e58c9f4e671619f34735bd9da5b86878d6d4ee6bee1fdc15e27ffa6d1d1",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:53 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:57 GMT"
     },
     "cutoff-208": {
       "hash": "3e665341572fc8cca0725481f929c50d409c34d50040517a94cd02bf50603135",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:53 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:58 GMT"
     },
     "cutoff-209": {
       "hash": "643ab6bcd31051574d6e77d3976e73cb5989606959f410b1cab0b8c6d0be140c",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:54 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:58 GMT"
     },
     "cutoff-210": {
       "hash": "e50e42b8dfb2ba9c2411327b854fab5ea8182dceca4e01d23230d5024585e31a",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:54 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:58 GMT"
     },
     "cutoff-211": {
       "hash": "ab0eabcd83ea5c8976d3f02e16c4b6a6546ffe74cf493b87ea6d528520ee949b",
       "etag": null,
-      "modified": "Thu, 26 Nov 2026 21:55:54 GMT"
+      "modified": "Fri, 27 Nov 2026 21:38:58 GMT"
     },
     "cutoff-212": {
       "hash": "b3f2f811051c8d05786c836d9dd3f8cb8255e44cc1a523f3f194728b47593787",
@@ -1374,13 +1374,13 @@
     },
     "cutoff-214": {
       "hash": "c7764f768b54740639eae51ff051d33d3e682b581af6b82eec289f9de9172ee7",
-      "etag": "\"1795728630-0\"",
-      "modified": "Thu, 26 Nov 2026 21:30:30 GMT"
+      "etag": "\"1795814226-0\"",
+      "modified": "Fri, 27 Nov 2026 21:17:06 GMT"
     },
     "cutoff-215": {
       "hash": "3663af9d457525d420fc1df70b680785c68f1f0a0b6a7498296134be49cbbf45",
-      "etag": "\"1795728630-0\"",
-      "modified": "Thu, 26 Nov 2026 21:30:30 GMT"
+      "etag": "\"1795814227-0\"",
+      "modified": "Fri, 27 Nov 2026 21:17:07 GMT"
     },
     "cutoff-216": {
       "hash": "5db43de707ca6ea565ce8c325266cfc76c0eaa51175835106554ac2d47fd735d",
@@ -1389,33 +1389,33 @@
     },
     "cutoff-217": {
       "hash": "da5701e21ebc740bc00ed7943f38afc2bae12e1c31922844caa0698aca468d33",
-      "etag": "\"1795727101-0\"",
-      "modified": "Thu, 26 Nov 2026 21:05:01 GMT"
+      "etag": "\"1795814227-0\"",
+      "modified": "Fri, 27 Nov 2026 21:17:07 GMT"
     },
     "cutoff-218": {
       "hash": "d75ccfe324966f1eb1dcb2755b822ebc5b57eb3a740dbd799053af98ec0ebc99",
-      "etag": "\"1795728631-0\"",
-      "modified": "Thu, 26 Nov 2026 21:30:31 GMT"
+      "etag": "\"1795814228-0\"",
+      "modified": "Fri, 27 Nov 2026 21:17:08 GMT"
     },
     "cutoff-219": {
       "hash": "9b78664fe906f7f6eca344977e4eaeca290dc6c1b58d4ea8f6fd85cb0c896e1c",
-      "etag": "\"1795728632-0\"",
-      "modified": "Thu, 26 Nov 2026 21:30:32 GMT"
+      "etag": "\"1795814228-0\"",
+      "modified": "Fri, 27 Nov 2026 21:17:08 GMT"
     },
     "cutoff-220": {
       "hash": "f3ae67d7315b57bdb556ce670c8fc27dc9906303c3654b92adfb5f5edcc67208",
-      "etag": "\"1795728632-0\"",
-      "modified": "Thu, 26 Nov 2026 21:30:32 GMT"
+      "etag": "\"1795814228-0\"",
+      "modified": "Fri, 27 Nov 2026 21:17:08 GMT"
     },
     "cutoff-221": {
       "hash": "879355713b4c1fd29c341b9814713005b4e254a6651d629cf333fb1e9a06874f",
-      "etag": "\"1795728632-0\"",
-      "modified": "Thu, 26 Nov 2026 21:30:32 GMT"
+      "etag": "\"1795814228-0\"",
+      "modified": "Fri, 27 Nov 2026 21:17:08 GMT"
     },
     "cutoff-222": {
       "hash": "c8ec86d4e9bab267ef6f3567bcb34021e8fa7322b64a4e9148c9a8e860caf065",
-      "etag": "\"1795728632-0\"",
-      "modified": "Thu, 26 Nov 2026 21:30:32 GMT"
+      "etag": "\"1795814229-0\"",
+      "modified": "Fri, 27 Nov 2026 21:17:09 GMT"
     },
     "cutoff-223": {
       "hash": "9fdcddb062581ca759cfe888dbc890f8262e6821bdc2d2ef7e2998943c253074",
